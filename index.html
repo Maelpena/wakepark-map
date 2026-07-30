@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Wake Park Map — téléskis nautiques de France</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<aside id="sidebar">
+  <header>
+    <h1>Wake Park Map</h1>
+    <p class="tagline">Téléskis nautiques &amp; cable parks de France</p>
+  </header>
+
+  <div class="controls">
+    <input type="search" id="search" placeholder="Rechercher un spot, une ville…" autocomplete="off">
+
+    <div class="field">
+      <label>Type d'installation</label>
+      <div class="chips" id="type-filters">
+        <button class="chip active" data-type="fullsize"><i class="dot t-fullsize"></i>Full-size</button>
+        <button class="chip active" data-type="system2"><i class="dot t-system2"></i>System 2.0</button>
+        <button class="chip active" data-type="both"><i class="dot t-both"></i>Les deux</button>
+        <button class="chip active" data-type="unknown"><i class="dot t-unknown"></i>Indéterminé</button>
+      </div>
+    </div>
+
+    <div class="field">
+      <label for="country">Pays</label>
+      <select id="country"><option value="">Tous les pays</option></select>
+    </div>
+
+    <p class="count"><strong id="count">0</strong> <span id="count-label">spots affichés</span></p>
+  </div>
+
+  <div id="results"></div>
+
+  <footer>
+    <span id="total-note"></span>
+    Données : OpenStreetMap, waketricks.com, tsn44.com.<br>
+    Fonds de carte © OpenStreetMap contributors.
+  </footer>
+</aside>
+
+<main id="map"></main>
+
+<section id="detail" class="hidden" aria-live="polite">
+  <button id="detail-close" title="Fermer">&times;</button>
+  <div id="detail-body"></div>
+</section>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<script src="data/spots.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

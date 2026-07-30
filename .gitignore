@@ -1,0 +1,12 @@
+# Rien à builder ici : l'app est statique et data/spots.js est versionné volontairement
+# (c'est lui que GitHub Pages sert).
+
+# Cruft système / éditeur
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Dépendances éventuelles si les outils en gagnent un jour
+node_modules/

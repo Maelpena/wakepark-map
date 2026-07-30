@@ -1,0 +1,4642 @@
+[
+ {
+  "country": "FR",
+  "osm": "node/670074956",
+  "lat": 44.9788811,
+  "lon": -1.1384137,
+  "tags": {
+   "description": "Borne en granit gravée IGN - Support en mauvais état, point exploitable en 1985",
+   "ele": "42.8",
+   "man_made": "survey_point",
+   "name": "WaterSki",
+   "note": "Ne pas déplacer ce point, cf. - Do not move this node, see - http://wiki.openstreetmap.org/wiki/WikiProject_France/Repères_Géodésiques#Permanence_des_rep.C3.A8res",
+   "ref": "3321404 - 1",
+   "source": "©IGN 2010 dans le cadre de la cartographie réglementaire",
+   "sport": "water_ski",
+   "url": "https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=3321404"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/931618046",
+  "lat": 46.3312051,
+  "lon": -1.3080615,
+  "tags": {
+   "club": "sport",
+   "leisure": "sports_centre",
+   "name": "Base nautique \"Atlantic Wake Park\"",
+   "operator": "Atlantic Wake Park",
+   "ref:FR:NAF": "9329Z",
+   "ref:FR:SIREN": "809162753",
+   "ref:FR:SIRET": "80916275300010",
+   "source": "INSEE - 2024-10",
+   "sport": "sailing;wakeboarding;water_ski;water_sports",
+   "website": "https://www.atlanticwakepark.com"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/1024990977",
+  "lat": 45.0891015,
+  "lon": -1.1400333,
+  "tags": {
+   "alt_name": "SNCB",
+   "name": "Ski nautique club de Bombannes",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/1329865682",
+  "lat": 45.2318033,
+  "lon": 5.8369566,
+  "tags": {
+   "leisure": "slipway",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/1329873676",
+  "lat": 45.2323871,
+  "lon": 5.8370295,
+  "tags": {
+   "amenity": "ramp",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/1408522963",
+  "lat": 45.7105013,
+  "lon": 5.8893142,
+  "tags": {
+   "club": "sport",
+   "name": "Aix'n Ride",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/1445685895",
+  "lat": 45.305254,
+  "lon": 5.9417381,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "WAM PARK",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/1751228298",
+  "lat": 44.2846449,
+  "lon": 4.6936276,
+  "tags": {
+   "leisure": "water_park",
+   "name": "EXO 84",
+   "operator": "EXO Loisirs",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.exoloisirs.com/fr/content/exo-84-la-motte"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/1766715816",
+  "lat": 46.8903547,
+  "lon": -0.0206383,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "Téléski nautique Moncontour",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/2153160985",
+  "lat": 48.2051028,
+  "lon": 3.2739904,
+  "tags": {
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/2347263271",
+  "lat": 49.0318177,
+  "lon": 2.0448659,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/2356452050",
+  "lat": 44.710374,
+  "lon": -0.4395463,
+  "tags": {
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/2420883286",
+  "lat": 45.4145307,
+  "lon": 1.162528,
+  "tags": {
+   "name": "Rouffiac Teleski",
+   "sport": "wakeboarding;water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/2431400870",
+  "lat": 45.1842235,
+  "lon": -1.0861916,
+  "tags": {
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/2934164216",
+  "lat": 43.5677276,
+  "lon": 4.1079671,
+  "tags": {
+   "leisure": "pitch",
+   "name": "Stade de ski nautique",
+   "source": "data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 2014",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/2949202603",
+  "lat": 42.8830587,
+  "lon": 1.6246205,
+  "tags": {
+   "leisure": "playground",
+   "name": "Base nautique",
+   "sport": "water_ski",
+   "tourism": "picnic_site"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/2950489169",
+  "lat": 47.28154,
+  "lon": 5.17894,
+  "tags": {
+   "leisure": "pitch",
+   "name": "Stade de ski nautique",
+   "source": "data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 2014",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/2964765665",
+  "lat": 43.6088889,
+  "lon": 7.1276166,
+  "tags": {
+   "leisure": "pitch",
+   "name": "Ski club de la Siesta",
+   "source": "data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 2014",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/2964867398",
+  "lat": 43.5697222,
+  "lon": 7.1025,
+  "tags": {
+   "leisure": "pitch",
+   "name": "Ski Club d'Antibes Juan Les Pins",
+   "source": "data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 2014",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/2964867399",
+  "lat": 43.5686111,
+  "lon": 7.1063889,
+  "tags": {
+   "leisure": "pitch",
+   "name": "Star Ski Club",
+   "source": "data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 2014",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/2964867400",
+  "lat": 43.5665932,
+  "lon": 7.1129964,
+  "tags": {
+   "leisure": "pitch",
+   "name": "Water Sports Service et Yatching",
+   "source": "data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 2014",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/2964871782",
+  "lat": 43.5663889,
+  "lon": 7.1136111,
+  "tags": {
+   "leisure": "pitch",
+   "name": "Belles Rives Ski Nautique Club",
+   "source": "data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 2014",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/2964884706",
+  "lat": 43.5702778,
+  "lon": 7.0969444,
+  "tags": {
+   "leisure": "pitch",
+   "name": "Ski Club Grand Bleue",
+   "source": "data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 2014",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/2964884707",
+  "lat": 43.5702778,
+  "lon": 7.0933333,
+  "tags": {
+   "leisure": "pitch",
+   "name": "Ski Nautique",
+   "source": "data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 2014",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/3010941374",
+  "lat": 43.56003,
+  "lon": 4.1212,
+  "tags": {
+   "leisure": "pitch",
+   "name": "Site de ski nautique du Ponant",
+   "source": "data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 2014",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/3106418348",
+  "lat": 46.4005894,
+  "lon": 6.580384,
+  "tags": {
+   "leisure": "pitch",
+   "name": "Ski Nautique",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/3162663362",
+  "lat": 48.3754561,
+  "lon": 2.9010613,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Wam Park La Grande Paroisse",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/3304281368",
+  "lat": 47.00071,
+  "lon": 5.140235,
+  "tags": {
+   "leisure": "pitch",
+   "name": "Stade de Ski Nautique",
+   "source": "data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 2014",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/3479307442",
+  "lat": 43.6514296,
+  "lon": 1.4193001,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Wam Park - Toulouse - Sesquières",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/3655685340",
+  "lat": 43.5667635,
+  "lon": 4.1001072,
+  "tags": {
+   "description": "Water Action Sport School",
+   "leisure": "sports_centre",
+   "name": "FluidW",
+   "sport": "kitesurfing;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/3655763362",
+  "lat": 43.5662746,
+  "lon": 4.1012508,
+  "tags": {
+   "contact:facebook": "WakeParkCable",
+   "description": "Acceuil",
+   "email": "info@wakeparkcable.com",
+   "leisure": "sports_centre",
+   "name": "WakeParkCable",
+   "phone": "+33 6 52567894",
+   "sport": "wakeboarding",
+   "website": "https://wakeparkcable.com/",
+   "wheelchair": "yes"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/3759160615",
+  "lat": 46.08833,
+  "lon": 4.75333,
+  "tags": {
+   "leisure": "pitch",
+   "name": "Site de Ski Nautique",
+   "source": "data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 2014",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/3923744974",
+  "lat": 47.3532033,
+  "lon": 6.3814772,
+  "tags": {
+   "name": "Lonot",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/4250278402",
+  "lat": 44.8805192,
+  "lon": 0.823637,
+  "tags": {
+   "leisure": "pitch",
+   "name": "Stade de ski nautique",
+   "source": "data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 2014",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/4326920214",
+  "lat": 44.7116597,
+  "lon": 5.2659005,
+  "tags": {
+   "addr:city": "VERCHENY",
+   "addr:place": "Le Gap",
+   "addr:postcode": "26340",
+   "leisure": "sports_centre",
+   "name": "Delta Wakepark",
+   "operator": "Delta Wakepark",
+   "sport": "multi;wakeboarding",
+   "website": "https://www.deltawaterpark.com"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/4351280525",
+  "lat": 47.575731,
+  "lon": -1.6227983,
+  "tags": {
+   "aerialway": "station",
+   "operator": "TSN44.2",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/4382966647",
+  "lat": 45.4556804,
+  "lon": 4.7800433,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "Wam Park Condrieu",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/4383225869",
+  "lat": 43.2016545,
+  "lon": -0.2620684,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Les Ôkiri",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.lesokiri.com/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/4390731422",
+  "lat": 44.9073126,
+  "lon": 5.6710792,
+  "tags": {
+   "description": "Ecole de ski nautique, wakeboard et wake surf",
+   "leisure": "sports_centre",
+   "name": "Wake It Easy",
+   "phone": "+33 6 13 10 32 76",
+   "sport": "water_ski",
+   "website": "https://www.wakeiteasy.com/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/4392819072",
+  "lat": 44.912846,
+  "lon": 5.670156,
+  "tags": {
+   "description": "Ecole de ski nautique",
+   "leisure": "sports_centre",
+   "name": "Club nautique dauphinois",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/4395025257",
+  "lat": 47.2616258,
+  "lon": -2.0151117,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "TSN44",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/4395761613",
+  "lat": 43.6528824,
+  "lon": 5.5899252,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "EXO Loisirs",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/4395775985",
+  "lat": 45.040904,
+  "lon": -0.7265074,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "WAM PARK",
+   "public_transport": "station",
+   "ref": "6",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/4402864165",
+  "lat": 43.4862965,
+  "lon": 1.3180029,
+  "tags": {
+   "addr:city": "Seysses",
+   "addr:housenumber": "900",
+   "addr:postcode": "31600",
+   "addr:street": "Route de Muret",
+   "leisure": "sports_centre",
+   "name": "Vincent Soubiron Ski School",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/5034765571",
+  "lat": 48.7740704,
+  "lon": 2.4262058,
+  "tags": {
+   "aerialway": "station",
+   "public_transport": "station",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/5697427585",
+  "lat": 43.4440944,
+  "lon": 6.6943898,
+  "tags": {
+   "leisure": "pitch",
+   "name": "South Wake Park",
+   "sport": "wakeboarding",
+   "website": "https://southwakepark.fr"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/6580389388",
+  "lat": 43.5184779,
+  "lon": 6.9414037,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "La Rague - Watersport",
+   "phone": "+33 6 10 78 94 58",
+   "sport": "jetskiing;wakeboarding;paddle"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/6712647988",
+  "lat": 43.4682072,
+  "lon": 6.5717694,
+  "tags": {
+   "email": "base-frejus@wampark.fr",
+   "leisure": "sports_centre",
+   "name": "WAM PARK Fréjus - Le Muy",
+   "operator": "WAM PARK",
+   "phone": "+33 4 80 80 93 35",
+   "sport": "wakeboarding;water_ski",
+   "website": "https://www.wampark.fr/base/frejus-le-muy/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/6823719545",
+  "lat": 45.3203304,
+  "lon": 5.539648,
+  "tags": {
+   "addr:city": "Moirans",
+   "addr:housenumber": "793",
+   "addr:postcode": "38430",
+   "addr:street": "Route du Grand Verger",
+   "leisure": "water_park",
+   "name": "Addict Wake & HydroFoil Park Grenoble Moirans",
+   "operator": "Wake Up Park",
+   "sport": "wakeboarding",
+   "website": "https://www.wup-park.com"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/6900636301",
+  "lat": 49.0319126,
+  "lon": 2.0443828,
+  "tags": {
+   "charge": "20 EUR/h",
+   "fee": "yes",
+   "leisure": "sports_centre",
+   "name": "Téléski nautique - Accueil",
+   "sport": "wakeboarding;water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/7069147734",
+  "lat": 43.3559388,
+  "lon": 3.5352494,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Kithau",
+   "phone": "+33 6 87 07 11 93",
+   "sport": "water_ski",
+   "website": "https://www.kithau.com"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/7231199232",
+  "lat": 48.428671,
+  "lon": -4.6086992,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Advance Ride",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/8579025168",
+  "lat": 48.7844663,
+  "lon": 2.4882822,
+  "tags": {
+   "addr:city": "Saint-Maur-des-Fossés",
+   "addr:housenumber": "19",
+   "addr:postcode": "94100",
+   "club": "sport",
+   "name": "Ski nautique club de Saint-Maur",
+   "operator": "SNC Saint-Maur",
+   "sport": "wakeboarding;water_ski",
+   "website": "https://skinautique-saintmaur.fr/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/8702070094",
+  "lat": 43.529666,
+  "lon": -1.1707002,
+  "tags": {
+   "addr:city": "SAMES",
+   "addr:postcode": "64520",
+   "addr:street": "Quartier Saint-Jean",
+   "email": "contact@teleskinautique-sames.com",
+   "leisure": "water_park",
+   "name": "EXO64 - téleski nautique",
+   "operator": "EXO Loisirs",
+   "phone": "+33 6 48 35 02 77",
+   "postal_code": "64520",
+   "ref:FR:CRTA": "ASCAQU064FS000RV",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.exoloisirs.com/fr/content/exo-64-tnsames"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/8888884536",
+  "lat": 47.1044685,
+  "lon": 4.950816,
+  "tags": {
+   "aerialway": "station",
+   "operator": "TNCO",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/8904851083",
+  "lat": 43.1392438,
+  "lon": 3.1457033,
+  "tags": {
+   "leisure": "water_park",
+   "name": "MARINA O ZONE",
+   "operator": "MARINA O ZONE",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.marinaozone.com/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/9040202552",
+  "lat": 47.8572576,
+  "lon": -3.2144115,
+  "tags": {
+   "addr:city": "Inzinzac-Lochrist",
+   "addr:postcode": "56650",
+   "addr:street": "Le Rudet",
+   "email": "contact@westwakepark.fr",
+   "fee": "yes",
+   "fixme": "Add buildings and items in water. Openning times and prices.",
+   "leisure": "sports_centre",
+   "name": "West Wake Park",
+   "operator": "West Wake Park",
+   "phone": "+332 30 91 98 85",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.westwakepark.fr/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/9248595949",
+  "lat": 42.5166221,
+  "lon": 2.8112407,
+  "tags": {
+   "aerialway": "station",
+   "operator": "TSJ Wake Park",
+   "public_transport": "station",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/9248595951",
+  "lat": 42.5168722,
+  "lon": 2.8115693,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "TSJ Wake Park",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/9713908264",
+  "lat": 43.6189733,
+  "lon": 1.0718095,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "Téléski Nautique du Gers",
+   "public_transport": "station",
+   "ref": "6",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/9739659575",
+  "lat": 45.623623,
+  "lon": 5.618351,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "EXO Loisirs",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/9796985775",
+  "lat": 44.280919,
+  "lon": 0.2750525,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Cascade Waterpark",
+   "phone": "+33 5 53 83 16 99",
+   "ref:FR:CRTA": "LOIAQU047FS000CG",
+   "source:ref:FR:CRTA": "Sirtaqui",
+   "sport": "water_ski",
+   "website": "https://cascadewaterpark.com/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/9829080472",
+  "lat": 44.1617766,
+  "lon": 4.7282539,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "Wam Park",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/9829553114",
+  "lat": 16.2682392,
+  "lon": -61.5894063,
+  "tags": {
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/9907986254",
+  "lat": 16.2680006,
+  "lon": -61.5894344,
+  "tags": {
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/9953044059",
+  "lat": 47.7130906,
+  "lon": 1.5797097,
+  "tags": {
+   "addr:city": "Saint-Laurent-Nouan",
+   "addr:postcode": "41220",
+   "addr:street": "Allée de la longue santé",
+   "club": "sport",
+   "name": "GSNW Club de ski nautique et wakeboard",
+   "opening_hours": "Mo-Fr 17:00-19:00; Sa-Su 15:00-19:00",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/10659783917",
+  "lat": 47.5382061,
+  "lon": -1.8810909,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Wake Park Plessé",
+   "operator": "Wake Park Plessé",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://wakeparkplesse.com/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/10881761153",
+  "lat": 47.4584158,
+  "lon": 0.2251055,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Rillé Wake Park",
+   "opening_hours": "Apr,May,Oct Sa, Su 10:00-19:00; Jun, Sep We-Fr 14:00-19:00; Jun, Sep Sa, Su 10:00-19:00; Jul-Aug Tu-Su 10:00-19:00",
+   "operator": "Rillé Wake Park",
+   "phone": "+33768760305",
+   "sport": "wakeboarding",
+   "website": "https://rillewakepark.fr/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/10934491506",
+  "lat": 48.9867925,
+  "lon": 2.1574705,
+  "tags": {
+   "name": "Flo",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11434342347",
+  "lat": 48.7717347,
+  "lon": 2.4265139,
+  "tags": {
+   "club": "sport",
+   "name": "FFSNW",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11434342348",
+  "lat": 48.7718239,
+  "lon": 2.4264816,
+  "tags": {
+   "club": "sport",
+   "name": "Le KABLE",
+   "sport": "wakeboarding",
+   "website": "https://www.lekable.fr/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11565567720",
+  "lat": 48.7721136,
+  "lon": 2.4271398,
+  "tags": {
+   "aerialway": "station",
+   "operator": "LE KABLE",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11565567725",
+  "lat": 48.7717331,
+  "lon": 2.4269298,
+  "tags": {
+   "aerialway": "station",
+   "operator": "LE KABLE",
+   "public_transport": "station",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11565592618",
+  "lat": 48.3748625,
+  "lon": 2.9004398,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Wam Park La Grande Paroisse",
+   "public_transport": "station",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11575086687",
+  "lat": 45.562351,
+  "lon": 6.2304366,
+  "tags": {
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11579891450",
+  "lat": 48.5117292,
+  "lon": 1.0200982,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "TN28 Fontaine-Simon",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11579891455",
+  "lat": 48.5117238,
+  "lon": 1.020526,
+  "tags": {
+   "leisure": "water_park",
+   "name": "TN28 Base de loisirs de Fontaine-Simon",
+   "operator": "TN28 Base de loisirs de Fontaine-Simon",
+   "sport": "wakeboarding",
+   "website": "https://www.tn28.fr/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11579975846",
+  "lat": 43.6504545,
+  "lon": 1.4199479,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Wam Park - Toulouse - Sesquières",
+   "public_transport": "station",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11580024523",
+  "lat": 49.3248072,
+  "lon": 2.7443111,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "PARK Nautic de Verberie (TNV60)",
+   "public_transport": "station",
+   "ref": "6",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11580081379",
+  "lat": 48.9446381,
+  "lon": 6.0597393,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "Grand Bleu Wake Park",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11580141561",
+  "lat": 48.5331672,
+  "lon": 2.5610349,
+  "tags": {
+   "aerialway": "station",
+   "operator": "My Little Wake Park",
+   "public_transport": "station",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11580141563",
+  "lat": 48.5350998,
+  "lon": 2.5534652,
+  "tags": {
+   "aerialway": "station",
+   "operator": "My Little Wake Park",
+   "public_transport": "station",
+   "ref": "6",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11580301069",
+  "lat": 48.5355293,
+  "lon": 2.5532738,
+  "tags": {
+   "leisure": "water_park",
+   "name": "My Little Wake Park",
+   "operator": "My Little Wake Park",
+   "sport": "wakeboarding",
+   "website": "https://www.mylittlewakepark.net/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11592823538",
+  "lat": 47.538231,
+  "lon": -1.8803547,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Wake Park Plessé",
+   "public_transport": "station",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11592823540",
+  "lat": 47.5380197,
+  "lon": -1.8809444,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "Wake Park Plessé",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11592867200",
+  "lat": 46.3309533,
+  "lon": -1.3078714,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "Atlantic Wake Park",
+   "public_transport": "station",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11592867206",
+  "lat": 46.3308374,
+  "lon": -1.3072852,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "Atlantic Wake Park",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11593009286",
+  "lat": 48.4287101,
+  "lon": -4.6077221,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Advance Ride",
+   "public_transport": "station",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11637932081",
+  "lat": 49.324499,
+  "lon": 2.7445437,
+  "tags": {
+   "aerialway": "station",
+   "operator": "PARK Nautic de Verberie (TNV60)",
+   "public_transport": "station",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11638526397",
+  "lat": 46.3228597,
+  "lon": 3.3526131,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Natural Wake Park",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11638526402",
+  "lat": 46.3251602,
+  "lon": 3.3558942,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Natural Wake Park",
+   "public_transport": "station",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11660120972",
+  "lat": 49.9240039,
+  "lon": 2.2254453,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Amiens Cable Park",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11660120977",
+  "lat": 49.9239805,
+  "lon": 2.2259754,
+  "tags": {
+   "leisure": "water_park",
+   "name": "Amiens Cable Park",
+   "operator": "Amiens Cable Park",
+   "sport": "water_ski;wakeboarding;skateboard;boules",
+   "website": "https://amienscablepark.com/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11660161515",
+  "lat": 45.6791061,
+  "lon": -0.9383155,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Téléski Nautique de Saujon",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11660161524",
+  "lat": 45.67925,
+  "lon": -0.9380088,
+  "tags": {
+   "leisure": "water_park",
+   "name": "Téléski Nautique de Saujon",
+   "operator": "Téléski Nautique de Saujon",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.teleskisaujon.fr"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11660245969",
+  "lat": 44.6582625,
+  "lon": -0.8220599,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Lakecity",
+   "public_transport": "station",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11660245971",
+  "lat": 44.6583998,
+  "lon": -0.8223998,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Lakecity",
+   "public_transport": "station",
+   "ref": "6",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11660256547",
+  "lat": 48.3871267,
+  "lon": -2.3341488,
+  "tags": {
+   "aerialway": "station",
+   "operator": "BZH Wake Park",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11660354694",
+  "lat": 47.1050019,
+  "lon": 4.9507732,
+  "tags": {
+   "leisure": "water_park",
+   "name": "TNCO",
+   "operator": "TNCO",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.teleskinautiquecotedor.com"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11660412253",
+  "lat": 43.9621907,
+  "lon": 1.2835459,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Wam Park Bressols",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11660412258",
+  "lat": 43.9625724,
+  "lon": 1.2838633,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Wam Park Bressols",
+   "public_transport": "station",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11660937212",
+  "lat": 47.2615237,
+  "lon": -2.0147591,
+  "tags": {
+   "leisure": "water_park",
+   "name": "TSN44",
+   "operator": "TSN44",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.tsn44.com/wakepark-saint-viaud"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11663729654",
+  "lat": 43.3147109,
+  "lon": 1.1932906,
+  "tags": {
+   "aerialway": "station",
+   "operator": "La Source Wake Park",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11663729659",
+  "lat": 43.3146724,
+  "lon": 1.1929637,
+  "tags": {
+   "aerialway": "station",
+   "operator": "La Source Wake Park",
+   "public_transport": "station",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11663731415",
+  "lat": 43.3148477,
+  "lon": 1.1926022,
+  "tags": {
+   "leisure": "water_park",
+   "name": "La Source Wake Park",
+   "operator": "La Source Wake Park",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.lasourcewakepark.fr/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11663789444",
+  "lat": 44.8548408,
+  "lon": 4.8496409,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "Etoile Park 26",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11663789449",
+  "lat": 44.8540887,
+  "lon": 4.849596,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "Etoile Park 26",
+   "public_transport": "station",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11663789451",
+  "lat": 44.8540891,
+  "lon": 4.8494019,
+  "tags": {
+   "leisure": "water_park",
+   "name": "Etoile Park 26",
+   "operator": "Etoile Park 26",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://etoilepark26.fr"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11663800850",
+  "lat": 45.4566175,
+  "lon": 4.7801491,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "both",
+   "operator": "Wam Park Condrieu",
+   "public_transport": "station",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11663800852",
+  "lat": 45.4557527,
+  "lon": 4.7789826,
+  "tags": {
+   "leisure": "water_park",
+   "name": "Wam Park Condrieu",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.wampark.fr/lyon-condrieu/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11682550520",
+  "lat": 45.0337371,
+  "lon": -0.4767372,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Castor Wakepark",
+   "public_transport": "station",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11682550522",
+  "lat": 45.033693,
+  "lon": -0.4769813,
+  "tags": {
+   "leisure": "water_park",
+   "name": "Castor Wakepark",
+   "operator": "Castor Wakepark",
+   "sport": "wakeboarding;water_ski",
+   "website": "https://www.castorwakepark.com/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11682682764",
+  "lat": 45.0402116,
+  "lon": -0.7268944,
+  "tags": {
+   "aerialway": "station",
+   "operator": "EXO Loisirs",
+   "public_transport": "station",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11682781453",
+  "lat": 43.5297908,
+  "lon": -1.1710687,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "EXO Loisirs",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11682817369",
+  "lat": 47.3063239,
+  "lon": -0.444925,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "EXO Loisirs",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11682817374",
+  "lat": 47.3069174,
+  "lon": -0.4456622,
+  "tags": {
+   "aerialway": "station",
+   "operator": "EXO Loisirs",
+   "public_transport": "station",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11682817376",
+  "lat": 47.3071742,
+  "lon": -0.4451419,
+  "tags": {
+   "addr:city": "Notre-Dame-d'Allençon",
+   "addr:postcode": "49380",
+   "addr:street": "ZA la jalletière",
+   "leisure": "water_park",
+   "name": "EXO 49 / Anjou Wake Park",
+   "operator": "EXO Loisirs",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.exoloisirs.com/fr/content/exo-49-awp"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11682907068",
+  "lat": 45.3203148,
+  "lon": 5.5402272,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Wake Up Park",
+   "public_transport": "station",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11682994270",
+  "lat": 45.3203074,
+  "lon": 5.540492,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Wake Up Park",
+   "public_transport": "station",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11682997440",
+  "lat": 45.1241553,
+  "lon": 5.8750744,
+  "tags": {
+   "aerialway": "station",
+   "fixme": "Positionner + précisément la poulie de départ (pas distinguable en vue aérienne).",
+   "operator": "Chamrousse Oxygène",
+   "public_transport": "station",
+   "sport": "wakeboarding",
+   "website": "https://www.chamrousse.com/teleski-nautique.html"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11688691791",
+  "lat": 43.4559845,
+  "lon": 1.2740809,
+  "tags": {
+   "fixme": "meilleur emplacement ou bien redéfinition du parc par une surface (je n'y suis jamais allé)",
+   "leisure": "water_park",
+   "name": "eXtrem Ride Park Off Axis",
+   "operator": "eXtrem Ride Park Off Axis",
+   "sport": "wakeboarding;water_ski",
+   "website": "https://www.extremridepark.com"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11688721820",
+  "lat": 44.9279634,
+  "lon": -0.3676061,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Wakepark Izon",
+   "public_transport": "station",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11688721822",
+  "lat": 44.9279384,
+  "lon": -0.3676215,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Wakepark Izon",
+   "public_transport": "station",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11688721824",
+  "lat": 44.9281247,
+  "lon": -0.3673038,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Wakepark Izon",
+   "public_transport": "station",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11688721826",
+  "lat": 44.9279288,
+  "lon": -0.3675247,
+  "tags": {
+   "leisure": "water_park",
+   "name": "Wakepark Izon",
+   "operator": "Wakepark Izon",
+   "sport": "wakeboarding",
+   "website": "https://wakeparkizon.fr/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11688736064",
+  "lat": 48.2655164,
+  "lon": 7.5712932,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Koba Wake Park",
+   "public_transport": "station",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11688736066",
+  "lat": 48.2654772,
+  "lon": 7.5712174,
+  "tags": {
+   "leisure": "water_park",
+   "name": "Koba Wake Park",
+   "operator": "Koba Wake Park",
+   "sport": "wakeboarding",
+   "website": "https://www.kobawakepark.fr"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11688742260",
+  "lat": 48.7058314,
+  "lon": 7.7208083,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "Fun Parc Brumath",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11688912580",
+  "lat": 48.7061699,
+  "lon": 7.7202334,
+  "tags": {
+   "leisure": "water_park",
+   "name": "Fun Parc Brumath",
+   "operator": "Fun Parc Brumath",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.fun-parc-brumath.fr"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11708794367",
+  "lat": 44.6557279,
+  "lon": 6.1050886,
+  "tags": {
+   "aerialway": "station",
+   "operator": "MOUNTAIN Wake Park",
+   "public_transport": "station",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11708855787",
+  "lat": 43.139054,
+  "lon": 3.1450673,
+  "tags": {
+   "aerialway": "station",
+   "operator": "MARINA O ZONE",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11708878381",
+  "lat": 44.655598,
+  "lon": 6.1049881,
+  "tags": {
+   "addr:city": "Saint-Julien-en-Champsaur",
+   "addr:postcode": "05500",
+   "addr:street": "Plan d'eau du Champsaur",
+   "leisure": "water_park",
+   "name": "MOUNTAIN Wake Park",
+   "operator": "MOUNTAIN Wake Park",
+   "sport": "wakeboarding",
+   "website": "https://www.facebook.com/MOUNTAINWAKEPARK/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11708897383",
+  "lat": 43.7989821,
+  "lon": 1.5886107,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Original Green Park",
+   "public_transport": "station",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11708897385",
+  "lat": 43.7989492,
+  "lon": 1.5883679,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Original Green Park",
+   "public_transport": "station",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11708897387",
+  "lat": 43.8003941,
+  "lon": 1.5895243,
+  "tags": {
+   "addr:city": "Bessières",
+   "addr:housenumber": "139bis",
+   "addr:postcode": "31660",
+   "addr:street": "Route de Montjoire",
+   "leisure": "water_park",
+   "name": "Original Green Park",
+   "operator": "Original Green Park",
+   "sport": "wakeboarding;boules;standup_paddleboarding",
+   "website": "https://originalgreenpark.fr"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11708902337",
+  "lat": 45.5647107,
+  "lon": 6.4674397,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Poule Wake Park",
+   "public_transport": "station",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11708902364",
+  "lat": 45.564683,
+  "lon": 6.4669225,
+  "tags": {
+   "addr:city": "La Léchère",
+   "addr:housenumber": "450",
+   "addr:postcode": "73260",
+   "addr:street": "Route des Lacs",
+   "leisure": "water_park",
+   "name": "Poule Wake Park",
+   "operator": "Poule Wake Park",
+   "sport": "wakeboarding",
+   "website": "https://poulewakepark.net"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11708924818",
+  "lat": 45.6569692,
+  "lon": -0.1404157,
+  "tags": {
+   "fixme": "meilleure définition de la zone de ski nautique/wakeboard bateau.",
+   "leisure": "pitch",
+   "operator": "Planet Ski",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11708924819",
+  "lat": 45.6554539,
+  "lon": -0.1403549,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Planet Ski",
+   "public_transport": "station",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11708924821",
+  "lat": 45.6556879,
+  "lon": -0.1403118,
+  "tags": {
+   "addr:city": "SAINT-MÊME-LES-CARRIÈRES",
+   "addr:postcode": "16720",
+   "addr:street": "Le grand mas des sables",
+   "leisure": "water_park",
+   "name": "Planet Ski",
+   "operator": "Planet Ski",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.planet-ski.com"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11708953786",
+  "lat": 47.4585362,
+  "lon": 0.2252763,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Rillé Wake Park",
+   "public_transport": "station",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11709083555",
+  "lat": 42.5169752,
+  "lon": 2.8112238,
+  "tags": {
+   "addr:city": "Saint-Jean-Pla-de-Corts",
+   "addr:postcode": "66490",
+   "addr:street": "Chemin du Mas Chambon",
+   "leisure": "water_park",
+   "name": "TSJ Wake Park",
+   "operator": "TSJ Wake Park",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://tsjwakepark.com"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11709106147",
+  "lat": 43.9611347,
+  "lon": 4.8541353,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Urban Wake Park",
+   "public_transport": "station",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11709106149",
+  "lat": 43.9611933,
+  "lon": 4.8538962,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Urban Wake Park",
+   "public_transport": "station",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11709142688",
+  "lat": 43.2720321,
+  "lon": 3.5047129,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Wake Beach",
+   "public_transport": "station",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11709142690",
+  "lat": 43.2725165,
+  "lon": 3.5048312,
+  "tags": {
+   "addr:city": "Agde",
+   "addr:postcode": "34300",
+   "addr:street": "Avenue du Passeur Challies - Parking du Grand Large",
+   "fixme": "Meilleur tag que \"water park\" ?\ntrouver comment saisir complément d'adresse.",
+   "leisure": "water_park",
+   "name": "Wake Beach",
+   "operator": "Wake Beach",
+   "sport": "wakeboarding",
+   "website": "https://wakebeach.fr/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11709174128",
+  "lat": 44.1617516,
+  "lon": 4.7286809,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Wam Park",
+   "public_transport": "station",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11709255097",
+  "lat": 48.2664562,
+  "lon": 6.4133084,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Wam Park",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11709255102",
+  "lat": 48.2663412,
+  "lon": 6.4127639,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Wam Park",
+   "public_transport": "station",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11718351903",
+  "lat": 46.0476656,
+  "lon": 1.2776519,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Wake & Ski 87",
+   "public_transport": "station",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11718351905",
+  "lat": 46.0471191,
+  "lon": 1.2778188,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "Wake & Ski 87",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11718448143",
+  "lat": 49.2047873,
+  "lon": -0.2251511,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "Eole Aventure",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11746862197",
+  "lat": 44.7111906,
+  "lon": 5.2658699,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Delta Wakepark",
+   "public_transport": "station",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11759026057",
+  "lat": 47.9342265,
+  "lon": 0.1642614,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "Wake Paradise",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11759041886",
+  "lat": 47.9344165,
+  "lon": 0.1647736,
+  "tags": {
+   "addr:city": "Spay",
+   "addr:postcode": "72700",
+   "addr:street": "Lieu dit la pièce du milieu",
+   "leisure": "water_park",
+   "name": "Wake Paradise",
+   "operator": "Wake Paradise",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://wakeparadise.fr"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11872350578",
+  "lat": 43.5795571,
+  "lon": 4.7563064,
+  "tags": {
+   "access": "customers",
+   "addr:city": "Mas-Thibert",
+   "addr:housenumber": "2864",
+   "addr:postcode": "13104",
+   "addr:street": "2864 Route de Mas-Thibert",
+   "building": "no",
+   "check_date": "2026-07-17",
+   "name": "Dynamite Wakepark (Wakeboard Arles)",
+   "opening_hours": "Mo-Sa 10:00-19:00",
+   "operator": "Dynamite Gourmande",
+   "operator:type": "private",
+   "payment:cash": "yes",
+   "payment:contactless": "yes",
+   "payment:credit_cards": "yes",
+   "phone": "+33 7 63 62 28 48",
+   "shop": "water_sports",
+   "sport": "wakeboarding",
+   "website": "https://dynamitewakepark.com/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11877289062",
+  "lat": 44.4619082,
+  "lon": 6.1643237,
+  "tags": {
+   "addr:city": "Rochebrune",
+   "addr:postcode": "05190",
+   "addr:street": "Les 3 lacs L'iscle des plantiers",
+   "leisure": "water_park",
+   "name": "Authentic Wake Park",
+   "operator": "Authentic Wake Park",
+   "sport": "wakeboarding",
+   "website": "https://www.facebook.com/AuthenticWakePark/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11877328939",
+  "lat": 46.347107,
+  "lon": -1.4284685,
+  "tags": {
+   "addr:city": "La Tranche-sur-Mer",
+   "addr:postcode": "85360",
+   "addr:street": "Étang du maupas",
+   "leisure": "sports_centre",
+   "name": "Aloha Wakepark",
+   "operator": "Aloha Wakepark",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.alohawakepark.com"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/12039799604",
+  "lat": 43.4181531,
+  "lon": 6.771927,
+  "tags": {
+   "name": "Slide Water Camp",
+   "sport": "water_ski",
+   "website": "https://www.slidewatercamp.com/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/13061648527",
+  "lat": 45.2663112,
+  "lon": 2.0059032,
+  "tags": {
+   "alt_name": "S.C.N.M",
+   "club": "sport",
+   "name": "Ski Club Nautique Marcillacois",
+   "sport": "water_skiing"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/13180162436",
+  "lat": 44.975411,
+  "lon": -1.0931281,
+  "tags": {
+   "club": "sport",
+   "name": "I Wakepark Lacanau",
+   "phone": "+33 6 50 51 38 41",
+   "sport": "wakeboarding",
+   "website": "https://www.iwakepark.fr/wakepark-lacanau.html"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/13639312459",
+  "lat": 48.9313102,
+  "lon": 2.007654,
+  "tags": {
+   "club": "sport",
+   "contact:city": "Villennes-sur-Seine",
+   "contact:email": "wakeandgliss@gmail.com",
+   "contact:housenumber": "19",
+   "contact:phone": "+33 6 68 66 04 80",
+   "contact:postcode": "78670",
+   "contact:street": "Chemin des Pêcheurs",
+   "name": "Wake & Gliss",
+   "ref:FR:NAF": "93.12Z",
+   "ref:FR:SIRET": "88455122700025",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/13752757523",
+  "lat": 45.268812,
+  "lon": -0.3978832,
+  "tags": {
+   "contact:email": "moumni.e@hotmail.fr",
+   "contact:instagram": "mtdwakepark",
+   "contact:phone": "+33 6 43 22 80 26",
+   "contact:website": "https://www.mtdwakepark.com/",
+   "leisure": "water_park",
+   "name": "MTD WakePark",
+   "ref:FR:SIRET": "92773573800027",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/13894801543",
+  "lat": 44.7099571,
+  "lon": -0.4341649,
+  "tags": {
+   "addr:city": "Baurech",
+   "addr:housenumber": "259",
+   "addr:postcode": "33880",
+   "addr:street": "Chemin, Port Leyron",
+   "email": "base-baurech@wampark.fr",
+   "leisure": "sports_centre",
+   "name": "WAM PARK Bordeaux Sud - Baurech",
+   "operator": "WAM PARK",
+   "phone": "+33 5 47 74 60 81",
+   "sport": "water-ski;wakeboarding",
+   "website": "https://www.wampark.fr/base/bordeaux-sud-baurech/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/5094975",
+  "lat": 45.2323665,
+  "lon": 5.838969,
+  "tags": {
+   "name": "Lac Chartreuse",
+   "natural": "water",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/23046122",
+  "lat": 48.5351137,
+  "lon": 2.5525478,
+  "tags": {
+   "natural": "water",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/29420930",
+  "lat": 43.4082334,
+  "lon": 6.6949864,
+  "tags": {
+   "boat": "private",
+   "natural": "water",
+   "sport": "water_ski",
+   "water": "pond"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/30322046",
+  "lat": 44.7126748,
+  "lon": -0.4376912,
+  "tags": {
+   "natural": "water",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/59123397",
+  "lat": 44.0950939,
+  "lon": 1.0949024,
+  "tags": {
+   "addr:housenumber": "660",
+   "addr:street": "Chemin de la Rhode",
+   "building": "yes",
+   "leisure": "sports_centre",
+   "name": "Ski Nautique",
+   "opening_hours:signed": "no",
+   "source": "DGFiP - Cadastre - 2008",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/90589303",
+  "lat": 46.129466,
+  "lon": 3.415701,
+  "tags": {
+   "building": "sports_centre",
+   "contact:city": "Vichy",
+   "contact:facebook": "https://www.facebook.com/CLUBNAUTIQUEDEVICHY/",
+   "contact:postcode": "03200",
+   "contact:street": "Boulevard du Maréchal de Lattre de Tassigny",
+   "contact:website": "https://www.clubnautiquedevichy.com/",
+   "leisure": "sports_centre",
+   "name": "Club Nautique de Vichy",
+   "old_name": "Yacht Club de Vichy",
+   "source": "survey",
+   "source:building": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+   "sport": "sailing;wakeboarding",
+   "survey:date": "2025-06-28"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/131338185",
+  "lat": 45.3048516,
+  "lon": 5.9401695,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "description": "Téléski aquatique",
+   "operator": "WAM PARK",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.exoloisirs.com/fr/content/exo-38-tencin"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/142036610",
+  "lat": 49.3253062,
+  "lon": 2.7426508,
+  "tags": {
+   "natural": "water",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/165089233",
+  "lat": 46.8894602,
+  "lon": -0.021423,
+  "tags": {
+   "aerialway": "drag_lift",
+   "name": "Téléski nautique Moncontour",
+   "operator": "Téléski nautique Moncontour",
+   "source": "bing",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/166867127",
+  "lat": 47.557674,
+  "lon": -1.5416351,
+  "tags": {
+   "building": "shed",
+   "source": "survey",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/209648328",
+  "lat": 45.565912,
+  "lon": 6.466686,
+  "tags": {
+   "natural": "water",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/225903504",
+  "lat": 49.0303847,
+  "lon": 2.044344,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "description": "820m, 10 accrocheurs, sens anti-horaire",
+   "name": "Téléski nautique",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/284787262",
+  "lat": 45.8319109,
+  "lon": 4.8455874,
+  "tags": {
+   "building": "yes",
+   "leisure": "sports_centre",
+   "name": "Ski Nautique Club",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/293072092",
+  "lat": 49.2998317,
+  "lon": 1.211396,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "description": "1000m, sens antihoraire",
+   "fixme": "Nombre d'accrocheurs pas trouvé.",
+   "name": "Téléski nautique de Léry-Poses",
+   "operator": "Base de loisirs de Léry-Poses",
+   "sport": "water_ski;wakeboarding",
+   "website": "http://www.lery-poses.fr/activites/teleski-nautique"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/310919131",
+  "lat": 48.375876,
+  "lon": 2.9025298,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "640m environ, 8 accrocheurs, sens anti-horaire.",
+   "operator": "Wam Park La Grande Paroisse",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/340681786",
+  "lat": 43.6501234,
+  "lon": 1.418851,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "operator": "Wam Park - Toulouse - Sesquières",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.wampark.fr/toulouse-sesquieres/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/340681787",
+  "lat": 43.6514167,
+  "lon": 1.4196549,
+  "tags": {
+   "addr:city": "Toulouse",
+   "addr:postcode": "31100",
+   "addr:street": "Allée des Foulques",
+   "leisure": "sports_centre",
+   "name": "Téléski Toulouse",
+   "phone": "+33561709288",
+   "sport": "water_ski",
+   "website": "https://teleskitoulouse.fr/fr"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/340745659",
+  "lat": 44.9778235,
+  "lon": -1.1330638,
+  "tags": {
+   "leisure": "pitch",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/341065153",
+  "lat": 44.973088,
+  "lon": -1.1392869,
+  "tags": {
+   "leisure": "pitch",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/366313994",
+  "lat": 42.8846251,
+  "lon": 1.626245,
+  "tags": {
+   "description": "cable",
+   "leisure": "pitch",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski",
+   "surface": "water"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/368162948",
+  "lat": 47.8657834,
+  "lon": -1.0589462,
+  "tags": {
+   "addr:city": "La Selle-Craonnaise",
+   "addr:postcode": "53800",
+   "leisure": "sports_centre",
+   "name": "Wakepark de la Rincerie",
+   "operator": "Wakepark de la Rincerie",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.wakeparkrincerie.com"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/370959156",
+  "lat": 45.8150164,
+  "lon": 1.8563164,
+  "tags": {
+   "building": "yes",
+   "leisure": "sports_centre",
+   "name": "SNCAV - Ski Nautique Club Auchaize Vassivière",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/374716401",
+  "lat": 48.4902886,
+  "lon": -1.7282812,
+  "tags": {
+   "natural": "water",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+   "sport": "water_ski",
+   "water": "stream"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/397945028",
+  "lat": 49.0254402,
+  "lon": 4.0358641,
+  "tags": {
+   "addr:city": "Oiry",
+   "addr:postcode": "51530",
+   "addr:street": "Rue de Mareuil",
+   "leisure": "water_park",
+   "name": "Champagne Wake Park (téléski nautique)",
+   "natural": "water",
+   "operator": "SAS C.W.P.",
+   "sport": "wakeboarding;wakeboard;ski_nautique;téléski",
+   "website": "https://champagnewakepark.com/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/437311048",
+  "lat": 47.5765115,
+  "lon": -1.6236209,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "description": "sens horaire",
+   "name": "Téléski nautique",
+   "operator": "TSN44.2",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.tsn44.com/nozay/home/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/440552596",
+  "lat": 46.2367258,
+  "lon": 4.8025993,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "name": "Téléski nautique du Maconnais-Beaujolais",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.lelac.fr/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/440553118",
+  "lat": 45.454587,
+  "lon": 4.7786719,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "description": "Environ 800m, 10 accrocheurs, sens antihoraire",
+   "name": "Téléski nautique",
+   "operator": "Wam Park Condrieu",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/440564660",
+  "lat": 43.2013657,
+  "lon": -0.2609044,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "name": "Téléski nautique",
+   "operator": "Les Ôkiri",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.lesokiri.com/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/441797853",
+  "lat": 48.9082492,
+  "lon": 2.7319996,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/441804987",
+  "lat": 47.2610253,
+  "lon": -2.0160748,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "name": "Téléski nautique",
+   "operator": "TSN44",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.tsn44.com/saint-viaud/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/441870635",
+  "lat": 44.2805944,
+  "lon": 0.2762655,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/441870636",
+  "lat": 44.2800057,
+  "lon": 0.2746399,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/441872426",
+  "lat": 49.7992441,
+  "lon": 0.6331902,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/441879993",
+  "lat": 43.6536009,
+  "lon": 5.5914085,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "description": "Anciennement nommé \"Téléski nautique du pays d'Aix\".\n760m, 10 accrocheurs, sens antihoraire",
+   "operator": "EXO Loisirs",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/441880807",
+  "lat": 44.7093864,
+  "lon": -0.4359622,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/441881690",
+  "lat": 45.0419689,
+  "lon": -0.7256532,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "description": "820m, sens horaire",
+   "name": "WAM PARK 33 Avensan",
+   "operator": "WAM PARK",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/442250486",
+  "lat": 42.8354243,
+  "lon": 3.0272135,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "area": "no",
+   "leisure": "track",
+   "name": "Téléski du Barcarès",
+   "sport": "water_ski",
+   "website": "https://www.teleskibarcares.com/fr/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/502775634",
+  "lat": 48.4289152,
+  "lon": -4.6102348,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "Sens antihoraire",
+   "operator": "Advance Ride",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/515575067",
+  "lat": 48.7744813,
+  "lon": 2.4257248,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "Ancien téléski nautique 2 poulies \"Paris Wakepark\" (plus en service depuis l'ouverture du KABLE en 2022 ; sera peut-être rénové pour le club \"Paris Wake Family\")",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/517644482",
+  "lat": 43.1337616,
+  "lon": 6.3667054,
+  "tags": {
+   "leisure": "sports_centre",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/550425863",
+  "lat": 44.6583044,
+  "lon": -0.8243094,
+  "tags": {
+   "addr:city": "MIOS",
+   "addr:housenumber": "108",
+   "addr:postcode": "33380",
+   "addr:street": "Route du Barp",
+   "leisure": "water_park",
+   "name": "Lakecity",
+   "operator": "Lakecity",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://lakecity.fr"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/605513975",
+  "lat": 49.3260336,
+  "lon": 2.7424789,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Park Nautic de Verberie",
+   "sport": "water_ski",
+   "website": "https://www.parknauticverberie.com/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/739431498",
+  "lat": 42.8362804,
+  "lon": 3.0302806,
+  "tags": {
+   "name": "Wake Park",
+   "sport": "water_ski",
+   "tourism": "attraction"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/739431499",
+  "lat": 42.8355499,
+  "lon": 3.0301457,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "leisure": "track",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/756915151",
+  "lat": 43.36025,
+  "lon": 3.5696666,
+  "tags": {
+   "leisure": "pitch",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "source": "ARRETE PREFECTORAL N° 55/2009",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/777195323",
+  "lat": 43.444766,
+  "lon": 3.6880079,
+  "tags": {
+   "addr:city": "Balaruc-les-Bains",
+   "addr:postcode": "34540",
+   "addr:street": "Avenue de la Gare",
+   "leisure": "sports_centre",
+   "name": "Cente Nautique Manuréva",
+   "opening_hours": "Mo-Fr 09:00-12:00,13:30-17:30; Jun-Sep Mo-Fr 09:00-12:30,13:30-18:30",
+   "phone": "+33 4 67 48 55 63",
+   "sport": "kitesurfing;canoe;water_ski",
+   "website": "https://www.ville-balaruc-les-bains.com/le-centre-nautique"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/815685424",
+  "lat": 46.0838273,
+  "lon": 6.3685734,
+  "tags": {
+   "addr:city": "Arenthon",
+   "addr:housenumber": "110",
+   "addr:postcode": "74800",
+   "addr:street": "Chemin du Brachouet",
+   "leisure": "water_park",
+   "name": "TNA",
+   "operator": "TNA",
+   "source": "BDOrtho-IGN",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://tnacablepark.com"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/815685425",
+  "lat": 46.0837401,
+  "lon": 6.3686423,
+  "tags": {
+   "aerialway": "drag_lift",
+   "name": "Téléski nautique",
+   "operator": "TNA",
+   "source": "BDOrtho-IGN",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/862520966",
+  "lat": 45.3048851,
+  "lon": 5.9419456,
+  "tags": {
+   "building": "yes",
+   "club": "sport",
+   "name": "Wam Park",
+   "operator": "Wam Park",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.wampark.fr/base/grenoble-tencin/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/912868019",
+  "lat": 49.0058204,
+  "lon": 1.6282825,
+  "tags": {
+   "leisure": "pitch",
+   "seamark:information": "Zone authorized for high speed navigation of small sport and pleasure craft",
+   "seamark:national_information": "Autorisation de naviguer pour les motos nautiques",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/912868020",
+  "lat": 49.0068019,
+  "lon": 1.628714,
+  "tags": {
+   "leisure": "pitch",
+   "seamark:information": "Zone authorized for high speed navigation of small sport and pleasure craft",
+   "seamark:national_information": "Autorisation de naviguer pour les motos nautiques",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/960883208",
+  "lat": 47.1033913,
+  "lon": 4.9499416,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "description": "périmètre 749m, 10 accrocheurs, sens antihoraire",
+   "name": "Téléski Nautique De Côte d'Or (TNCO)",
+   "oneway": "yes",
+   "operator": "TNCO",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/977426512",
+  "lat": 44.960358,
+  "lon": 3.5385567,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/978662665",
+  "lat": 44.4868002,
+  "lon": -1.1926987,
+  "tags": {
+   "area": "yes",
+   "name": "Zone Ski Libre",
+   "seamark:buoy_special_purpose:category": "recreational_area",
+   "seamark:buoy_special_purpose:colour": "yellow",
+   "seamark:buoy_special_purpose:shape": "sphere",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1002072356",
+  "lat": 42.5162756,
+  "lon": 2.8115646,
+  "tags": {
+   "aerialway": "drag_lift",
+   "area": "no",
+   "leisure": "track",
+   "name": "Téléski Saint-Jean",
+   "operator": "TSJ Wake Park",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1002072357",
+  "lat": 42.5168879,
+  "lon": 2.8128567,
+  "tags": {
+   "aerialway": "drag_lift",
+   "area": "no",
+   "description": "sens horaire",
+   "leisure": "track",
+   "name": "Téléski Saint-Jean",
+   "operator": "TSJ Wake Park",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1037292513",
+  "lat": 43.4685046,
+  "lon": 6.5704184,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "wakeboarding;water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1037292515",
+  "lat": 43.4443889,
+  "lon": 6.6927646,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1057186510",
+  "lat": 43.6181455,
+  "lon": 1.0708358,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "sens antihoraire",
+   "operator": "Téléski Nautique du Gers",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1060080645",
+  "lat": 45.6229355,
+  "lon": 5.6195335,
+  "tags": {
+   "aerialway": "drag_lift",
+   "area": "no",
+   "description": "620m, sens antihoraire",
+   "operator": "EXO Loisirs",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1060080646",
+  "lat": 45.6238402,
+  "lon": 5.6178408,
+  "tags": {
+   "building": "yes",
+   "leisure": "sports_centre",
+   "name": "EXO-3D",
+   "operator": "EXO Loisirs",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.exoloisirs.com/fr/content/exo-3d"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1067664169",
+  "lat": 47.5445228,
+  "lon": 2.1881367,
+  "tags": {
+   "access": "customers",
+   "aerialway": "drag_lift",
+   "name": "Téléski nautique / Wakeboard",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1071108762",
+  "lat": 44.1606125,
+  "lon": 4.7268818,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "name": "Téléski nautique",
+   "operator": "Wam Park",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1086132555",
+  "lat": 44.1611444,
+  "lon": 4.7277373,
+  "tags": {
+   "addr:city": "Piolenc",
+   "addr:postcode": "84420",
+   "addr:street": "Route des îles",
+   "leisure": "water_park",
+   "name": "Wam park",
+   "operator": "Wam park",
+   "phone": "+33 9 74 67 00 40",
+   "ref:FR:SIRET": "85123012800015",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.wampark.fr/orange-piolenc/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1167601076",
+  "lat": 46.4315102,
+  "lon": 1.6116111,
+  "tags": {
+   "area": "yes",
+   "man_made": "ski_jump",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1234898878",
+  "lat": 43.9611723,
+  "lon": 4.8539041,
+  "tags": {
+   "addr:city": "Le Pontet",
+   "addr:housenumber": "15",
+   "addr:postcode": "84130",
+   "addr:street": "Avenue Charles de Gaulle",
+   "leisure": "water_park",
+   "name": "Urban Wake Park",
+   "operator": "Urban Wake Park",
+   "sport": "wakeboarding",
+   "website": "https://www.urban-wakepark.fr/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1244230027",
+  "lat": 48.7735647,
+  "lon": 2.4273415,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "750m environ, 9 accrocheurs, sens horaire.\nTéléski principal, géré par LE KABLE.",
+   "operator": "LE KABLE",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1244230028",
+  "lat": 48.7717179,
+  "lon": 2.4275522,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "60m environ.\nPetit téléski d'entraînement, géré par LEKABLE.",
+   "operator": "LE KABLE",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1244234840",
+  "lat": 48.3753777,
+  "lon": 2.8999966,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Wam Park La Grande Paroisse",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1245103809",
+  "lat": 45.562091,
+  "lon": 6.2315779,
+  "tags": {
+   "description": "470m, sens antihoraire",
+   "leisure": "track",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1245642002",
+  "lat": 48.5108231,
+  "lon": 1.0198984,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "TN28 Fontaine-Simon",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1245658147",
+  "lat": 43.6500596,
+  "lon": 1.4199475,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Wam Park - Toulouse - Sesquières",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.wampark.fr/toulouse-sesquieres/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1245661695",
+  "lat": 49.325238,
+  "lon": 2.7428191,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "PARK Nautic de Verberie (TNV60)",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1245666001",
+  "lat": 48.945602,
+  "lon": 6.0581584,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "800 m environ, sens horaire",
+   "operator": "Grand Bleu WakePark",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1245679956",
+  "lat": 48.5334852,
+  "lon": 2.5599643,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "My Little Wake Park",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1245679957",
+  "lat": 48.5351517,
+  "lon": 2.5523643,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "My Little Wake Park",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1246988190",
+  "lat": 47.5377646,
+  "lon": -1.879898,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "135m",
+   "operator": "Wake Park Plessé",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1246988191",
+  "lat": 47.5371542,
+  "lon": -1.8824064,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "740m, antihoraire",
+   "operator": "Wake Park Plessé",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1246994654",
+  "lat": 46.3306101,
+  "lon": -1.3083156,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Atlantic Wake Park",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1246994656",
+  "lat": 46.3295966,
+  "lon": -1.3063944,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "Sens horaire",
+   "operator": "Atlantic Wake Park",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1247012511",
+  "lat": 48.4281642,
+  "lon": -4.6079499,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Advance Ride",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1252009899",
+  "lat": 49.3242269,
+  "lon": 2.7436207,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "PARK Nautic de Verberie (TNV60)",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1252083518",
+  "lat": 46.3238687,
+  "lon": 3.353314,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Natural Wake Park",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1252083519",
+  "lat": 46.3256641,
+  "lon": 3.3550215,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Natural Wake Park",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1254369034",
+  "lat": 49.9235016,
+  "lon": 2.2244678,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "périmètre 480m, hauteur 11,5m, 6 accrocheurs, sens horaire.",
+   "operator": "Amiens Cable Park",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1254373262",
+  "lat": 45.679609,
+  "lon": -0.9395063,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "longueur=?, nombre d'accrocheurs=?,  sens antihoraire",
+   "operator": "Téléski Nautique de Saujon",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1254382482",
+  "lat": 44.6576979,
+  "lon": -0.8226103,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Lakecity",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1254382483",
+  "lat": 44.6584609,
+  "lon": -0.8239364,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "périmètre 760m, 9 accrocheurs, sens antihoraire",
+   "operator": "Lakecity",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1254385695",
+  "lat": 48.3861763,
+  "lon": -2.3333726,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "périmètre=?, nombre d'accrocheurs = ?, sens antihoraire",
+   "operator": "BZH Wake Park",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1254401415",
+  "lat": 43.9609656,
+  "lon": 1.2839702,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Wam Park Bressols",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1254401416",
+  "lat": 43.9619259,
+  "lon": 1.28507,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Wam Park Bressols",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1254702678",
+  "lat": 43.3155779,
+  "lon": 1.194747,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "762m, sens horaire",
+   "operator": "La Source Wake Park",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1254702679",
+  "lat": 43.3141798,
+  "lon": 1.1939981,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "La Source Wake Park",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1254712012",
+  "lat": 44.8557044,
+  "lon": 4.8506352,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "650m, sens antihoraire",
+   "operator": "Etoile Park 26",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1254712013",
+  "lat": 44.8539867,
+  "lon": 4.850822,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Etoile Park 26",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1254715369",
+  "lat": 45.456183,
+  "lon": 4.7811003,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Wam Park Condrieu",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1256683120",
+  "lat": 45.0341119,
+  "lon": -0.4780262,
+  "tags": {
+   "aerialway": "drag_lift",
+   "fixme": "Placement + précis du bi-poulies, surtout la poulie motrice (pas visible en photo aérienne)",
+   "operator": "Castor Wakepark",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1256700071",
+  "lat": 45.0395114,
+  "lon": -0.7269649,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "EXO Loisirs",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1256716190",
+  "lat": 47.3068908,
+  "lon": -0.4441748,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "550m, sens horaire",
+   "operator": "EXO Loisirs",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1256716191",
+  "lat": 47.3065354,
+  "lon": -0.4457815,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "EXO Loisirs",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1256720178",
+  "lat": 43.5300654,
+  "lon": -1.1726623,
+  "tags": {
+   "aerialway": "drag_lift",
+   "bicycle": "no",
+   "oneway": "yes",
+   "operator": "EXO Loisirs",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1256729706",
+  "lat": 45.319934,
+  "lon": 5.5397431,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Wake Up Park",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1256729707",
+  "lat": 45.3194873,
+  "lon": 5.5398773,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Wake Up Park",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1256730818",
+  "lat": 45.1238552,
+  "lon": 5.8742851,
+  "tags": {
+   "aerialway": "drag_lift",
+   "contact:facebook": "100063506026096",
+   "contact:instagram": "chamrousseoxygene",
+   "email": "contact@chamrousseoxygene.com",
+   "operator": "Chamrousse Oxygène",
+   "phone": "+33 6 60 10 39 94;+33 6 27 24 34 06",
+   "sport": "wakeboarding",
+   "website": "https://www.chamrousse.com/wakeboard.html;https://chamrousseoxygene.com/index.php/activites-ete#skinautique"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1257246900",
+  "lat": 44.9278732,
+  "lon": -0.3687469,
+  "tags": {
+   "aerialway": "drag_lift",
+   "fixme": "Placement approximatif des pylônes, à affiner selon connaissance locale (peu visible sur photos aériennes)",
+   "operator": "Wakepark Izon",
+   "ref": "1",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1257246901",
+  "lat": 44.9271627,
+  "lon": -0.3680365,
+  "tags": {
+   "aerialway": "drag_lift",
+   "fixme": "Placement approximatif des pylônes, à affiner selon connaissance locale (peu visible sur photos aériennes)",
+   "operator": "Wakepark Izon",
+   "ref": "2",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1257246902",
+  "lat": 44.9270167,
+  "lon": -0.3676459,
+  "tags": {
+   "aerialway": "drag_lift",
+   "fixme": "Placement approximatif des pylônes, à affiner selon connaissance locale (peu visible sur photos aériennes)",
+   "operator": "Wakepark Izon",
+   "ref": "3",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1257248341",
+  "lat": 48.265841,
+  "lon": 7.5721466,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Koba Wake Park",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1257258768",
+  "lat": 48.7066624,
+  "lon": 7.7199807,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "7 accrocheurs, sens antihoraire.\nComprend 2 virages adoucis, technologie du fabricant Wakeparx/Sesitec.",
+   "operator": "Fun Parc Brumath",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1259458921",
+  "lat": 43.1392121,
+  "lon": 3.1436623,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "MARINA O ZONE",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1259461355",
+  "lat": 44.6554705,
+  "lon": 6.1061204,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "MOUNTAIN Wake Park",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1259464703",
+  "lat": 43.7996075,
+  "lon": 1.5879773,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Original Green Park",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1259464704",
+  "lat": 43.7995215,
+  "lon": 1.5870358,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Original Green Park",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1259469199",
+  "lat": 45.6552387,
+  "lon": -0.1392784,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Planet Ski",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1259472751",
+  "lat": 45.5659183,
+  "lon": 6.4666024,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Poule Wake Park",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1259473516",
+  "lat": 47.4592684,
+  "lon": 0.2238929,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Rillé Wake Park",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1259490977",
+  "lat": 43.9618406,
+  "lon": 4.8545329,
+  "tags": {
+   "aerialway": "drag_lift",
+   "fixme": "positionnement précis des extrémités (pylônes peu/pas visibles en imagerie aérienne)",
+   "operator": "Urban Wake Park",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1259490978",
+  "lat": 43.9620076,
+  "lon": 4.8540134,
+  "tags": {
+   "aerialway": "drag_lift",
+   "fixme": "positionnement précis des extrémités (pylônes peu/pas visibles en imagerie aérienne)",
+   "operator": "Urban Wake Park",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1259494187",
+  "lat": 43.2712194,
+  "lon": 3.5043303,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Wake Beach",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1259497203",
+  "lat": 44.1606012,
+  "lon": 4.7284644,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Wam Park",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1259508698",
+  "lat": 48.2679137,
+  "lon": 6.4141772,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Wam Park",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1259508699",
+  "lat": 48.2668534,
+  "lon": 6.4119725,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Wam Park",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1260767972",
+  "lat": 46.0480878,
+  "lon": 1.2763197,
+  "tags": {
+   "aerialway": "drag_lift",
+   "name": "Bi poulie",
+   "operator": "Wake & Ski 87",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1260767973",
+  "lat": 46.047293,
+  "lon": 1.2760409,
+  "tags": {
+   "aerialway": "drag_lift",
+   "area": "no",
+   "description": "750m, 10 accrocheurs, sens antihoraire",
+   "name": "Lake Wake Park",
+   "operator": "Wake & Ski 87",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1260984202",
+  "lat": 49.2041708,
+  "lon": -0.2240414,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "600m, 8 accrocheurs, sens antihoraire",
+   "operator": "Eole Aventure",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1264350116",
+  "lat": 44.7107957,
+  "lon": 5.2668267,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Delta Wakepark",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1265890354",
+  "lat": 47.9342667,
+  "lon": 0.1630409,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Wake Paradise",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1278894519",
+  "lat": 43.5821232,
+  "lon": 4.7561518,
+  "tags": {
+   "access": "customers",
+   "addr:city": "Mas-Thibert",
+   "addr:housenumber": "2864",
+   "addr:postcode": "13104",
+   "addr:street": "Thibert au pont de bompas, route de Mas",
+   "building": "no",
+   "fee": "yes",
+   "leisure": "sports_centre",
+   "name": "Dynamite Wakepark (Wakeboard Arles)",
+   "opening_hours": "Mo-Sa 10:00-19:00",
+   "operator": "Dynamite Gourmande",
+   "operator:type": "private",
+   "payment:cash": "yes",
+   "payment:contactless": "yes",
+   "payment:credit_cards": "yes",
+   "phone": "+33 7 63 62 28 48",
+   "shop": "water_sports",
+   "sport": "wakeboarding",
+   "website": "https://dynamitewakepark.com/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1279444678",
+  "lat": 49.0254271,
+  "lon": 4.0358689,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Champagne Wake Park",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1279451263",
+  "lat": 46.3470468,
+  "lon": -1.4271427,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Aloha Wake Park",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1279454319",
+  "lat": 44.4619314,
+  "lon": 6.1634726,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Authentic Wake Park",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1299796674",
+  "lat": 44.0211456,
+  "lon": 2.144762,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "Sens antihoraire",
+   "operator": "Cap Découverte",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1299796675",
+  "lat": 44.0214334,
+  "lon": 2.1432725,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Cap Découverte",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1347399474",
+  "lat": 43.6181531,
+  "lon": 1.0708914,
+  "tags": {
+   "check_date:opening_hours": "2024-12-30",
+   "contact:city": "L'Isle-Jourdain",
+   "contact:email": "tngcablepark@gmail.com",
+   "contact:facebook": "https://www.facebook.com/tngcablepark32/",
+   "contact:instagram": "https://www.instagram.com/tngcablepark/",
+   "contact:phone": "+33562583821",
+   "contact:postcode": "32600",
+   "contact:street": "Allée du Lac",
+   "contact:website": "https://www.tngcablepark.com/",
+   "leisure": "pitch",
+   "name": "Téléski Nautique du Gers",
+   "opening_hours": "Apr-Oct We-Fr 14:00-19:00; Apr-Oct Sa,Su 12:00-19:00; May-Jun Tu-Fr 14:00-20:00; May-Jun Sa,Su 12:00-20:00; Jul-Aug 12:00-21:00",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1369010994",
+  "lat": 48.8405652,
+  "lon": 6.9320825,
+  "tags": {
+   "building": "plateforme_de_ski_nautique",
+   "fee": "yes",
+   "leisure": "sports_centre",
+   "name": "plateforme de ski nautique",
+   "operator": "privé",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1416058416",
+  "lat": 46.4805626,
+  "lon": 2.0319268,
+  "tags": {
+   "area": "no",
+   "leisure": "track",
+   "lit": "no",
+   "name": "Parcours de Ski Nautique",
+   "ref:FR:sport_equip": "E004I361630004",
+   "sport": "water_ski;wakeboarding",
+   "surface": "water"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1426591858",
+  "lat": 45.6045636,
+  "lon": 6.2762263,
+  "tags": {
+   "location": "floating",
+   "man_made": "obstacle",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1426591859",
+  "lat": 45.6044716,
+  "lon": 6.2762967,
+  "tags": {
+   "location": "floating",
+   "man_made": "obstacle",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1426591860",
+  "lat": 45.6049361,
+  "lon": 6.2768222,
+  "tags": {
+   "location": "floating",
+   "man_made": "obstacle",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1426591861",
+  "lat": 45.6048318,
+  "lon": 6.2768936,
+  "tags": {
+   "location": "floating",
+   "man_made": "obstacle",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1426591862",
+  "lat": 45.6054607,
+  "lon": 6.2776282,
+  "tags": {
+   "location": "floating",
+   "man_made": "obstacle",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1426591863",
+  "lat": 45.6054007,
+  "lon": 6.277787,
+  "tags": {
+   "location": "floating",
+   "man_made": "obstacle",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1426591864",
+  "lat": 45.6053713,
+  "lon": 6.2778303,
+  "tags": {
+   "location": "floating",
+   "man_made": "obstacle",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1426591865",
+  "lat": 45.6047646,
+  "lon": 6.2792483,
+  "tags": {
+   "location": "floating",
+   "man_made": "obstacle",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1426591866",
+  "lat": 45.6048561,
+  "lon": 6.2791227,
+  "tags": {
+   "location": "floating",
+   "man_made": "obstacle",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1426591867",
+  "lat": 45.6043053,
+  "lon": 6.2790171,
+  "tags": {
+   "location": "floating",
+   "man_made": "obstacle",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1426591868",
+  "lat": 45.6042865,
+  "lon": 6.2788521,
+  "tags": {
+   "location": "floating",
+   "man_made": "obstacle",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1426591869",
+  "lat": 45.6036462,
+  "lon": 6.2786842,
+  "tags": {
+   "location": "floating",
+   "man_made": "obstacle",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1426591870",
+  "lat": 45.6036508,
+  "lon": 6.2784852,
+  "tags": {
+   "location": "floating",
+   "man_made": "obstacle",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1426591871",
+  "lat": 45.6031876,
+  "lon": 6.2776563,
+  "tags": {
+   "location": "floating",
+   "man_made": "obstacle",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1426591872",
+  "lat": 45.6030592,
+  "lon": 6.2774169,
+  "tags": {
+   "location": "floating",
+   "man_made": "obstacle",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1426591873",
+  "lat": 45.6031813,
+  "lon": 6.2771902,
+  "tags": {
+   "location": "floating",
+   "man_made": "obstacle",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1426591874",
+  "lat": 45.6057091,
+  "lon": 6.2788084,
+  "tags": {
+   "location": "floating",
+   "man_made": "obstacle",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1426591875",
+  "lat": 45.6056197,
+  "lon": 6.2787621,
+  "tags": {
+   "location": "floating",
+   "man_made": "obstacle",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1426591876",
+  "lat": 45.6055594,
+  "lon": 6.2787369,
+  "tags": {
+   "location": "floating",
+   "man_made": "obstacle",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1426591877",
+  "lat": 45.6060408,
+  "lon": 6.2792155,
+  "tags": {
+   "location": "floating",
+   "man_made": "obstacle",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1426591878",
+  "lat": 45.6059622,
+  "lon": 6.2791548,
+  "tags": {
+   "location": "floating",
+   "man_made": "obstacle",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1442617799",
+  "lat": 45.0409364,
+  "lon": -0.7269933,
+  "tags": {
+   "addr:city": "Avensan",
+   "addr:housenumber": "4",
+   "addr:postcode": "33480",
+   "addr:street": "Route de Casalié",
+   "building": "yes",
+   "contact:phone": "+33 5 47 74 52 10",
+   "contact:website": "https://www.wampark.fr/base/bordeaux-nord-avensan/",
+   "email": "base-avensan@wampark.fr",
+   "fee": "yes",
+   "leisure": "sports_centre",
+   "name": "WAM PARK Bordeaux Nord - Avensan",
+   "operator": "WAM PARK",
+   "ref:FR:NAF": "93.29Z",
+   "sport": "wakeboarding;nautic_ski"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1518718530",
+  "lat": 46.4805561,
+  "lon": 2.0319326,
+  "tags": {
+   "area": "yes",
+   "leisure": "track",
+   "lit": "no",
+   "name": "Parcours de Ski Nautique",
+   "ref:FR:sport_equip": "E004I361630004",
+   "sport": "water_ski;wakeboarding",
+   "surface": "water"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "relation/11698856",
+  "lat": 48.2674078,
+  "lon": 6.4135909,
+  "tags": {
+   "addr:city": "Thaon-les-Vosges",
+   "addr:housenumber": "23",
+   "addr:postcode": "88150",
+   "addr:street": "Chemin de l'Écluse",
+   "fixme": "confirmer délimitation du Wam Park, surtout à l'extrémité lointaine du lac.",
+   "leisure": "water_park",
+   "name": "WAM Park - Vosges",
+   "sport": "water_ski;wakeboarding",
+   "type": "multipolygon",
+   "website": "https://www.wampark.fr/vosges-thaon/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/482835260",
+  "lat": 46.24028,
+  "lon": 0.6793764,
+  "tags": {
+   "name": "Ski Nautique",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+   "sport": "skiing"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/1858910401",
+  "lat": 46.0464027,
+  "lon": 1.2789163,
+  "tags": {
+   "leisure": "marina",
+   "name": "Port du Ski Nautique Club du Limousin",
+   "website": "http://sncl87.free.fr/Pages/le-site.htm"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/1931153898",
+  "lat": 45.455831,
+  "lon": 4.7798463,
+  "tags": {
+   "addr:postcode": "69420",
+   "leisure": "sports_centre",
+   "name": "Teleski nautique",
+   "operator": "Wam Park Condrieu"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/2736880651",
+  "lat": 48.4282994,
+  "lon": -4.6070159,
+  "tags": {
+   "building": "hut",
+   "leisure": "sports_centre",
+   "name": "Advance Ride - Wakeboard tracté",
+   "website": "http://adr-cablepark.fr/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/4507530590",
+  "lat": 16.2753308,
+  "lon": -61.5826533,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "AGSN ski nautique",
+   "opening_hours": "We-Su 10:00-18:00",
+   "phone": "+590 690 76 41 30",
+   "source": "survey",
+   "sport": "sailing"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/4861454551",
+  "lat": 46.7448341,
+  "lon": -1.7339387,
+  "tags": {
+   "aerialway": "pylon",
+   "name": "WakePark"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/5092868404",
+  "lat": 47.3533151,
+  "lon": 6.3797607,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Site de Ski Nautique et Motonautisme",
+   "source": "data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 11/2015",
+   "sport": "swimming"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/5784439154",
+  "lat": 45.4311091,
+  "lon": 6.620086,
+  "tags": {
+   "amenity": "bar",
+   "name": "Courchevel Wake Park"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/9445503060",
+  "lat": 43.2724051,
+  "lon": 6.5834916,
+  "tags": {
+   "addr:city": "Grimaud",
+   "addr:postcode": "83310",
+   "addr:street": "Place du 14 Juin",
+   "club": "sport",
+   "name": "club de ski nautique",
+   "opening_hours": "Mo-Su 10:00-18:00",
+   "sport": "ski_nautique"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/10101242783",
+  "lat": 48.3870525,
+  "lon": -2.3344713,
+  "tags": {
+   "addr:city": "DOLO",
+   "addr:postcode": "22270",
+   "addr:street": "Etang du Lou",
+   "leisure": "sports_centre",
+   "name": "BZH Wake Park",
+   "operator": "BZH Wake Park",
+   "sport": "cable_skiing",
+   "website": "https://bzhwakepark.com"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11682246342",
+  "lat": 45.7031363,
+  "lon": 6.1132426,
+  "tags": {
+   "fixme": "Donner le bon nom : \"Cachin Wake Park\" ou \"Cachin Water Activities\" (cf site web) ?",
+   "leisure": "water_park",
+   "name": "Cachin Wake Park",
+   "operator": "Cachin Water Activities",
+   "website": "https://cachinwakepark.com"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/11787253200",
+  "lat": 45.3860553,
+  "lon": 2.2925716,
+  "tags": {
+   "club": "sport",
+   "name": "Club Motonautique Et Ski Nautique"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/13780675750",
+  "lat": 46.4393951,
+  "lon": 1.6142146,
+  "tags": {
+   "alt_name": "SNCI",
+   "level": "0",
+   "name": "École de Ski Nautique",
+   "operator": "Ski Nautique Club de l'Indre",
+   "phone": "+33 6 08 04 73 98",
+   "shop": "water_sports",
+   "wheelchair": "yes"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "node/13860496691",
+  "lat": 46.4800804,
+  "lon": 2.030707,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "name": "Départ Ski Nautique",
+   "operator": "Sensas'Parc",
+   "panoramax": "81dd3f47-dda6-4f46-8747-48fac3cf7c10",
+   "public_transport": "station",
+   "ref": "5"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/63864874",
+  "lat": 43.6525027,
+  "lon": 7.1550293,
+  "tags": {
+   "building": "yes",
+   "leisure": "sports_centre",
+   "name": "Cagnes Ski Nautique Club",
+   "source": "data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 2014",
+   "sport": "water_sports",
+   "wikidata": "Q120321222"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/114177652",
+  "lat": 48.513469,
+  "lon": 2.669055,
+  "tags": {
+   "fee": "yes",
+   "leisure": "sports_centre",
+   "name": "Ski Nautique - Club de Melun",
+   "phone": "+33616400643",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+   "sport": "swimming",
+   "wall": "no",
+   "website": "http://www.sncm77.org/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/304185953",
+  "lat": 43.4081657,
+  "lon": 6.6948909,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Centre international de Ski Nautique"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/307320733",
+  "lat": 48.9079109,
+  "lon": 2.7340192,
+  "tags": {
+   "man_made": "pier",
+   "name": "Téléski Nautique"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/341438676",
+  "lat": 46.3229076,
+  "lon": 3.3535787,
+  "tags": {
+   "building": "yes",
+   "building:levels": "0",
+   "name": "Natural Wake Park",
+   "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2015",
+   "website": "https://www.naturalwakepark.com/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/442783218",
+  "lat": 45.4161748,
+  "lon": 1.1626383,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "description": "Sens antihoraire, 800m, 10 accrocheurs",
+   "name": "Rouffiac Cablepark",
+   "operator": "Rouffiac Cablepark",
+   "website": "https://rouffiaccablepark.fr/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/442793757",
+  "lat": 43.1842832,
+  "lon": 2.4178276,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "name": "Téléski nautique de Carcassonne"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/442891021",
+  "lat": 42.8846097,
+  "lon": 1.6262502,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "name": "Téléski nautique de Mercus",
+   "website": "https://basenautiquemercus.fr/public/?code=le-teleski-nautique"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/443225503",
+  "lat": 47.8657806,
+  "lon": -1.0587619,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "name": "Téléski nautique de la Rincerie",
+   "operator": "Wakepark de la Rincerie",
+   "website": "http://www.wakepark-rincerie.com"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/444148444",
+  "lat": 45.1843065,
+  "lon": -1.0871487,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "name": "I Wake Park Hourtin"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/444150182",
+  "lat": 45.3804889,
+  "lon": 1.6990973,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "name": "Tiki Wake Park",
+   "website": "http://www.tiki-wake-park.com"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/568894656",
+  "lat": 44.5537848,
+  "lon": -1.1500517,
+  "tags": {
+   "addr:postcode": "33260",
+   "leisure": "sports_centre",
+   "name": "Le Plan d'Eau - École de Ski Nautique",
+   "sport": "ski_nautique",
+   "website": "https://www.leplandeau.fr/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/615897132",
+  "lat": 43.7394034,
+  "lon": 1.351596,
+  "tags": {
+   "building": "yes",
+   "name": "Awake Park",
+   "sport": "surfing",
+   "website": "https://awakeparktoulouse.wixsite.com/toulouse"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/670966439",
+  "lat": 14.530029,
+  "lon": -61.0027644,
+  "tags": {
+   "email": "martiniquewakepark@yahoo.com",
+   "leisure": "water_park",
+   "name": "Martinique Wake Park",
+   "phone": "+596 596 69 46 21",
+   "website": "https://www.martiniquewakepark.com/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/706582455",
+  "lat": 46.2363767,
+  "lon": 4.8047333,
+  "tags": {
+   "building": "retail",
+   "name": "Téléski Nautique \"Le Lac\""
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/879832704",
+  "lat": 45.604459,
+  "lon": 6.2776032,
+  "tags": {
+   "aerialway": "drag_lift",
+   "name": "Téléski nautique",
+   "survey:date": "2021-09-07"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/911508176",
+  "lat": 45.0141798,
+  "lon": -0.1804808,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "name": "Dahu Wake Park",
+   "phone": "+33 7 56 83 47 86",
+   "source": "survey",
+   "website": "https://www.dahuwakefamily.com/"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/976916843",
+  "lat": 47.8568174,
+  "lon": -3.2154979,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "name": "Téléski nautique",
+   "operator": "West Wake Park"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1064276430",
+  "lat": 45.6059516,
+  "lon": 6.2793043,
+  "tags": {
+   "aerialway": "drag_lift",
+   "name": "Téléski nautique"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1068736029",
+  "lat": 47.6398529,
+  "lon": 7.4831066,
+  "tags": {
+   "aerialway": "drag_lift",
+   "name": "East Wake Park 686",
+   "operator": "East Wakepark"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1096965007",
+  "lat": 46.7028349,
+  "lon": -1.942213,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "name": "Téléski nautique",
+   "oneway": "no"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1219352672",
+  "lat": 48.9087594,
+  "lon": 2.733543,
+  "tags": {
+   "area": "yes",
+   "name": "Téléski Nautique de Jablines",
+   "tourism": "attraction"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1292927164",
+  "lat": 46.480559,
+  "lon": 2.0319307,
+  "tags": {
+   "aerialway": "drag_lift",
+   "name": "Câble Pour Ski Nautique",
+   "opening_hours": "Apr We,Sa-Su 13:00-18:00; May-Jun We,Fr-Su 12:00-19:00; Jul-Aug Mo-Su 12:00-20:00; Sep We,Fr-Su 12:00-19:00; Oct We,Sa-Su 13:00-18:00",
+   "operator": "Sensas'Parc"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "way/1369663327",
+  "lat": 48.8439469,
+  "lon": 6.9276992,
+  "tags": {
+   "building": "platform",
+   "fee": "yes",
+   "leisure": "sports_centre",
+   "name": "plateforme de ski nautique",
+   "sport": "ski_nautique"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "relation/2913985",
+  "lat": 42.5167119,
+  "lon": 2.8129452,
+  "tags": {
+   "name": "Téléski Nautique & Pêche",
+   "natural": "water",
+   "swimming": "no",
+   "swimming:signed": "yes",
+   "type": "multipolygon"
+  }
+ },
+ {
+  "country": "FR",
+  "osm": "relation/20730251",
+  "lat": 46.4805561,
+  "lon": 2.0319326,
+  "tags": {
+   "name": "Parcours de Ski Nautique",
+   "type": "multipolygon"
+  }
+ }
+]
