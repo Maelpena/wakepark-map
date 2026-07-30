@@ -108,6 +108,17 @@ donc seule la collecte OSM reste à lancer. Compter une à deux minutes par pays
 La carte se recadre automatiquement sur les données présentes, et le filtre par pays
 réapparaît de lui-même.
 
+## Déployer une mise à jour
+
+Le site est servi par GitHub Pages depuis la branche `main`, à la racine du dépôt. Un
+`git push` suffit, le déploiement prend une minute ou deux.
+
+Un détail à ne pas oublier : `index.html` référence ses assets avec un marqueur de version
+(`app.js?v=2`). **Incrémenter ce numéro** — les trois occurrences — quand la mise à jour
+touche `app.js`, `styles.css` ou `data/spots.js`. Sans ça, un visiteur déjà venu peut rester
+sur les anciens fichiers pendant une dizaine de minutes, voire mélanger un HTML neuf avec un
+JavaScript périmé.
+
 ## Crédits
 
 Fonds de carte : © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors,
