@@ -580,7 +580,16 @@ if (fs.existsSync(OV_FILE)) {
       s.cables = o.cables || CABLE_TEXT[o.type] || s.cables;
     }
     if (!s.sources.includes('vérifié à la main')) s.sources.push('vérifié à la main');
-    if (s.dataQuality === 'approx' && o.address) s.dataQuality = 'partial';
+
+    /* dataQuality décrit la POSITION, pas la richesse de la fiche : connaître l'adresse
+       postale ne déplace pas le point. Un spot resté au centroïde de sa commune garde donc
+       `approx` et son marqueur creux, même entièrement renseigné par ailleurs.
+       Seules des coordonnées explicites le font changer de catégorie. */
+    if (Number.isFinite(o.lat) && Number.isFinite(o.lng)) {
+      s.lat = o.lat;
+      s.lng = o.lng;
+      s.dataQuality = 'verified';
+    }
     ovApplied++;
   }
 

@@ -3611,20 +3611,21 @@ window.SPOTS = [
   "lat": 37.296137,
   "lng": -1.880722,
   "type": "fullsize",
-  "cables": "Téléski nautique full-size (5-6 mâts), plus un bi-poulie sur le site",
-  "website": null,
+  "cables": "Téléski full-size à 5 mâts sur un lac de 600 m, plus un System 2.0",
+  "website": "https://lunarcablepark.com/en/",
   "facebook": null,
-  "instagram": null,
-  "phone": null,
-  "email": null,
-  "address": null,
-  "openingHours": null,
+  "instagram": "https://www.instagram.com/lunarcablepark/",
+  "phone": "+34 665 51 28 73",
+  "email": "recepcion@lunarcablepark.com",
+  "address": "Ctra. el Pantano, Pol. 12, 04610 Cuevas del Almanzora, Almería",
+  "openingHours": "Lundi au dimanche 10h - 20h, samedi jusqu'à 21h",
   "season": null,
   "prices": null,
-  "notes": null,
+  "notes": "⚠ Position approchée : le parc se trouve sur la route du barrage (Ctra. el Pantano), au nord-ouest du bourg, mais son plan d'eau n'est pas cartographié dans OpenStreetMap. Aussi wakesurf, parc gonflable, paddle et kayak",
   "sources": [
    "waketricks",
-   "géocodage commune"
+   "géocodage commune",
+   "vérifié à la main"
   ],
   "dataQuality": "approx"
  },
@@ -6290,7 +6291,7 @@ window.SPOTS = [
    "géocodage commune",
    "vérifié à la main"
   ],
-  "dataQuality": "partial"
+  "dataQuality": "approx"
  },
  {
   "id": "fr-wakepark-cable-la-grande-motte",

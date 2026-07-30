@@ -47,13 +47,27 @@ Les données sont dans un `.js` et non un `.json` : en `file://`, un navigateur 
 `fetch()` d'un fichier local (CORS), mais pas un `<script src>`. C'est ce qui permet
 d'ouvrir l'app sans serveur.
 
-### Pourquoi un thème clair et ce fond de carte
+### Le fond de carte, et comment il devient sombre
 
-Les fonds sobres et sombres (CARTO) affichent les libellés **en anglais** (« Germany »,
+Les fonds sombres tout faits (CARTO) affichent les libellés **en anglais** (« Germany »,
 « Belgium »), et les tuiles OSM standard donnent les noms locaux (« Deutschland »,
 « België / Belgique »). Seul **OpenStreetMap France** rend « Allemagne », « Pays-Bas »,
-« Londres ». Ce fond est clair, d'où l'interface claire : un panneau sombre par-dessus
-jurait et rendait l'ensemble illisible.
+« Londres » — mais ses tuiles sont claires.
+
+On les assombrit donc dans le navigateur, via un filtre CSS sur le calque de tuiles :
+`invert` retourne la luminosité (fond clair → sombre, texte noir → blanc) et
+`hue-rotate(180deg)` remet les teintes à l'endroit, sans quoi l'eau bleue virerait à
+l'orange. Le filtre porte sur `.leaflet-tile-pane` et non sur chaque tuile : une seule
+couche de composition, donc pas de coutures pendant le zoom.
+
+Tout se règle sur une seule ligne, la variable `--tile-filter` en haut de `styles.css` :
+
+```css
+--tile-filter: invert(1) hue-rotate(180deg) brightness(0.78) contrast(1.12) saturate(0.45);
+```
+
+Plus sombre → baisser `brightness`. Plus coloré → monter `saturate`. Plus neutre → ajouter
+du `grayscale`.
 
 ## Les données
 
@@ -70,8 +84,13 @@ Le champ `dataQuality` indique la confiance, et la fiche l'affiche en clair :
 |---|---:|---|
 | `verified` | 131 | Nom apparié entre un annuaire et OSM : position et type fiables. |
 | `nearby` | 76 | Position issue de l'installation à câble relevée par OSM dans la commune. |
-| `partial` | 75 | Une seule source, position non recoupée. |
-| `approx` | 91 | **Position au centre de la commune**, pas sur le plan d'eau. Marqueur creux. |
+| `partial` | 74 | Une seule source, position non recoupée. |
+| `approx` | 92 | **Position au centre de la commune**, pas sur le plan d'eau. Marqueur creux. |
+
+`dataQuality` décrit la **position**, pas la richesse de la fiche : connaître l'adresse
+postale ne déplace pas le point. Un spot entièrement renseigné mais resté au centroïde de sa
+commune garde donc `approx` et son marqueur creux. Seules des coordonnées explicites
+(`"lat"` / `"lng"` dans `overrides.json`) le font passer en `verified`.
 
 Un champ absent s'affiche « non renseigné ». Rien n'est inventé pour combler un trou.
 
@@ -111,8 +130,10 @@ bi-poulie.
 - `"action": "drop"` retire le spot de la carte (base bateau, spot fermé, doublon).
 - La valeur `"-"` efface un champ — utile quand une source donne une information fausse,
   par exemple un domaine expiré racheté par un site sans rapport.
-- Champs acceptés : `name`, `type`, `address`, `phone`, `email`, `website`, `instagram`,
-  `facebook`, `season`, `openingHours`, `prices`, `cables`, `city`, `notes`.
+- `"lat"` et `"lng"` **corrigent la position** et font passer le spot en `verified`
+  (marqueur plein). C'est le seul moyen de sortir un spot du statut « approché ».
+- Champs acceptés : `name`, `type`, `lat`, `lng`, `address`, `phone`, `email`, `website`,
+  `instagram`, `facebook`, `season`, `openingHours`, `prices`, `cables`, `city`, `notes`.
 
 ## Régénérer les données
 

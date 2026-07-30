@@ -10,7 +10,7 @@
   <!-- ?v= : GitHub Pages sert les assets avec un cache de 10 min. Sans ce marqueur, un
        visiteur qui revient peut mélanger un HTML neuf et un JS périmé. À incrémenter à
        chaque déploiement qui touche app.js, styles.css ou data/spots.js. -->
-  <link rel="stylesheet" href="styles.css?v=3">
+  <link rel="stylesheet" href="styles.css?v=4">
 </head>
 <body>
 
@@ -45,6 +45,17 @@
     <p class="count"><strong id="count">0</strong> <span id="count-label">spots affichés</span></p>
   </div>
 
+  <div class="legend">
+    <div class="legend-row">
+      <i class="sample plein"></i>
+      <span>Position exacte, sur le plan d'eau</span>
+    </div>
+    <div class="legend-row">
+      <i class="sample creux"></i>
+      <span>Marqueur creux : position approchée, posée au centre de la commune</span>
+    </div>
+  </div>
+
   <div id="results"></div>
 
   <footer>
@@ -63,7 +74,7 @@
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
-<script src="data/spots.js?v=3"></script>
-<script src="app.js?v=3"></script>
+<script src="data/spots.js?v=4"></script>
+<script src="app.js?v=4"></script>
 </body>
 </html>
