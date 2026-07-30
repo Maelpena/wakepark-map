@@ -43,16 +43,91 @@ const el = {
 
 /* ---------------------------------------------------------------- carte */
 
-const map = L.map('map', { center: [46.6, 2.4], zoom: 6, zoomControl: true, worldCopyJump: true });
-
-/* Tuiles d'OpenStreetMap France : les libellés y sont en français (« Allemagne »,
-   « Pays-Bas », « Londres »). Les fonds CARTO, plus sobres, sont en anglais, et les tuiles
-   OSM standard affichent les noms locaux (« Deutschland », « België / Belgique »). */
-L.tileLayer('https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png', {
-  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> — tuiles <a href="https://openstreetmap.fr/">OpenStreetMap France</a>',
-  subdomains: 'abc',
+/* maxZoom explicite : Leaflet.markercluster lit map.getMaxZoom() pour dimensionner ses
+   grilles de regroupement. Une couche raster fournissait cette borne ; la couche vectorielle
+   MapLibre n'en déclare aucune, getMaxZoom() renvoie alors Infinity et l'ajout du groupe de
+   clustering échoue — ce qui faisait disparaître tous les marqueurs. */
+const map = L.map('map', {
+  center: [46.6, 2.4],
+  zoom: 6,
+  minZoom: 2,
   maxZoom: 19,
+  zoomControl: true,
+  worldCopyJump: true,
+});
+
+/* ------------------------------------------------------------- fond de carte
+
+   Fond vectoriel (OpenFreeMap, style « dark », sans clé ni quota) plutôt qu'un fond raster.
+   Les fonds raster imposaient de choisir entre deux défauts : CARTO est sobre mais en
+   anglais, OpenStreetMap France est en français mais sa hiérarchie de libellés est faible —
+   un village s'y affiche presque aussi gros qu'une capitale, et rien n'est modifiable
+   puisque le texte est cuit dans l'image.
+
+   En vectoriel, le style est du JSON : on réécrit les libellés en français et on choisit à
+   partir de quel zoom chaque catégorie de lieu apparaît. */
+
+const BASEMAP_STYLE = 'https://tiles.openfreemap.org/styles/dark';
+
+/* Zoom minimal par catégorie de lieu : c'est ce qui désencombre la carte. Aux zooms
+   européens on ne veut que les pays et les grandes villes ; les villages n'apparaissent
+   qu'une fois vraiment zoomé. */
+const PLACE_MIN_ZOOM = {
+  place_other: 13,    // hameaux, lieux-dits, quartiers
+  place_suburb: 12,
+  place_village: 11,
+  place_town: 8,
+  place_city: 5,
+};
+
+/* Libellé français quand il existe, sinon romanisation, sinon nom local. */
+const FRENCH_LABEL = [
+  'coalesce',
+  ['get', 'name:fr'],
+  ['get', 'name:latin'],
+  ['get', 'name'],
+];
+
+const glLayer = L.maplibreGL({
+  style: BASEMAP_STYLE,
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> — fond <a href="https://openfreemap.org/">OpenFreeMap</a>',
 }).addTo(map);
+
+glLayer.getMaplibreMap().on('style.load', () => {
+  const gl = glLayer.getMaplibreMap();
+
+  for (const layer of gl.getStyle().layers) {
+    if (layer.type !== 'symbol') continue;
+
+    // Le style d'origine compose nom latin + nom non latin ; on impose le français.
+    if (layer.layout?.['text-field']) {
+      gl.setLayoutProperty(layer.id, 'text-field', FRENCH_LABEL);
+    }
+    if (layer.id in PLACE_MIN_ZOOM) {
+      gl.setLayerZoomRange(layer.id, PLACE_MIN_ZOOM[layer.id], 24);
+    }
+  }
+});
+
+/* OpenFreeMap est un service communautaire gratuit. S'il ne répond pas, mieux vaut une
+   carte en anglais qu'un fond vide : on bascule sur un raster sombre. Déclenché par
+   l'erreur de chargement du style, jamais par un simple délai — un onglet en arrière-plan
+   met le rendu en pause et ferait sinon basculer à tort. */
+let fallbackFait = false;
+
+glLayer.getMaplibreMap().on('error', (e) => {
+  const cible = e?.error?.url || '';
+  if (fallbackFait || !cible.includes('openfreemap.org')) return;
+  fallbackFait = true;
+
+  console.warn('Fond OpenFreeMap indisponible, bascule sur un fond de secours.', e.error);
+  map.removeLayer(glLayer);
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
+    subdomains: 'abcd',
+    maxZoom: 19,
+  }).addTo(map);
+});
 
 const cluster = L.markerClusterGroup({
   maxClusterRadius: 45,

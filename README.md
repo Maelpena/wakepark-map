@@ -47,27 +47,47 @@ Les données sont dans un `.js` et non un `.json` : en `file://`, un navigateur 
 `fetch()` d'un fichier local (CORS), mais pas un `<script src>`. C'est ce qui permet
 d'ouvrir l'app sans serveur.
 
-### Le fond de carte, et comment il devient sombre
+### Le fond de carte : vectoriel, et pourquoi
 
-Les fonds sombres tout faits (CARTO) affichent les libellés **en anglais** (« Germany »,
-« Belgium »), et les tuiles OSM standard donnent les noms locaux (« Deutschland »,
-« België / Belgique »). Seul **OpenStreetMap France** rend « Allemagne », « Pays-Bas »,
-« Londres » — mais ses tuiles sont claires.
+Aucun fond **raster** ne convenait. CARTO est sobre et bien hiérarchisé mais en anglais
+(« Germany »). Les tuiles OSM standard donnent les noms locaux (« Deutschland »,
+« België / Belgique »). OpenStreetMap France est en français, mais sa hiérarchie de
+libellés est faible : un village s'y affiche presque aussi gros qu'une capitale, et on n'y
+peut rien puisque le texte est cuit dans l'image.
 
-On les assombrit donc dans le navigateur, via un filtre CSS sur le calque de tuiles :
-`invert` retourne la luminosité (fond clair → sombre, texte noir → blanc) et
-`hue-rotate(180deg)` remet les teintes à l'endroit, sans quoi l'eau bleue virerait à
-l'orange. Le filtre porte sur `.leaflet-tile-pane` et non sur chaque tuile : une seule
-couche de composition, donc pas de coutures pendant le zoom.
+D'où le passage au **vectoriel** : [OpenFreeMap](https://openfreemap.org/), style `dark`,
+sans clé API ni quota, affiché via MapLibre GL greffé dans Leaflet
+(`@maplibre/maplibre-gl-leaflet`), ce qui laisse intacts les marqueurs et le clustering.
+Le style étant du JSON, deux réglages deviennent possibles — tous deux dans `app.js` :
 
-Tout se règle sur une seule ligne, la variable `--tile-filter` en haut de `styles.css` :
+**La langue.** Le `text-field` de chaque couche de symboles est réécrit en
+`coalesce(name:fr, name:latin, name)`. Les tuiles portent bien `name:fr` (« Allemagne »,
+« Belgique », « Londres ») ; le repli sert aux lieux sans traduction, dont le nom local est
+déjà le bon.
 
-```css
---tile-filter: invert(1) hue-rotate(180deg) brightness(0.78) contrast(1.12) saturate(0.45);
-```
+**La densité.** Le style sépare les lieux par catégorie, ce qui donne un vrai levier sur
+l'encombrement — c'est la table `PLACE_MIN_ZOOM` :
 
-Plus sombre → baisser `brightness`. Plus coloré → monter `saturate`. Plus neutre → ajouter
-du `grayscale`.
+| Catégorie | Visible à partir du zoom |
+|---|---:|
+| Grandes villes, pays | par défaut |
+| Villes (`place_city`) | 5 |
+| Bourgs (`place_town`) | 8 |
+| Villages | 11 |
+| Quartiers, faubourgs | 12 |
+| Hameaux, lieux-dits | 13 |
+
+Monter un chiffre épure la carte, le baisser densifie.
+
+Si OpenFreeMap ne répond pas, la carte bascule automatiquement sur un raster CARTO sombre —
+en anglais, mais mieux qu'un fond vide. La bascule est déclenchée par l'erreur de chargement
+du style, jamais par un délai : un onglet en arrière-plan met le rendu en pause et ferait
+sinon basculer à tort.
+
+⚠️ Le passage au vectoriel impose `maxZoom` sur la carte Leaflet. Leaflet.markercluster lit
+`map.getMaxZoom()` pour dimensionner ses grilles ; une couche raster fournissait cette
+borne, pas la couche MapLibre. Sans elle, `getMaxZoom()` vaut `Infinity` et l'ajout du
+groupe de clustering échoue — tous les marqueurs disparaissent.
 
 ## Les données
 

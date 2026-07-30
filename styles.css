@@ -1,15 +1,9 @@
 /* Thème sombre.
 
-   Le fond de carte est celui d'OpenStreetMap France — le seul dont les libellés soient
-   réellement en français — mais il est clair par nature. On l'assombrit côté navigateur :
-   `invert` retourne la luminosité (fond clair → fond sombre, texte noir → texte blanc) et
-   `hue-rotate(180deg)` remet les teintes à l'endroit, sinon l'eau bleue virerait à l'orange.
-   La désaturation laisse les marqueurs colorés dominer.
-
-   Pour régler l'intensité, il n'y a qu'à toucher --tile-filter ci-dessous :
-     plus sombre   → baisser le brightness (0.65)
-     plus coloré   → monter le saturate (0.8)
-     plus neutre   → monter le grayscale (0.5) */
+   Le fond de carte est vectoriel (OpenFreeMap, style « dark ») : il est nativement sombre,
+   plus besoin du filtre CSS qui assombrissait les anciennes tuiles raster. La langue des
+   libellés et le zoom d'apparition de chaque catégorie de lieu se règlent côté JavaScript,
+   dans app.js. */
 
 :root {
   --bg: #0f1419;
@@ -24,8 +18,6 @@
   --c-fullsize: #ff7a45;
   --c-system2: #33c3f0;
   --c-unknown: #8b98a5;
-
-  --tile-filter: invert(1) hue-rotate(180deg) brightness(0.78) contrast(1.12) saturate(0.45);
 }
 
 * { box-sizing: border-box; }
@@ -48,9 +40,8 @@ body {
 
 #map { height: 100vh; background: #0b0f13; }
 
-/* Filtre appliqué au calque de tuiles entier plutôt qu'à chaque tuile : une seule couche
-   de composition, donc pas de coutures visibles entre tuiles pendant le zoom. */
-.leaflet-tile-pane { filter: var(--tile-filter); }
+/* MapLibre pose son propre bloc d'attribution ; celui de Leaflet suffit. */
+.maplibregl-ctrl-attrib { display: none !important; }
 
 #sidebar {
   display: flex;
