@@ -3,9 +3,12 @@
 Carte interactive des téléskis nautiques et cable parks. **128 spots en France** pour ce
 premier jet ; le reste de l'Europe est déjà préparé côté données mais pas encore intégré.
 
+**→ [maelpena.github.io/wakepark-map](https://maelpena.github.io/wakepark-map/)**
+
 ## Ouvrir l'application
 
-Double-clique sur **`index.html`**. C'est tout — pas de `npm install`, pas de serveur à lancer.
+En ligne via le lien ci-dessus, ou en local : double-clique sur **`index.html`**. C'est tout
+— pas de `npm install`, pas de serveur à lancer.
 
 Une connexion internet est nécessaire : les fonds de carte et la bibliothèque Leaflet sont
 chargés depuis le web. Les données des spots, elles, sont locales (`data/spots.js`).

@@ -133,18 +133,27 @@ function renderResults(visible) {
 
 /* --------------------------------------------------------------- détail */
 
-function select(s, fly) {
+function select(s, fly, animate = true) {
   if (state.selected && state.selected.marker._icon) {
     state.selected.marker._icon.querySelector('.pin')?.classList.remove('selected');
   }
   state.selected = s;
 
-  if (fly) map.flyTo([s.lat, s.lng], Math.max(map.getZoom(), 12), { duration: 0.7 });
+  /* On déplace la carte nous-mêmes plutôt que via cluster.zoomToShowLayer() : ce dernier
+     ne bouge pas la carte et n'appelle jamais son callback ici. Zoomer suffit de toute
+     façon à sortir le marqueur de son cluster (rayon de 45 px).
+     Pas d'animation pour un lien profond : au chargement la carte n'a pas encore sa taille
+     définitive et l'animation se perdait, laissant la vue sur le cadrage par défaut. */
+  const highlight = () => s.marker._icon?.querySelector('.pin')?.classList.add('selected');
 
-  // Le marqueur peut être dans un cluster fermé : on le dé-cluster avant de le styler.
-  cluster.zoomToShowLayer(s.marker, () => {
-    s.marker._icon?.querySelector('.pin')?.classList.add('selected');
-  });
+  if (fly) {
+    const zoom = Math.max(map.getZoom(), 13);
+    map.once('moveend', highlight);
+    if (animate) map.flyTo([s.lat, s.lng], zoom, { duration: 0.7 });
+    else map.setView([s.lat, s.lng], zoom, { animate: false });
+  }
+
+  highlight(); // si le marqueur est déjà affiché seul
 
   showDetail(s);
   setHash(`#spot=${encodeURIComponent(s.id)}`);
@@ -304,7 +313,7 @@ const hash = /^#spot=(.+)$/.exec(location.hash);
 const target = hash && spots.find((x) => x.id === decodeURIComponent(hash[1]));
 
 if (target) {
-  select(target, true);
+  map.whenReady(() => select(target, true, false));
 } else if (spots.length) {
   /* Si la carte est mesurée avant d'avoir sa taille définitive (panneau encore masqué,
      fenêtre redimensionnée juste après l'ouverture), le zoom calculé est faux. On recadre
@@ -312,9 +321,11 @@ if (target) {
   let touched = false;
   let framing = false;
 
+  /* animate: false — sinon, quand le zoom calculé égale le zoom courant, fitBounds passe
+     par un panoramique animé au résultat peu fiable au chargement. */
   const frame = () => {
     framing = true;
-    map.fitBounds(coreBounds(spots).pad(0.08));
+    map.fitBounds(coreBounds(spots).pad(0.08), { animate: false });
     framing = false;
   };
 
