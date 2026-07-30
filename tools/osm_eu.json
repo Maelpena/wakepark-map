@@ -1,0 +1,5882 @@
+[
+ {
+  "country": "BE",
+  "osm": "node/2535794879",
+  "lat": 51.0402631,
+  "lon": 5.2210706,
+  "tags": {
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "node/2825655535",
+  "lat": 51.0593508,
+  "lon": 4.4470145,
+  "tags": {
+   "club": "sport",
+   "name": "Mechelse Waterski Klub",
+   "short_name": "MWK",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "node/3872683655",
+  "lat": 51.0475533,
+  "lon": 4.0545205,
+  "tags": {
+   "leisure": "marina",
+   "name": "Costa Zela",
+   "sport": "water_ski",
+   "website": "https://www.costazela.be/"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "node/3872683656",
+  "lat": 51.0477565,
+  "lon": 4.0540623,
+  "tags": {
+   "club": "sport",
+   "name": "Costa Zela",
+   "sport": "water_ski",
+   "website": "https://www.costazela.be/"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "node/3904513436",
+  "lat": 51.1753402,
+  "lon": 4.3245216,
+  "tags": {
+   "club": "sport",
+   "contact:facebook": "https://www.facebook.com/vvwkruibeke.kruibeke.9/",
+   "name": "VVW Kruibeke",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "node/4397676981",
+  "lat": 50.4606904,
+  "lon": 3.7923627,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Dock 79",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "node/4441653077",
+  "lat": 51.2583406,
+  "lon": 5.3214454,
+  "tags": {
+   "amenity": "boat_rental",
+   "canoe_rental": "yes",
+   "leisure": "marina",
+   "name": "Water Sports",
+   "sport": "water_ski;surfing"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "node/4594498221",
+  "lat": 50.9134516,
+  "lon": 3.6781198,
+  "tags": {
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "node/9626445307",
+  "lat": 50.8269504,
+  "lon": 3.1777813,
+  "tags": {
+   "addr:city": "Wevelgem",
+   "addr:housenumber": "3",
+   "addr:street": "Marremstraat",
+   "leisure": "water_park",
+   "name": "foudoo",
+   "sport": "wakeboarding;stand_up_paddling;kayak"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "node/11233199631",
+  "lat": 51.0455359,
+  "lon": 3.8072975,
+  "tags": {
+   "leisure": "water_park",
+   "name": "WakePark Gent",
+   "sport": "wakeboarding",
+   "website": "https://www.wakepark.gent/"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "node/11663884613",
+  "lat": 50.460536,
+  "lon": 3.7917755,
+  "tags": {
+   "aerialway": "station",
+   "operator": "Dock 79",
+   "public_transport": "station",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "node/11870999781",
+  "lat": 51.1490905,
+  "lon": 4.8944697,
+  "tags": {
+   "club": "sport",
+   "contact:facebook": "https://www.facebook.com/vvwolen/",
+   "name": "VVW Olen Haven",
+   "phone": "+32 14 31 83 91",
+   "sport": "water_ski",
+   "website": "https://www.vvwolenhaven.be/"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "way/24013436",
+  "lat": 51.2407593,
+  "lon": 5.3848125,
+  "tags": {
+   "name": "Waterskiplas",
+   "natural": "water",
+   "operator": "Waterskiclub Kolonie",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "way/221811590",
+  "lat": 50.9495281,
+  "lon": 5.3215326,
+  "tags": {
+   "addr:housenumber": "2",
+   "addr:street": "Simpernelstraat",
+   "building": "industrial",
+   "building:levels": "0",
+   "club": "sport",
+   "name": "VVW Hasselt",
+   "roof:shape": "gabled",
+   "source:geometry:date": "2005-04-05",
+   "source:geometry:ref": "Gbg/542720",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "way/233492631",
+  "lat": 51.0649778,
+  "lon": 5.1968638,
+  "tags": {
+   "addr:city": "Beringen",
+   "addr:country": "BE",
+   "addr:housenumber": "200",
+   "addr:postcode": "3583",
+   "addr:state": "Limburg",
+   "addr:street": "Zandhoefstraat",
+   "amenity": "pub",
+   "building": "civic",
+   "food": "yes",
+   "name": "Tervant Ski",
+   "outdoor_seating": "yes",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "way/255425017",
+  "lat": 50.6506434,
+  "lon": 4.2351395,
+  "tags": {
+   "leisure": "marina",
+   "name": "Port de plaisance d'Ittre",
+   "seamark:harbour:category": "marina",
+   "seamark:type": "harbour",
+   "sport": "water_ski;sailing"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "way/328664886",
+  "lat": 51.3378091,
+  "lon": 3.2731483,
+  "tags": {
+   "addr:city": "Knokke-Heist",
+   "addr:housenumber": "41",
+   "addr:postcode": "8300",
+   "addr:street": "Duinenwater",
+   "building": "yes",
+   "email": "info@lakesideparadise.be",
+   "leisure": "sports_centre",
+   "name": "Lakeside Paradise",
+   "phone": "+32 50 60 60 35",
+   "source:geometry:date": "2016-06-27",
+   "source:geometry:ref": "Gbg/5634120",
+   "sport": "wakeboarding;water_ski",
+   "website": "https://www.lakesideparadise.be/"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "way/442077001",
+  "lat": 50.4616422,
+  "lon": 3.7936951,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "description": "Téléski nautique \"full-size\" de Dock79 (ex-Belgium Cable Park).\n760m, 9 accrocheurs, sens antihoraire",
+   "operator": "Dock 79",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://dock79.be"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "way/442078077",
+  "lat": 51.3363795,
+  "lon": 3.2749267,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "name": "Pro Cable",
+   "sport": "water_ski",
+   "website": "https://lakesideparadise.be/cable-park/"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "way/632634924",
+  "lat": 51.4700167,
+  "lon": 4.7391511,
+  "tags": {
+   "aerialway": "rope_tow",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "way/636023534",
+  "lat": 51.2148971,
+  "lon": 4.3656581,
+  "tags": {
+   "aerialway": "rope_tow",
+   "fixme": "pylons placed relative to my Mapillary pics, to be refined",
+   "note": "pylons placed relative to my Mapillary pics, to be refined",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "way/637910392",
+  "lat": 51.124701,
+  "lon": 4.9890137,
+  "tags": {
+   "addr:city": "Geel",
+   "addr:postcode": "2440",
+   "addr:street": "Kemeldijk",
+   "amenity": "community_centre",
+   "building": "yes",
+   "club": "sport",
+   "community_centre": "club_home",
+   "email": "info@aquaski.be",
+   "image": "https://www.aquaski.be/____impro/1/onewebmedia/IMG_20180925_110514.jpg",
+   "name": "Aqua-Ski",
+   "sport": "water_ski",
+   "website": "https://www.aquaski.be"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "way/697638789",
+  "lat": 51.0058971,
+  "lon": 5.6957739,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "name": "Terhills Cablepark",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "way/1212451907",
+  "lat": 51.0452256,
+  "lon": 3.8081645,
+  "tags": {
+   "aerialway": "drag_lift",
+   "fee": "yes",
+   "oneway": "no",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "way/1254721216",
+  "lat": 50.4610836,
+  "lon": 3.79144,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Dock 79",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "way/1308441103",
+  "lat": 50.9685931,
+  "lon": 3.6508772,
+  "tags": {
+   "addr:housenumber": "1",
+   "addr:street": "Vijverstraat",
+   "leisure": "sports_centre",
+   "name": "O'Douce",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.odouce.be/"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "node/8940541356",
+  "lat": 50.2038274,
+  "lon": 4.4001439,
+  "tags": {
+   "club": "yachting",
+   "name": "Club école de ski nautique",
+   "website": "https://www.ehn.be/"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "way/208667798",
+  "lat": 50.2218639,
+  "lon": 4.3868471,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "name": "Téléski nautique The Spin"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "way/282524407",
+  "lat": 50.2203981,
+  "lon": 4.3861087,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "name": "Téléski nautique The Spin"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "way/366886736",
+  "lat": 50.8416292,
+  "lon": 3.5877649,
+  "tags": {
+   "aerialway": "rope_tow",
+   "name": "The Outsider cablepark"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "way/456634957",
+  "lat": 51.4697559,
+  "lon": 4.7370353,
+  "tags": {
+   "addr:city": "Meer",
+   "addr:postcode": "2321",
+   "addr:street": "Hoogeind",
+   "building": "yes",
+   "name": "Goodlife Cablepark",
+   "website": "https://www.goodlifecablepark.be/"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "way/606135680",
+  "lat": 51.004611,
+  "lon": 5.6974513,
+  "tags": {
+   "addr:housenumber": "5",
+   "addr:street": "Nationaal Parklaan",
+   "building": "yes",
+   "name": "Terhills Cablepark"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "way/648822798",
+  "lat": 50.9079675,
+  "lon": 3.1844753,
+  "tags": {
+   "leisure": "playground",
+   "name": "Kabelbaan"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "way/760390755",
+  "lat": 50.2207435,
+  "lon": 4.3850516,
+  "tags": {
+   "addr:city": "Boussu-lez-Walcourt",
+   "addr:housenumber": "61",
+   "addr:postcode": "6440",
+   "addr:street": "Rue Crossart",
+   "amenity": "restaurant",
+   "building": "public",
+   "name": "The Spin Cablepark",
+   "source:geometry:date": "20170816112236",
+   "source:geometry:ref": "Picc/3417984",
+   "tourism": "attraction"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "way/825365381",
+  "lat": 50.2040505,
+  "lon": 4.4009811,
+  "tags": {
+   "area": "yes",
+   "name": "Club de Ski nautique",
+   "tourism": "attraction"
+  }
+ },
+ {
+  "country": "BE",
+  "osm": "relation/7616664",
+  "lat": 51.0045667,
+  "lon": 5.6717579,
+  "tags": {
+   "colour": "yellow",
+   "mtb:type": "crosscountry",
+   "name": "Inrijtraject Terhills Cablepark",
+   "osmc:symbol": "yellow:white:yellow_triangle",
+   "ref": "I",
+   "route": "mtb",
+   "symbol": "triangle",
+   "type": "route"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "node/520545436",
+  "lat": 51.9930138,
+  "lon": 4.2398563,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Wollebrand Cablepark",
+   "source": "survey",
+   "sport": "water_ski",
+   "website": "https://www.kabelskibaan.nl/"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "node/2403832201",
+  "lat": 52.1738371,
+  "lon": 5.619068,
+  "tags": {
+   "check_date": "2026-05-30",
+   "contact:facebook": "Waterski-Zeumeren-137570016413648",
+   "internet_access": "wlan",
+   "leisure": "sports_centre",
+   "name": "Zeumeren Watersport",
+   "phone": "+31 342781100",
+   "sport": "water_ski",
+   "website": "https://zeumerenwatersport.nl/"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "node/2754683845",
+  "lat": 51.991824,
+  "lon": 4.1141788,
+  "tags": {
+   "addr:city": "Hoek van Holland",
+   "addr:housenumber": "30",
+   "addr:postcode": "3151HN",
+   "addr:street": "Rechtestraat",
+   "leisure": "sports_centre",
+   "name": "Hoekse Watersport Vereniging",
+   "source": "BAG",
+   "source:date": "2014-03-24",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "node/2850749089",
+  "lat": 53.1045211,
+  "lon": 6.8436139,
+  "tags": {
+   "addr:city": "Veendam",
+   "addr:housenumber": "2",
+   "addr:postcode": "9642LV",
+   "addr:street": "Bergweg",
+   "leisure": "sports_centre",
+   "name": "Watersportcentre Veendam",
+   "source": "BAG",
+   "source:date": "2014-05-07",
+   "sport": "water_ski",
+   "website": "https://www.watersportcentre.nl/"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "node/2882221187",
+  "lat": 52.3096999,
+  "lon": 5.9985341,
+  "tags": {
+   "addr:city": "Emst",
+   "addr:housenumber": "3",
+   "addr:postcode": "8166KJ",
+   "addr:street": "Viskweekweg",
+   "amenity": "restaurant",
+   "email": "info@burnsidecablepark.nl",
+   "fee": "yes",
+   "leisure": "sports_centre",
+   "name": "Burnside Cablepark",
+   "opening_hours": "Apr-Oct Sa-Su 12:00-sunset; May,Jun,Sep Tu-Fr 15:00-sunset; Jul,Aug Tu-Su 12:00-sunset; Nov-Mar Sa-Su \"on reservation\"",
+   "opening_hours:description:nl": "Ook buiten openingstijden open voor bedrijfsborrel of BBQ op aanvraag",
+   "outdoor_seating": "yes",
+   "phone": "+31 578 573170",
+   "reservation": "yes",
+   "source": "BAG",
+   "source:date": "2019-09-30",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.burnsidecablepark.nl/"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "node/2897608340",
+  "lat": 52.135682,
+  "lon": 4.6775305,
+  "tags": {
+   "addr:city": "Alphen aan den Rijn",
+   "addr:housenumber": "5",
+   "addr:postcode": "2406LD",
+   "addr:street": "Sportlaan",
+   "amenity": "restaurant",
+   "leisure": "sports_centre",
+   "name": "Wet 'n Wild",
+   "phone": "+31 172 472 412",
+   "source": "BAG",
+   "source:date": "2014-06-03",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "node/3004875989",
+  "lat": 51.5746766,
+  "lon": 5.721361,
+  "tags": {
+   "addr:city": "Handel",
+   "addr:housenumber": "21",
+   "addr:postcode": "5423VV",
+   "addr:street": "Haveltweg",
+   "leisure": "sports_centre",
+   "name": "Waterski & Wakeboardcentrum De Rooye Plas",
+   "source": "BAG",
+   "source:date": "2014-08-08",
+   "sport": "water_ski",
+   "website": "https://www.rooyeplas.nl/"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "node/3637980732",
+  "lat": 12.1643726,
+  "lon": -68.2873271,
+  "tags": {
+   "amenity": "ferry_terminal",
+   "ferry": "yes",
+   "name": "Caribe Watersport and Watertaxi",
+   "phone": "+599 7008080",
+   "public_transport": "station",
+   "source": "http://www.caribewatersportbonaire.com/",
+   "source_1": "http://www.tripstacker.com/p/bonaire/caribe-watersport",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "node/4217426643",
+  "lat": 52.0376468,
+  "lon": 6.1442005,
+  "tags": {
+   "seamark:notice:addition": "right_triangle",
+   "seamark:notice:category": "waterskiing_permitted",
+   "seamark:notice:function": "information",
+   "seamark:type": "notice",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "node/4217426644",
+  "lat": 52.0410356,
+  "lon": 6.1564851,
+  "tags": {
+   "seamark:notice:addition": "left_triangle",
+   "seamark:notice:category": "waterskiing_permitted",
+   "seamark:notice:function": "information",
+   "seamark:type": "notice",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "node/5058228836",
+  "lat": 53.2190122,
+  "lon": 6.5182527,
+  "tags": {
+   "addr:city": "Groningen",
+   "addr:housenumber": "8",
+   "addr:postcode": "9745ER",
+   "addr:street": "Tarralaan",
+   "club": "sport",
+   "name": "Variaski",
+   "source": "BAG",
+   "source:date": "2017-08-08",
+   "sport": "water_ski",
+   "website": "https://www.variaski.nl/"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "node/8660274918",
+  "lat": 52.6887638,
+  "lon": 6.0761769,
+  "tags": {
+   "leisure": "sport",
+   "name": "Waterski jump",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/52907469",
+  "lat": 51.328383,
+  "lon": 5.4226523,
+  "tags": {
+   "aerialway": "rope_tow",
+   "area": "no",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/74937991",
+  "lat": 52.1748415,
+  "lon": 5.6198269,
+  "tags": {
+   "intermittent": "no",
+   "name": "Zeumeren",
+   "natural": "water",
+   "salt": "no",
+   "source": "3dShapes",
+   "sport": "water_ski",
+   "water": "pond"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/94712928",
+  "lat": 53.216269,
+  "lon": 6.6613595,
+  "tags": {
+   "name": "Grunoplas",
+   "natural": "water",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/139566088",
+  "lat": 52.330554,
+  "lon": 5.1689958,
+  "tags": {
+   "area": "yes",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/271125163",
+  "lat": 52.1813374,
+  "lon": 6.8411086,
+  "tags": {
+   "amenity": "cafe",
+   "building": "yes",
+   "name": "Waterski Twente",
+   "opening_hours": "Mo 12:00-19:00; Tu-Sa 12:00-21:00; Su 12:00-20:00",
+   "ref:bag": "0153100000234651",
+   "source": "BAG",
+   "source:date": "2014-03-24",
+   "sport": "water_ski",
+   "start_date": "2007",
+   "website": "https://www.waterskitwente.nl/"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/351695818",
+  "lat": 52.1797469,
+  "lon": 6.8414569,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/360025137",
+  "lat": 51.5725987,
+  "lon": 3.6497678,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/416591185",
+  "lat": 51.9919381,
+  "lon": 4.2404094,
+  "tags": {
+   "aerialway": "rope_tow",
+   "area": "no",
+   "source": "survey",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/419034981",
+  "lat": 51.6747665,
+  "lon": 4.098842,
+  "tags": {
+   "jetski": "no",
+   "leisure": "pitch",
+   "maxspeed": "20",
+   "maxspeed:conditional": "no @ (sunrise-sunset)",
+   "seamark:information": "by daylight speeds higher than 20 km/h allowed",
+   "seamark:restricted_area:category": "water_skiing;restricted_speed",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/454539798",
+  "lat": 51.56965,
+  "lon": 3.6418665,
+  "tags": {
+   "jetski": "yes",
+   "leisure": "pitch",
+   "maxspeed": "15",
+   "maxspeed:conditional": "no @ (sunrise-sunset)",
+   "seamark:information": "by daylight speeds higher than 15 km/h allowed",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/454539801",
+  "lat": 51.550033,
+  "lon": 3.833658,
+  "tags": {
+   "jetski": "yes",
+   "leisure": "pitch",
+   "maxspeed": "15",
+   "maxspeed:conditional": "no @ (sunrise-sunset)",
+   "seamark:information": "by daylight speeds higher than 15 km/h allowed",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/474412949",
+  "lat": 53.2380596,
+  "lon": 6.6006051,
+  "tags": {
+   "access": "private",
+   "leisure": "pitch",
+   "name": "Wake Park Groningen",
+   "sport": "water_ski",
+   "website": "https://wakeparkgroningen.nl"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/491584657",
+  "lat": 52.7488283,
+  "lon": 6.8020492,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/493232899",
+  "lat": 52.4975183,
+  "lon": 6.1542199,
+  "tags": {
+   "leisure": "sport",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/500809358",
+  "lat": 51.3816079,
+  "lon": 5.9690774,
+  "tags": {
+   "aerialway": "drag_lift",
+   "height": "14 m",
+   "length": "783 m",
+   "name": "Seven-Twenty Cablepark",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/551931786",
+  "lat": 51.654042,
+  "lon": 4.3352,
+  "tags": {
+   "jetski": "yes",
+   "leisure": "pitch",
+   "maxspeed": "20",
+   "maxspeed:conditional": "none @ (sunset-sunrise)",
+   "seamark:period_end": "--1001",
+   "seamark:period_start": "--0401",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/553111273",
+  "lat": 52.456682,
+  "lon": 5.0747335,
+  "tags": {
+   "leisure": "pitch",
+   "maxspeed": "20",
+   "maxspeed:conditional": "none @ (sunrise-sunset)",
+   "seamark:information": "by daylight speeds higher than 20 km/h allowed",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "source": "https://wetten.overheid.nl/BWBR0007331/2013-01-01",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/850191321",
+  "lat": 52.4027055,
+  "lon": 5.6876224,
+  "tags": {
+   "leisure": "pitch",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/866818264",
+  "lat": 51.2075767,
+  "lon": 5.9711893,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/921314054",
+  "lat": 52.250871,
+  "lon": 5.4090225,
+  "tags": {
+   "leisure": "pitch",
+   "maxspeed": "9",
+   "maxspeed:conditional": "no @ (sunrise-sunset)",
+   "seamark:information": "by daylight speeds higher than 20 km/h allowed",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/921760979",
+  "lat": 51.507874,
+  "lon": 4.192308,
+  "tags": {
+   "jetski": "no",
+   "leisure": "pitch",
+   "maxspeed": "20",
+   "maxspeed:conditional": "no @ (sunrise-sunset)",
+   "seamark:information": "by daylight speeds higher than 20 km/h allowed",
+   "seamark:restricted_area:category": "water_skiing;restricted_speed",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/923916199",
+  "lat": 52.6937197,
+  "lon": 5.2903397,
+  "tags": {
+   "leisure": "pitch",
+   "maxspeed": "20",
+   "maxspeed:conditional": "no @ (sunrise-sunset)",
+   "seamark:information": "by daylight speeds higher than 20 km/h allowed",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/924104440",
+  "lat": 51.76875,
+  "lon": 3.8714665,
+  "tags": {
+   "jetski": "no",
+   "leisure": "pitch",
+   "maxspeed": "20",
+   "maxspeed:conditional": "no @ (sunrise-sunset)",
+   "seamark:information": "by daylight speeds higher than 20 km/h allowed",
+   "seamark:restricted_area:category": "water_skiing;restricted_speed",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/924774782",
+  "lat": 51.7226392,
+  "lon": 4.738588,
+  "tags": {
+   "leisure": "pitch",
+   "maxspeed": "20",
+   "maxspeed:conditional": "no @ (sunrise-sunset)",
+   "seamark:information": "by daylight speeds higher than 20 km/h allowed",
+   "seamark:restricted_area:category": "water_skiing;restricted_speed",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/926838264",
+  "lat": 51.8668363,
+  "lon": 6.096018,
+  "tags": {
+   "jetski": "no",
+   "leisure": "pitch",
+   "maxspeed": "20",
+   "maxspeed:conditional": "no @ (sunrise-sunset)",
+   "seamark:information": "by daylight speeds higher than 20 km/h allowed",
+   "seamark:restricted_area:category": "water_skiing;restricted_speed;no_anchoring",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski",
+   "swimming": "no"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/964420927",
+  "lat": 51.979401,
+  "lon": 4.5763115,
+  "tags": {
+   "aerialway": "rope_tow",
+   "area": "no",
+   "name": "Project 7 Cablepark",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/1086047822",
+  "lat": 52.309303,
+  "lon": 6.0013817,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/1092808146",
+  "lat": 52.3595056,
+  "lon": 5.2174047,
+  "tags": {
+   "aerialway": "rope_tow",
+   "area": "no",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "way/1179689592",
+  "lat": 51.2407758,
+  "lon": 5.6709169,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "name": "Waterskibaan IJzeren Man",
+   "sport": "water_ski",
+   "website": "https://www.zwembadweert.nl/waterskibaan/"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "relation/1860738",
+  "lat": 51.9918845,
+  "lon": 4.2398143,
+  "tags": {
+   "name": "Recreatieplas Wollebrand",
+   "natural": "water",
+   "source": "3dShapes",
+   "sport": "water_ski",
+   "type": "multipolygon"
+  }
+ },
+ {
+  "country": "NL",
+  "osm": "relation/19871916",
+  "lat": 53.2192271,
+  "lon": 6.5191758,
+  "tags": {
+   "name": "Waterskiplas",
+   "natural": "water",
+   "sport": "water_ski",
+   "type": "multipolygon"
+  }
+ },
+ {
+  "country": "LU",
+  "osm": "way/257105293",
+  "lat": 49.6681286,
+  "lon": 6.4288005,
+  "tags": {
+   "building": "yes",
+   "description": "Wakeboard spot.",
+   "leisure": "sports_centre",
+   "name": "Ski Nautique Grevenmacher",
+   "source": "local knowledge",
+   "sport": "wakeboarding",
+   "website": "http://www.sng.lu"
+  }
+ },
+ {
+  "country": "LU",
+  "osm": "way/725452815",
+  "lat": 49.5212561,
+  "lon": 6.3588303,
+  "tags": {
+   "contact:facebook": "https://www.facebook.com/CNL-waterski-Bech-Kleinmacher-231865920195701/",
+   "contact:website": "http://www.cnlwaterski.lu",
+   "leisure": "sports_centre",
+   "name": "Club Nautique du Luxembourg",
+   "official_name": "Club Nautique du Luxembourg Bech-Kleinmacher",
+   "short_name": "CNL",
+   "sport": "water_ski;water_sports"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/268051413",
+  "lat": 48.3634936,
+  "lon": 10.9669111,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Chill and Wake",
+   "sport": "water_ski",
+   "website": "https://www.chill-and-wake.de/",
+   "wheelchair": "no"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/273218241",
+  "lat": 52.4355903,
+  "lon": 10.8009557,
+  "tags": {
+   "addr:city": "Wolfsburg",
+   "addr:housenumber": "1",
+   "addr:postcode": "38448",
+   "addr:street": "Berliner Ring",
+   "leisure": "sports_centre",
+   "name": "Wakepark",
+   "sport": "water_ski",
+   "website": "https://www.wake-park.de/",
+   "wheelchair": "limited"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/485581267",
+  "lat": 52.9869432,
+  "lon": 7.2712897,
+  "tags": {
+   "addr:city": "Heede",
+   "addr:country": "DE",
+   "addr:postcode": "26892",
+   "leisure": "water_park",
+   "name": "Wakepark Heede",
+   "note": "Rechnungsanschrift Hermann-Abels-Straße 1",
+   "sport": "water_ski",
+   "website": "https://www.wakeparkheede.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/494109820",
+  "lat": 48.2922149,
+  "lon": 10.4453363,
+  "tags": {
+   "addr:city": "Thannhausen",
+   "addr:country": "DE",
+   "addr:housenumber": "38",
+   "addr:postcode": "86470",
+   "addr:street": "Edelstetter Straße",
+   "description": "Wakeboard + Wasserskianlage",
+   "email": "info@turncable.de",
+   "fax": "+49 8281 798933",
+   "leisure": "sports_centre",
+   "name": "Turncable",
+   "operator": "TURNCABLE GbR",
+   "phone": "+49 8281 798402",
+   "sport": "water_ski",
+   "website": "https://www.turncable.de/",
+   "wheelchair": "yes"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/514318572",
+  "lat": 54.3645292,
+  "lon": 10.3150002,
+  "tags": {
+   "check_date": "2025-05-23",
+   "club": "sport",
+   "name": "1. Kieler Wasserskiclub",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/670137375",
+  "lat": 53.4589301,
+  "lon": 10.0141882,
+  "tags": {
+   "building": "yes",
+   "contact:website": "http://www.wasserski-hamburg.de/",
+   "fee": "yes",
+   "leisure": "pitch",
+   "name": "Wasserski Hamburg",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/794923146",
+  "lat": 49.423761,
+  "lon": 11.9181323,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Wasserski",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/1304997236",
+  "lat": 53.8512393,
+  "lon": 10.6940585,
+  "tags": {
+   "addr:city": "Lübeck",
+   "addr:housenumber": "64",
+   "addr:postcode": "23564",
+   "addr:street": "Sankt-Jürgen-Ring",
+   "name": "Surf-Center Lübeck",
+   "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-14:00; PH closed",
+   "payment:cards": "yes",
+   "payment:cash": "yes",
+   "payment:contactless": "yes",
+   "phone": "+49 451 796482",
+   "shop": "sports",
+   "sport": "surfing;windsurfing;kitesurfing;wing;wakeboarding;sup;snowboarding",
+   "website": "https://www.surf-center.de/",
+   "wheelchair": "limited",
+   "wheelchair:step_height": "20"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/1556009001",
+  "lat": 50.8449712,
+  "lon": 6.8569868,
+  "tags": {
+   "name": "Wasserski am Bleibtreusee",
+   "shop": "water_sports",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/1670034303",
+  "lat": 52.5592815,
+  "lon": 10.6688788,
+  "tags": {
+   "addr:city": "Sassenburg",
+   "addr:country": "DE",
+   "addr:housenumber": "7",
+   "addr:postcode": "38524",
+   "addr:street": "Bernsteinallee",
+   "addr:suburb": "Stüde",
+   "contact:email": "wasserski@bernsteinsee.com",
+   "contact:phone": "+49 5379 9814014",
+   "contact:website": "https://www.wasserski-bernsteinsee.com/",
+   "leisure": "water_park",
+   "name": "Wasserski Bernsteinsee",
+   "sport": "water_ski;beachvolleyball;wakeboard;standup_paddling",
+   "standup_paddleboard_rental": "yes"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/1762309017",
+  "lat": 51.3177036,
+  "lon": 12.252896,
+  "tags": {
+   "addr:city": "Leipzig",
+   "addr:housenumber": "7",
+   "addr:postcode": "04207",
+   "addr:street": "Seestraße",
+   "leisure": "water_park",
+   "name": "Wakeboard- & Wasserskilift Leipzig",
+   "payment:cash": "yes",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.wasserski-leipzig.de/",
+   "wheelchair": "limited"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/1848683383",
+  "lat": 52.3162187,
+  "lon": 14.0734313,
+  "tags": {
+   "name": "Wakepark",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/1848729378",
+  "lat": 52.699172,
+  "lon": 13.2244919,
+  "tags": {
+   "aerialway": "station",
+   "sport": "water_ski",
+   "website": "https://www.wakeboard-berlin.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/2669699064",
+  "lat": 53.4971756,
+  "lon": 8.5789399,
+  "tags": {
+   "addr:city": "Bremerhaven",
+   "addr:housenumber": "32",
+   "addr:postcode": "27572",
+   "addr:street": "Am Luneort",
+   "fee": "yes",
+   "leisure": "marina",
+   "name": "Wasserskiclub Bremerhaven e.V.",
+   "power_supply": "yes",
+   "sport": "water_ski",
+   "website": "http://www.wsc-bremerhaven.de"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/2702928431",
+  "lat": 51.7743777,
+  "lon": 8.0285232,
+  "tags": {
+   "leisure": "pitch",
+   "name": "Twin Cable Wasserskianlage",
+   "sport": "water_ski",
+   "toilets:wheelchair": "no",
+   "wheelchair": "yes",
+   "wheelchair:description": "Zugang nur über das Tor, rechts runter! Falls geschlossen, fragen ob jemand öffnet! Klo ist zugänglich hat aber nicht so viel Platz. Ist mit klappbaren Stützen ausgestattet."
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/2807543150",
+  "lat": 47.5528883,
+  "lon": 10.2444222,
+  "tags": {
+   "name": "Wasserskilift Inselsee Allgäu",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/2923989063",
+  "lat": 52.3526669,
+  "lon": 13.2954189,
+  "tags": {
+   "addr:city": "Großbeeren",
+   "addr:country": "DE",
+   "addr:housenumber": "49",
+   "addr:postcode": "14979",
+   "addr:street": "Bahnhofstraße",
+   "email": "info@wakeboarding-berlin.de",
+   "fax": "+49 33701 90874",
+   "name": "Wakeboard & Wasserski Anlage Großbeeren",
+   "opening_hours:url": "http://www.wassersport-grossbeeren.de/zeiten.html",
+   "phone": "+49 33701 90873",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/3633301664",
+  "lat": 51.2529511,
+  "lon": 8.5389541,
+  "tags": {
+   "addr:city": "Winterberg",
+   "addr:housenumber": "100",
+   "addr:postcode": "59955",
+   "addr:street": "Grönebacher Straße",
+   "addr:suburb": "Niedersfeld",
+   "leisure": "sports_centre",
+   "name": "High Five",
+   "sport": "water_ski",
+   "website": "http://www.wakeandwaterwinterberg.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/4033226588",
+  "lat": 54.3794703,
+  "lon": 13.5251913,
+  "tags": {
+   "addr:city": "Zirkow",
+   "addr:housenumber": "1",
+   "addr:place": "Am Kapellenberg",
+   "leisure": "sports_centre",
+   "name": "Cable Park Rügen",
+   "phone": "+49 38393 131470",
+   "sport": "water_ski",
+   "website": "https://wasserskiruegen.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/4408348305",
+  "lat": 54.4298999,
+  "lon": 10.3639894,
+  "tags": {
+   "addr:city": "Schönberg (Holstein)",
+   "addr:country": "DE",
+   "addr:postcode": "24217",
+   "addr:street": "Deichweg",
+   "addr:suburb": "Kalifornien",
+   "amenity": "boat_sharing",
+   "email": "info@california-wassersport.de",
+   "groyne": "20;21",
+   "name": "California Wassersport",
+   "operator": "Bernd Otto",
+   "phone": "+49 176 78193914",
+   "sport": "water_ski;surfing"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/4987247883",
+  "lat": 49.1382716,
+  "lon": 10.8776316,
+  "tags": {
+   "addr:city": "Absberg",
+   "addr:country": "DE",
+   "addr:housenumber": "7",
+   "addr:postcode": "91720",
+   "addr:street": "Badehalbinsel",
+   "description": "Wakeboardanlage",
+   "leisure": "water_park",
+   "name": "Wakepark Brombachsee",
+   "opening_hours": "Mo 12:30-19:00; Tu-Fr 14:00-20:00; Sa,Su 12:30-20:00",
+   "sport": "wakeboarding",
+   "website": "https://wakepark-brombachsee.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/5337537839",
+  "lat": 50.1739575,
+  "lon": 9.9237015,
+  "tags": {
+   "addr:city": "Oberthulba",
+   "addr:country": "DE",
+   "addr:housenumber": "5",
+   "addr:postcode": "97723",
+   "addr:street": "Untere Au",
+   "aerialway": "drag_lift",
+   "email": "info@wakepark-thulba.de",
+   "leisure": "sports_centre",
+   "name": "WakePark Thulba",
+   "phone": "+49 9736 4726",
+   "sport": "water_ski",
+   "tourism": "attraction",
+   "website": "https://www.wakepark-thulba.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/5625313422",
+  "lat": 50.0122095,
+  "lon": 8.4771551,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Wakeport",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/5777185152",
+  "lat": 51.1132859,
+  "lon": 6.9139221,
+  "tags": {
+   "check_date": "2025-11-02",
+   "clothes": "waterski",
+   "name": "Wasserski-Seilbahnen Deutschland Int. Cableski Assoziation",
+   "rental": "yes",
+   "shop": "sports",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/5806647006",
+  "lat": 51.1029645,
+  "lon": 6.7714244,
+  "tags": {
+   "air_conditioning": "no",
+   "name": "Wakebach 257",
+   "office": "company",
+   "sport": "wakeboarding",
+   "website": "https://wakebeach.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/6905186683",
+  "lat": 49.348679,
+  "lon": 10.3212979,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Wakeboardanlage",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/7801210632",
+  "lat": 49.8209219,
+  "lon": 9.1385031,
+  "tags": {
+   "name": "Malibu Show Team",
+   "sport": "water_ski",
+   "website": "https://www.malibu-show-team.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/7933639479",
+  "lat": 53.3425885,
+  "lon": 13.4454873,
+  "tags": {
+   "addr:city": "Feldberger Seenlandschaft",
+   "addr:country": "DE",
+   "addr:housenumber": "44",
+   "addr:postcode": "17258",
+   "addr:street": "Amtsplatz",
+   "addr:suburb": "Feldberg",
+   "club": "sport",
+   "contact:website": "https://www.best-of-wasserski.de/",
+   "name": "Wasserskiclub \"Luzin\" Feldberg",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/8709603576",
+  "lat": 54.0754732,
+  "lon": 10.6862819,
+  "tags": {
+   "amenity": "shelter",
+   "leisure": "pitch",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/8952525142",
+  "lat": 53.7129651,
+  "lon": 10.020034,
+  "tags": {
+   "addr:city": "Norderstedt",
+   "addr:housenumber": "4-6",
+   "addr:postcode": "22844",
+   "addr:street": "Schöne Aussicht",
+   "alt_name": "Wasserski Norderstedt",
+   "description": "Hier kann man sowohl Wasserski, als auch Wakeboard fahren",
+   "email": "info@spotz-norderstedt.de",
+   "name": "Spotz Norderstedt",
+   "phone": "+49 40 32 04 01 40",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/10762264527",
+  "lat": 53.5742747,
+  "lon": 13.2559353,
+  "tags": {
+   "access": "customers",
+   "addr:city": "Neubrandenburg",
+   "addr:country": "DE",
+   "addr:housenumber": "90",
+   "addr:postcode": "17034",
+   "addr:street": "Reitbahnweg",
+   "name": "Wasserskiseilbahn",
+   "official_name": "Wasserskiseilbahn Neubrandenburg",
+   "opening_hours:url": "https://www.wasserski-seilbahn.de/wasserski-wakeboard/oeffnungszeiten/",
+   "operator": "Wasserskiseilbahn",
+   "shop": "water_sports",
+   "short_name": "Wasserskiseilbahn",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "node/12969154377",
+  "lat": 54.2526594,
+  "lon": 12.3675465,
+  "tags": {
+   "contact:website": "JOHO Park GmbH",
+   "leisure": "water_park",
+   "name": "JoHo Park am Bernsteinsee",
+   "opening_hours": "10:00-19:00",
+   "operator": "JOHO Park GmbH",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/3401798",
+  "lat": 48.1615748,
+  "lon": 11.7260915,
+  "tags": {
+   "leisure": "water_park",
+   "name": "Wasserskipark Aschheim",
+   "natural": "water",
+   "sport": "water_ski",
+   "water": "lake",
+   "website": "https://www.wasserskipark-aschheim.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/4808324",
+  "lat": 51.1114629,
+  "lon": 6.9131678,
+  "tags": {
+   "natural": "water",
+   "sport": "water_ski",
+   "water": "lake"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/4808327",
+  "lat": 51.1124737,
+  "lon": 6.9094264,
+  "tags": {
+   "natural": "water",
+   "sport": "water_ski",
+   "water": "lake"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/4815935",
+  "lat": 51.1094586,
+  "lon": 6.9132071,
+  "tags": {
+   "natural": "water",
+   "sport": "water_ski",
+   "water": "lake"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/23313987",
+  "lat": 52.559822,
+  "lon": 10.6671682,
+  "tags": {
+   "name": "Bernsteinsee",
+   "natural": "water",
+   "opening_hours": "Mo-Su 08:00-22:00",
+   "sport": "water_ski",
+   "water": "lake",
+   "wikidata": "Q826842"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/24973119",
+  "lat": 47.5523246,
+  "lon": 10.2446745,
+  "tags": {
+   "alt_name": "Inselsee",
+   "name": "Baggersee Wagner-West",
+   "natural": "water",
+   "source": "extrapolation",
+   "sport": "swimming;water_ski",
+   "water": "pond"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/24973120",
+  "lat": 47.5527148,
+  "lon": 10.2480429,
+  "tags": {
+   "name": "Baggersee Trost-Ost",
+   "natural": "water",
+   "source": "extrapolation",
+   "sport": "swimming;water_ski",
+   "water": "pond"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/27469365",
+  "lat": 52.5773933,
+  "lon": 13.2634548,
+  "tags": {
+   "area": "yes",
+   "name": "Wasserskigebiet",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/27817475",
+  "lat": 49.4230928,
+  "lon": 11.9245311,
+  "tags": {
+   "name": "Haidweiher",
+   "natural": "water",
+   "source": "DOP_LVA_BY_01",
+   "sport": "water_ski",
+   "wikidata": "Q138306647"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/28223799",
+  "lat": 54.075498,
+  "lon": 10.6847877,
+  "tags": {
+   "aerialway": "drag_lift",
+   "note": "Bahn 2",
+   "oneway": "yes",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/28223800",
+  "lat": 54.077136,
+  "lon": 10.6871798,
+  "tags": {
+   "aerialway": "drag_lift",
+   "note": "Bahn 1",
+   "oneway": "yes",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/30628518",
+  "lat": 49.2891638,
+  "lon": 12.1601716,
+  "tags": {
+   "addr:city": "Steinberg am See",
+   "addr:country": "DE",
+   "addr:housenumber": "1",
+   "addr:postcode": "92449",
+   "addr:street": "In der Oder",
+   "alt_name": "Steinbacher See Wakeboard",
+   "building": "yes",
+   "email": "info@wildwakeski.de",
+   "fax": "+49 9431 790580",
+   "leisure": "sports_centre",
+   "name": "WildWake&Ski",
+   "phone": "+49 9431 790380",
+   "source": "bing",
+   "sport": "wakeboarding;water_ski",
+   "website": "http://www.wildwakeski.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/30932950",
+  "lat": 51.3696655,
+  "lon": 9.057373,
+  "tags": {
+   "email": "info@wasserski-twistesee.de",
+   "fax": "+49 5691 62935",
+   "leisure": "sports_centre",
+   "name": "Wasserskizentrum Twistesee",
+   "phone": "+49 5691 629636",
+   "sport": "water_ski",
+   "website": "https://wasserski-twistesee.de/Kontakt"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/33076442",
+  "lat": 49.3177432,
+  "lon": 8.2923383,
+  "tags": {
+   "disused:leisure": "pitch",
+   "natural": "water",
+   "sport": "water_ski",
+   "water": "lake"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/33132564",
+  "lat": 53.1514397,
+  "lon": 7.64295,
+  "tags": {
+   "name": "Idasee",
+   "natural": "water",
+   "sport": "water_ski",
+   "water": "basin",
+   "wikidata": "Q1656640"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/34499228",
+  "lat": 48.2932531,
+  "lon": 10.4442972,
+  "tags": {
+   "layer": "-1",
+   "natural": "water",
+   "source": "Bing",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/34499233",
+  "lat": 48.2914586,
+  "lon": 10.4478241,
+  "tags": {
+   "layer": "-1",
+   "natural": "water",
+   "source": "Bing",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/39474075",
+  "lat": 52.4872575,
+  "lon": 7.9875758,
+  "tags": {
+   "aerialway": "drag_lift",
+   "area": "no",
+   "name": "Lift 1",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/39694156",
+  "lat": 51.7499404,
+  "lon": 8.6701263,
+  "tags": {
+   "aerialway": "drag_lift",
+   "name": "Bahn 2",
+   "note:de": "Ich denke man bräuchte nen richtig passenden Schlüssel. Nen Schlepplift ists ja nicht wirklich.",
+   "ref": "Bahn 2",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/39694157",
+  "lat": 51.7520669,
+  "lon": 8.6696677,
+  "tags": {
+   "aerialway": "drag_lift",
+   "name": "Bahn 1",
+   "note:de": "Ich denke man bräuchte nen richtig passenden Schlüssel. Nen Schlepplift ists ja nicht wirklich.",
+   "ref": "Bahn 1",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/40681004",
+  "lat": 48.2930506,
+  "lon": 10.4434759,
+  "tags": {
+   "aerialway": "drag_lift",
+   "area": "no",
+   "description": "Wakeboard- und Wasserskilift",
+   "operator": "TURNCABLE GmbH",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/40681005",
+  "lat": 48.2933604,
+  "lon": 10.4457871,
+  "tags": {
+   "aerialway": "drag_lift",
+   "area": "no",
+   "description": "Wakeboard- und Wasserskilift",
+   "operator": "TURNCABLE GbR",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/40681006",
+  "lat": 48.2915305,
+  "lon": 10.4477678,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "Wakeboard- und Wasserskilift",
+   "operator": "TURNCABLE GbR",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/41750786",
+  "lat": 52.4197415,
+  "lon": 9.550725,
+  "tags": {
+   "aerialway": "drag_lift",
+   "route": "water_skiing",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/45671505",
+  "lat": 53.1528451,
+  "lon": 7.6413026,
+  "tags": {
+   "building": "yes",
+   "name": "blue bay Wasserski & Wakeboardpark",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/49214621",
+  "lat": 49.4384912,
+  "lon": 8.4630388,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Wasserskiclub Kurpfalz",
+   "operator": "Wasserskiclub Kurpfalz e.V.",
+   "sport": "water_ski",
+   "website": "https://www.wsk-kurpfalz.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/67150812",
+  "lat": 50.8438008,
+  "lon": 6.8574661,
+  "tags": {
+   "check_date": "2026-05-25",
+   "leisure": "sports_centre",
+   "name": "Wasserski Bleibtreusee",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/70237761",
+  "lat": 53.3420901,
+  "lon": 13.4454933,
+  "tags": {
+   "contact:phone": "+49 172 6300520",
+   "contact:website": "https://www.best-of-wasserski.de/",
+   "leisure": "sports_centre",
+   "name": "Wasserskiclub \"Luzin\" Feldberg",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/73709957",
+  "lat": 51.3174111,
+  "lon": 12.2504947,
+  "tags": {
+   "aerialway": "drag_lift",
+   "leisure": "water_park",
+   "name": "Wakeboard- & Wasserskilift Leipzig",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/83045149",
+  "lat": 50.5548682,
+  "lon": 8.4802747,
+  "tags": {
+   "access": "private",
+   "amenity": "community_centre",
+   "club": "sport",
+   "community_centre": "events_place",
+   "fenced": "yes",
+   "name": "Wasserski- und Motorbootclub Wetzlar",
+   "short_name": "WMCW",
+   "sport": "water_ski;wakeboarding",
+   "surface": "grass",
+   "website": "https://www.wmc-wetzlar.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/87487691",
+  "lat": 51.3687346,
+  "lon": 9.059183,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/96451453",
+  "lat": 54.0790842,
+  "lon": 10.6910923,
+  "tags": {
+   "aerialway": "drag_lift",
+   "note": "Bahn 3",
+   "oneway": "yes",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/97375521",
+  "lat": 51.3784644,
+  "lon": 6.2705726,
+  "tags": {
+   "aerialway": "drag_lift",
+   "name": "Wasserski- & Wakeboardpark",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/103388708",
+  "lat": 48.3998955,
+  "lon": 7.7360596,
+  "tags": {
+   "leisure": "pitch",
+   "name": "Wassersportfreunde Lahr",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/107171425",
+  "lat": 51.7517238,
+  "lon": 8.6672097,
+  "tags": {
+   "addr:city": "Paderborn",
+   "addr:country": "DE",
+   "addr:housenumber": "160",
+   "addr:postcode": "33106",
+   "addr:street": "Sander Straße",
+   "building": "yes",
+   "name": "Wasserski Paderborn",
+   "phone": "+49525468660",
+   "sport": "water_ski",
+   "website": "https://www.wasserski-paderborn.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/107706899",
+  "lat": 48.5198147,
+  "lon": 10.3268962,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/114597597",
+  "lat": 51.6992831,
+  "lon": 7.9153371,
+  "tags": {
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/117209589",
+  "lat": 47.9287896,
+  "lon": 9.2356506,
+  "tags": {
+   "aerialway": "t-bar",
+   "aerialway:duration": "2",
+   "area": "no",
+   "capacity": "10",
+   "contact:website": "https://www.wasserskipark-pfullendorf.de/",
+   "layer": "1",
+   "leisure": "track",
+   "name": "Bahn 1 (Hauptlift)",
+   "opening_hours": "Apr Mo-Fr 15:00-19:00; Apr Sa,Su,PH 12:00-19:00; May 01-Sep 11 Mo-Su,PH 12:00-sunset; Sep 10-30 Mo-Fr 15:00-sunset; Sep 10-30 Sa,Su,PH 12:00-sunset; Oct 01-03 12:00-19:00 || \"Liftmiete möglich\"",
+   "operator": "Wasserskipark-Pfullendorf",
+   "sport": "water_ski",
+   "surveillance": "no"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/119282394",
+  "lat": 52.7937422,
+  "lon": 7.1978384,
+  "tags": {
+   "aerialway": "rope_tow",
+   "leisure": "amusement_arcade",
+   "name": "Kinder-Wasserski",
+   "opening_hours": "PH,Mo-Su 11:00-18:00",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/119282395",
+  "lat": 52.793731,
+  "lon": 7.1949602,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/120600262",
+  "lat": 51.4075018,
+  "lon": 6.6701621,
+  "tags": {
+   "addr:city": "Duisburg",
+   "addr:country": "DE",
+   "addr:housenumber": "91",
+   "addr:postcode": "47239",
+   "addr:street": "Lohfelder Weg",
+   "building": "yes",
+   "email": "info@toeppersee.de",
+   "fax": "+49 2151 403648",
+   "name": "Cafeteria & Wasserskianlage Toeppersee",
+   "operator": "Wasserski- und Freizeitanlage Toeppersee GmbH",
+   "phone": "+49 2151 403747",
+   "source": "survey",
+   "sport": "water_ski",
+   "website": "https://toeppersee.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/125756770",
+  "lat": 51.4195304,
+  "lon": 11.9312576,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Wakeboard- und Wasserskianlage Hohenweiden",
+   "sport": "water_ski",
+   "wheelchair": "limited"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/130049624",
+  "lat": 52.8214492,
+  "lon": 13.5750484,
+  "tags": {
+   "description": "DAV Angelgewässer",
+   "leisure": "water_park",
+   "name": "Ruhlesee",
+   "natural": "water",
+   "ref": "F03-101",
+   "sport": "fishing;wakeboarding",
+   "water": "lake"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/134016356",
+  "lat": 51.1087218,
+  "lon": 6.9103719,
+  "tags": {
+   "aerialway": "drag_lift",
+   "ref": "2",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/134016359",
+  "lat": 51.1115958,
+  "lon": 6.9133729,
+  "tags": {
+   "aerialway": "drag_lift",
+   "ref": "1",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/134016394",
+  "lat": 51.1103418,
+  "lon": 6.9158766,
+  "tags": {
+   "aerialway": "drag_lift",
+   "ref": "3",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/145813242",
+  "lat": 52.1742091,
+  "lon": 11.6389282,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/147179346",
+  "lat": 51.7532469,
+  "lon": 8.4063915,
+  "tags": {
+   "building": "yes",
+   "club": "sport",
+   "name": "Wasserskiclub WSC Mastholte",
+   "sport": "water_ski",
+   "website": "https://www.wwc-mastholte.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/158006874",
+  "lat": 53.5738461,
+  "lon": 13.2585103,
+  "tags": {
+   "aerialway": "drag_lift",
+   "oneway": "yes",
+   "operator": "Wasserskiseilbahn",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/162380834",
+  "lat": 48.5208598,
+  "lon": 10.3287374,
+  "tags": {
+   "addr:city": "Gundelfingen an der Donau",
+   "addr:country": "DE",
+   "addr:housenumber": "10",
+   "addr:postcode": "89423",
+   "addr:street": "Haldenweg",
+   "building": "yes",
+   "name": "GuFi-See Wasserski und Wakeboard",
+   "phone": "+49 9073 920690",
+   "sport": "water_ski",
+   "website": "https://www.wasserski-gundelfingen.de/index.html"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/164763207",
+  "lat": 49.2820604,
+  "lon": 8.5880471,
+  "tags": {
+   "aerialway": "drag_lift",
+   "contact:website": "https://www.wasserski-stleon.de/",
+   "name": "Wasserski St. Leon",
+   "operator": "St.Leoner Wasserskiseilbahn GmbH",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/164764941",
+  "lat": 52.3541503,
+  "lon": 13.2960234,
+  "tags": {
+   "aerialway": "drag_lift",
+   "oneway": "yes",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/166734643",
+  "lat": 53.7130514,
+  "lon": 10.0238761,
+  "tags": {
+   "aerialway": "drag_lift",
+   "area": "no",
+   "fee": "yes",
+   "oneway": "yes",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/170705708",
+  "lat": 52.8212714,
+  "lon": 13.5752911,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "wakeboarding;water_ski",
+   "website": "https://wake-and-camp.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/172962762",
+  "lat": 50.7602851,
+  "lon": 8.741102,
+  "tags": {
+   "aerialway": "drag_lift",
+   "name": "Wakeboard-Anlage",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/173068116",
+  "lat": 52.4885157,
+  "lon": 7.9874363,
+  "tags": {
+   "aerialway": "drag_lift",
+   "area": "no",
+   "name": "Lift 2",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/173228132",
+  "lat": 48.5197053,
+  "lon": 10.3266805,
+  "tags": {
+   "access": "customers",
+   "name": "Gufisee",
+   "natural": "water",
+   "sport": "water_ski",
+   "water": "lake"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/174144193",
+  "lat": 52.2270928,
+  "lon": 13.3870853,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/174144789",
+  "lat": 52.3151343,
+  "lon": 14.0717987,
+  "tags": {
+   "aerialway": "drag_lift",
+   "name": "Petersdorfer Wasserski-Seilbahn",
+   "sport": "water_ski",
+   "website": "https://www.wasserskipark-zossen.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/174149349",
+  "lat": 52.6989181,
+  "lon": 13.2267193,
+  "tags": {
+   "aerialway": "drag_lift",
+   "area": "no",
+   "name": "Bernsteinsee Wasserskilift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/176356951",
+  "lat": 50.9985794,
+  "lon": 11.0507668,
+  "tags": {
+   "aerialway": "pylon",
+   "area": "no",
+   "leisure": "track",
+   "name": "Wasserskizuganlage Nordstrand",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/180863650",
+  "lat": 52.1759167,
+  "lon": 11.6388708,
+  "tags": {
+   "addr:city": "Magdeburg",
+   "addr:housenumber": "1",
+   "addr:postcode": "39126",
+   "addr:street": "Barleber Straße",
+   "email": "booking@strandparx.de",
+   "fee": "yes",
+   "leisure": "beach_resort",
+   "mobile": "+49 177 4142886",
+   "name": "cable island",
+   "opening_hours": "May-Sep: Mo-Su 10:00+ open \"Strand\", May-Sep: Mo-Fr 13:00+ open \"Wasserskilift\", May-Sep: Sa-Su 12:00+ open \"Wasserskilift\" || \"nach Vereinbarung\"",
+   "payment:cash": "only",
+   "phone": "+49 391 2535927;+49 173 2996698;+49 173 2039909",
+   "sport": "swimming;water_ski;beachvolleyball",
+   "toilets": "customers",
+   "website": "https://www.strandparx.de/",
+   "wheelchair": "limited"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/182935409",
+  "lat": 53.2979356,
+  "lon": 8.1363506,
+  "tags": {
+   "aerialway": "drag_lift",
+   "name": "Wasserskianlage",
+   "operator": "Beachclub Nethen",
+   "sport": "water_ski;wakeboarding",
+   "website": "https://www.beachclub-nethen.de/wake"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/188386331",
+  "lat": 51.406479,
+  "lon": 6.7844675,
+  "tags": {
+   "building": "yes",
+   "leisure": "sports_centre",
+   "name": "Strandbad Wedau",
+   "sport": "water_ski",
+   "website": "http://www.strandbad-wedau.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/202512488",
+  "lat": 52.6992546,
+  "lon": 13.2244048,
+  "tags": {
+   "man_made": "pier",
+   "name": "Wasserski",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/207345245",
+  "lat": 48.0660386,
+  "lon": 7.8134221,
+  "tags": {
+   "aerialway": "drag_lift",
+   "oneway": "yes",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/207506038",
+  "lat": 48.0647043,
+  "lon": 7.8144095,
+  "tags": {
+   "building": "retail",
+   "building:levels": "1",
+   "name": "Wasserski am Tunisee",
+   "roof:colour": "#996F6B",
+   "roof:material": "metal",
+   "roof:shape": "gabled",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/209190831",
+  "lat": 54.4586971,
+  "lon": 9.5529352,
+  "tags": {
+   "aerialway": "drag_lift",
+   "name": "Wasserski-Park Jagel",
+   "sport": "water_ski",
+   "website": "https://www.wasserski-jagel.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/229394185",
+  "lat": 53.4572835,
+  "lon": 10.0142003,
+  "tags": {
+   "aerialway": "drag_lift",
+   "area": "no",
+   "leisure": "track",
+   "mono_ski": "yes",
+   "sport": "water_ski",
+   "wakeboard": "yes",
+   "water_ski": "yes"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/230703311",
+  "lat": 51.0145826,
+  "lon": 13.8215135,
+  "tags": {
+   "access": "private",
+   "contact:email": "info@cable-dresden.de",
+   "contact:phone": "+4917675489424",
+   "contact:website": "https://cable-dresden.de/",
+   "leisure": "water_park",
+   "name": "Wasserski & Wakeboardzentrum Dresden",
+   "opening_hours": "\"nach Vereinbarung\"",
+   "operator": "Martin Riedel, Wake Up Concept e.K.",
+   "sport": "water_ski",
+   "wheelchair": "limited"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/233368569",
+  "lat": 51.1124714,
+  "lon": 6.9093781,
+  "tags": {
+   "aerialway": "drag_lift",
+   "lit": "no",
+   "ref": "4",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/236824683",
+  "lat": 51.4062059,
+  "lon": 6.7830366,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/236824684",
+  "lat": 51.4071965,
+  "lon": 6.7817498,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/279659102",
+  "lat": 53.4821086,
+  "lon": 11.2975121,
+  "tags": {
+   "aerialway": "drag_lift",
+   "oneway": "yes",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/279966161",
+  "lat": 53.5528196,
+  "lon": 9.7138821,
+  "tags": {
+   "leisure": "pitch",
+   "seamark:name": "Wasserskistrecke Hahnöfersand (HN 5 - HN 15)",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/280759567",
+  "lat": 53.5961607,
+  "lon": 9.5760948,
+  "tags": {
+   "leisure": "pitch",
+   "seamark:name": "Wasserskistrecke Lühesand (LS 5 - LS 11)",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/284599016",
+  "lat": 54.0777185,
+  "lon": 10.6901724,
+  "tags": {
+   "addr:city": "Süsel",
+   "addr:country": "DE",
+   "addr:housenumber": "2",
+   "addr:postcode": "23701",
+   "addr:street": "Süseler Moor",
+   "alt_name": "Wasserski Süsel",
+   "contact:email": "info@suesel-seeparx.de",
+   "contact:fax": "+49 4524 7067994",
+   "contact:phone": "+49 4524 1777",
+   "contact:website": "https://suesel-seeparx.de/wakeboard-park",
+   "leisure": "sports_centre",
+   "name": "Seeparx Wakeboard Park Süsel",
+   "sport": "wakeboarding;water_ski",
+   "wheelchair": "yes"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/287057629",
+  "lat": 49.7916948,
+  "lon": 6.803791,
+  "tags": {
+   "aerialway": "drag_lift",
+   "name": "Wake Park Riol",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/293207105",
+  "lat": 51.4196292,
+  "lon": 11.9288199,
+  "tags": {
+   "aerialway": "drag_lift",
+   "oneway": "yes",
+   "operator": "Wakeboard- und Wasserskianlage Hohenweiden",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/298353373",
+  "lat": 54.0782039,
+  "lon": 10.6903636,
+  "tags": {
+   "building": "yes",
+   "leisure": "pitch",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/302016652",
+  "lat": 53.6558537,
+  "lon": 11.427141,
+  "tags": {
+   "leisure": "pitch",
+   "name": "Wasserskistrecke Ziegelaussensee",
+   "operator": "private",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski",
+   "surface": "water"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/302976286",
+  "lat": 47.6267344,
+  "lon": 12.1917884,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/325918092",
+  "lat": 52.559192,
+  "lon": 10.6667353,
+  "tags": {
+   "aerialway": "drag_lift",
+   "operator": "Cable Resort",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/344503647",
+  "lat": 48.1615643,
+  "lon": 11.7261185,
+  "tags": {
+   "aerialway": "drag_lift",
+   "area": "no",
+   "leisure": "track",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/344503650",
+  "lat": 48.1605971,
+  "lon": 11.7257939,
+  "tags": {
+   "aerialway": "drag_lift",
+   "area": "no",
+   "leisure": "track",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/345754825",
+  "lat": 49.7931468,
+  "lon": 6.8006819,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/356792673",
+  "lat": 51.1727556,
+  "lon": 12.4606058,
+  "tags": {
+   "addr:city": "Neukieritzsch",
+   "addr:housenumber": "1",
+   "addr:postcode": "04575",
+   "addr:street": "Hainweg",
+   "building": "yes",
+   "email": "info@wake-beach.de",
+   "fax": "+49 341 6402841",
+   "leisure": "sports_centre",
+   "name": "Wake-Beach.de",
+   "operator": "Wakeboardschule & Wassersportzentrum",
+   "phone": "+49 173 9828077",
+   "sport": "water_ski",
+   "website": "https://www.wake-beach.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/360313974",
+  "lat": 51.2530658,
+  "lon": 8.536409,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/364960089",
+  "lat": 48.9280291,
+  "lon": 12.5752802,
+  "tags": {
+   "aerialway": "drag_lift",
+   "name": "Wasserski & Wakeboard",
+   "note": "1200 meter",
+   "sport": "wakeboarding;water_ski",
+   "website": "https://www.friedenhainsee.de/wsbahn.htm"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/368354444",
+  "lat": 51.1309221,
+  "lon": 6.0954797,
+  "tags": {
+   "aerialway": "drag_lift",
+   "leisure": "track",
+   "mono_ski": "yes",
+   "sport": "water_ski",
+   "wakeboard": "yes",
+   "water_ski": "yes"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/396597920",
+  "lat": 49.413184,
+  "lon": 8.5321185,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:drag_lift": "water_ski",
+   "area": "no",
+   "contact:website": "http://www.wakeboarding-mannheim.de",
+   "name": "Wakeboarding Mannheim",
+   "oneway": "yes",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/421581957",
+  "lat": 52.5586802,
+  "lon": 10.6691509,
+  "tags": {
+   "area": "no",
+   "leisure": "track",
+   "operator": "Cable Resort",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/422106006",
+  "lat": 49.2813848,
+  "lon": 8.5879039,
+  "tags": {
+   "aerialway": "drag_lift",
+   "contact:website": "https://www.wasserski-stleon.de/",
+   "description": "Anfängerbahn",
+   "name": "Wasserski St. Leon Anfängerbahn",
+   "operator": "St.Leoner Wasserskiseilbahn GmbH",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/430214273",
+  "lat": 50.8438533,
+  "lon": 6.8574675,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/430221699",
+  "lat": 52.3689672,
+  "lon": 13.0244972,
+  "tags": {
+   "description": "Wasserskifläche",
+   "leisure": "pitch",
+   "name": "Magix Wakeboarding",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/436250294",
+  "lat": 54.3794992,
+  "lon": 13.5276291,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "wakeboarding;water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/439669023",
+  "lat": 48.2926707,
+  "lon": 10.4453088,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "Wakeboard- und Wasserskilift",
+   "operator": "TURNCABLE GbR",
+   "source": "estimation",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/439669024",
+  "lat": 48.2925347,
+  "lon": 10.4448453,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "Wakeboard- und Wasserskilift",
+   "operator": "TURNCABLE GbR",
+   "source": "estimation",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/455148485",
+  "lat": 50.5660313,
+  "lon": 8.6221691,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "oneway": "yes",
+   "operator": "Wasserski- und Wakeboard Zentrum Heuchelheim",
+   "source": "Bing",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/455148486",
+  "lat": 50.5665887,
+  "lon": 8.6245594,
+  "tags": {
+   "aerialway": "station",
+   "building": "shed",
+   "leisure": "sports_centre",
+   "name": "Wasserski- und Wakeboard Zentrum Heuchelheim",
+   "public_transport": "station",
+   "source": "Bing",
+   "sport": "water_ski",
+   "website": "https://wasserski-heuchelheim.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/484757387",
+  "lat": 51.5456507,
+  "lon": 14.560158,
+  "tags": {
+   "addr:city": "Schleife",
+   "addr:housenumber": "1",
+   "addr:postcode": "02959",
+   "addr:street": "Am See",
+   "building": "yes",
+   "name": "Wake and Beach",
+   "opening_hours": "Mo-Su 12:00-21:00",
+   "sport": "water_ski",
+   "website": "https://www.wakeboard-halbendorf.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/497942135",
+  "lat": 48.6275678,
+  "lon": 12.3573362,
+  "tags": {
+   "leisure": "track",
+   "lit": "no",
+   "ref": "2",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/497942136",
+  "lat": 48.6288182,
+  "lon": 12.3570817,
+  "tags": {
+   "area": "no",
+   "leisure": "track",
+   "lit": "no",
+   "ref": "1",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/506839933",
+  "lat": 53.6397812,
+  "lon": 8.0719601,
+  "tags": {
+   "aerialway": "drag_lift",
+   "contact:website": "https://skiterrassen.de/",
+   "name": "Hooksieler Skiterrassen",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/514035625",
+  "lat": 53.2808588,
+  "lon": 12.8109426,
+  "tags": {
+   "leisure": "marina",
+   "name": "Vereinsgelände Wasserskiclub Mirow.",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/524924660",
+  "lat": 52.3653763,
+  "lon": 13.0285184,
+  "tags": {
+   "addr:city": "Potsdam",
+   "addr:country": "DE",
+   "addr:housenumber": "100",
+   "addr:postcode": "14473",
+   "addr:street": "Templiner Straße",
+   "contact:email": "info@magix-wakeboarding.de",
+   "contact:facebook": "https://www.facebook.com/magixwakeboarding",
+   "contact:mobile": "+49 172 795 7073",
+   "contact:website": "http://www.magix-wakeboarding.de",
+   "historic": "ship",
+   "man_made": "pier",
+   "name": "MAGIX Wakeboarding",
+   "opening_hours": "May-Oct Tu-Fr 15:00-21:00; Sa-Su,PH 10:00-21:00; Mo off",
+   "operator": "Dominik Lindemann",
+   "operator:type": "business",
+   "sport": "wakeboarding;water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/526585674",
+  "lat": 51.6176147,
+  "lon": 10.4923978,
+  "tags": {
+   "aerialway": "drag_lift",
+   "name": "Wasserskianlage",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/563707285",
+  "lat": 48.3629347,
+  "lon": 10.9644763,
+  "tags": {
+   "aerialway": "drag_lift",
+   "area": "no",
+   "description": "Wakeboard- und Wasserskilift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/566072657",
+  "lat": 50.173441,
+  "lon": 9.9235658,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/601745843",
+  "lat": 51.6314996,
+  "lon": 12.3806824,
+  "tags": {
+   "aerialway": "drag_lift",
+   "fee": "yes",
+   "name": "Wakepark",
+   "sport": "water_ski",
+   "website": "https://agora-erlebnis-resort.de/wakepark/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/609979220",
+  "lat": 51.1117784,
+  "lon": 6.91149,
+  "tags": {
+   "aerialway": "drag_lift",
+   "ref": "6",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/609979221",
+  "lat": 51.1115873,
+  "lon": 6.9118059,
+  "tags": {
+   "aerialway": "drag_lift",
+   "ref": "5",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/609982316",
+  "lat": 51.1106284,
+  "lon": 6.9124109,
+  "tags": {
+   "addr:city": "Langenfeld",
+   "addr:country": "DE",
+   "addr:housenumber": "88",
+   "addr:postcode": "40764",
+   "addr:street": "Baumberger Straße",
+   "barrier": "fence",
+   "leisure": "sports_centre",
+   "name": "Wasserski Langenfeld",
+   "sport": "water_ski",
+   "tourism": "attraction",
+   "website": "https://www.wasserski-langenfeld.de/",
+   "wheelchair": "yes"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/610258641",
+  "lat": 51.4075409,
+  "lon": 6.6724667,
+  "tags": {
+   "aerialway": "rope_tow",
+   "leisure": "track",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/610258642",
+  "lat": 51.4056528,
+  "lon": 6.6718626,
+  "tags": {
+   "aerialway": "rope_tow",
+   "area": "no",
+   "leisure": "track",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/613521620",
+  "lat": 51.1019657,
+  "lon": 6.7734147,
+  "tags": {
+   "man_made": "wasserski",
+   "name": "Wasserskibahn",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/614373741",
+  "lat": 47.6283141,
+  "lon": 12.1905522,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/627440637",
+  "lat": 47.930143,
+  "lon": 9.2358558,
+  "tags": {
+   "aerialway": "t-bar",
+   "capacity": "1",
+   "contact:website": "https://www.wasserskipark-pfullendorf.de/",
+   "layer": "1",
+   "leisure": "track",
+   "name": "Bahn 2 (Mini Lift System 2.0)",
+   "opening_hours": "\"Termine für Anfängerkurse variieren ansonsten Liftmiete möglich\"",
+   "operator": "Wasserskipark-Pfullendorf",
+   "sport": "water_ski",
+   "surveillance": "no"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/666518845",
+  "lat": 47.552324,
+  "lon": 10.2444004,
+  "tags": {
+   "aerialway": "drag_lift",
+   "name": "Wasserskilift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/674684011",
+  "lat": 51.6994998,
+  "lon": 7.9176635,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/674684013",
+  "lat": 51.7004393,
+  "lon": 7.9169361,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/685260468",
+  "lat": 50.8047862,
+  "lon": 6.4458603,
+  "tags": {
+   "building": "yes",
+   "club": "sport",
+   "name": "Dock 5 Wasserski & Wakeboardpark Düren",
+   "sport": "water_ski",
+   "website": "https://dock5.eu/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/685260469",
+  "lat": 50.8049804,
+  "lon": 6.444564,
+  "tags": {
+   "area": "yes",
+   "man_made": "pier",
+   "name": "Wasserskianlage",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/685260470",
+  "lat": 50.8055353,
+  "lon": 6.4424997,
+  "tags": {
+   "aerialway": "drag_lift",
+   "leisure": "track",
+   "name": "Full size cable",
+   "sport": "water_ski",
+   "wakeboard": "yes",
+   "water_ski": "yes"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/685260473",
+  "lat": 50.8045558,
+  "lon": 6.4433935,
+  "tags": {
+   "aerialway": "drag_lift",
+   "leisure": "track",
+   "name": "Two tower cable",
+   "sport": "water_ski",
+   "wakeboard": "yes",
+   "water_ski": "yes"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/687397511",
+  "lat": 51.7746435,
+  "lon": 8.0249002,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/687397512",
+  "lat": 51.7727007,
+  "lon": 8.0257727,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/788149734",
+  "lat": 53.1513239,
+  "lon": 7.6427729,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/821581608",
+  "lat": 49.1394888,
+  "lon": 10.877696,
+  "tags": {
+   "name": "Wakeboardanlage Brombachsee",
+   "sport": "wakeboarding",
+   "website": "https://www.zv-brombachsee.de/poi/wakeboardanlage-badehalbinsel-20684/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/827098106",
+  "lat": 47.626829,
+  "lon": 12.1917852,
+  "tags": {
+   "alt_name": "Wasserskilift Kiefersfelden",
+   "area": "yes",
+   "name": "Wetsports",
+   "sport": "water_ski",
+   "website": "https://wetsports.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/828068909",
+  "lat": 53.8249853,
+  "lon": 8.8816029,
+  "tags": {
+   "aerialway": "rope_tow",
+   "oneway": "no",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/834100438",
+  "lat": 53.8248238,
+  "lon": 8.8818821,
+  "tags": {
+   "aerialway": "rope_tow",
+   "oneway": "no",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/851794944",
+  "lat": 53.5232028,
+  "lon": 7.4769641,
+  "tags": {
+   "aerialway": "rope_tow",
+   "name": "Northbound Aurich",
+   "oneway": "yes",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/851794945",
+  "lat": 53.5231334,
+  "lon": 7.478841,
+  "tags": {
+   "aerialway": "rope_tow",
+   "name": "Northbound Aurich",
+   "oneway": "yes",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/851794946",
+  "lat": 53.522721,
+  "lon": 7.4769526,
+  "tags": {
+   "man_made": "pier",
+   "note": "Laufsteg für abgestiegene Wakeboarder",
+   "oneway": "yes",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/857572275",
+  "lat": 53.5225227,
+  "lon": 7.4763787,
+  "tags": {
+   "aerialway": "rope_tow",
+   "name": "Northbound Aurich Anfängerbahn",
+   "oneway": "yes",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/857572276",
+  "lat": 53.5226901,
+  "lon": 7.4767716,
+  "tags": {
+   "aerialway": "rope_tow",
+   "name": "Northbound Aurich Anfängerbahn",
+   "oneway": "yes",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/878219434",
+  "lat": 53.523217,
+  "lon": 7.4763155,
+  "tags": {
+   "highway": "footway",
+   "note": "Laufsteg für abgestiegene Wakeboarder",
+   "oneway": "yes",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/889346477",
+  "lat": 51.6861793,
+  "lon": 6.4425418,
+  "tags": {
+   "aerialway": "drag_lift",
+   "name": "Wasserskianlage Xantener Südsee",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/916110624",
+  "lat": 53.8177998,
+  "lon": 9.0331261,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "building": "yes",
+   "name": "Wasserskianlage Neuhaus",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/919847608",
+  "lat": 54.1397407,
+  "lon": 12.0900247,
+  "tags": {
+   "aerialway": "drag_lift",
+   "contact:phone": "+49 381 203 398 50",
+   "contact:website": "https://supieria.de",
+   "leisure": "track",
+   "sport": "water_ski;wakeboard",
+   "start_date": "2021-05"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/947753100",
+  "lat": 47.5528382,
+  "lon": 10.2478663,
+  "tags": {
+   "aerialway": "drag_lift",
+   "name": "Wasserskilift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/950254615",
+  "lat": 51.5464649,
+  "lon": 14.5622909,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Wake and Beach",
+   "sport": "water_ski",
+   "wheelchair": "no"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/988230093",
+  "lat": 49.1386893,
+  "lon": 10.8784673,
+  "tags": {
+   "aerialway": "drag_lift",
+   "area": "no",
+   "leisure": "track",
+   "lit": "no",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/988230094",
+  "lat": 49.1397836,
+  "lon": 10.877704,
+  "tags": {
+   "aerialway": "drag_lift",
+   "area": "no",
+   "leisure": "track",
+   "lit": "no",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/988231354",
+  "lat": 49.1388176,
+  "lon": 10.8775769,
+  "tags": {
+   "aerialway": "drag_lift",
+   "area": "no",
+   "leisure": "track",
+   "lit": "no",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1013669653",
+  "lat": 52.3540001,
+  "lon": 13.2955106,
+  "tags": {
+   "addr:city": "Großbeeren",
+   "addr:country": "DE",
+   "addr:housenumber": "49",
+   "addr:postcode": "14979",
+   "addr:street": "Bahnhofstraße",
+   "leisure": "sports_centre",
+   "name": "Wakeboard- und Wasserskianlage Großbeeren",
+   "operator": "Wasserskilift Großbeeren GmbH",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1014060181",
+  "lat": 53.7130037,
+  "lon": 10.0210833,
+  "tags": {
+   "addr:city": "Norderstedt",
+   "addr:housenumber": "6",
+   "addr:postcode": "22844",
+   "addr:street": "Schöne Aussicht",
+   "alt_name": "Wasserski Norderstedt",
+   "building": "yes",
+   "charge": "23 EUR",
+   "contact:email": "info@spotz-norderstedt.de",
+   "contact:facebook": "https://www.facebook.com/pages/category/Water-Park/SPOTZ-Wakeboard-Park-345710472122484/",
+   "contact:fax": "+49 40 32040141",
+   "contact:instagram": "https://www.instagram.com/spotzwakeboardpark/",
+   "contact:phone": "+49 40 32040140",
+   "contact:website": "https://spotz-norderstedt.de/wakeboard-park/",
+   "description": "Tresen zur Anmeldung / Bezahlung, sowie Umkleiden befinden sich im Gebäude beim Restaurant",
+   "fee": "yes",
+   "leisure": "sports_centre",
+   "name": "Wakeboard Park Norderstedt",
+   "operator": "Rumpel Norderstedt GmbH",
+   "payment:cash": "yes",
+   "payment:paypal": "yes",
+   "ref:vatin": "DE281770407",
+   "sport": "water_ski;surfing",
+   "wheelchair": "no"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1043269496",
+  "lat": 53.6504451,
+  "lon": 9.8073249,
+  "tags": {
+   "aerialway": "drag_lift",
+   "leisure": "track",
+   "mono_ski": "yes",
+   "sport": "water_ski",
+   "wakeboard": "yes",
+   "water_ski": "yes"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1051232984",
+  "lat": 51.1310374,
+  "lon": 6.093794,
+  "tags": {
+   "area": "yes",
+   "man_made": "pier",
+   "name": "Wasserskianlage",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1053953449",
+  "lat": 52.4351479,
+  "lon": 10.8027728,
+  "tags": {
+   "aerialway": "drag_lift",
+   "area": "no",
+   "operator": "Wakepark Wolfsburg GbR",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1059629212",
+  "lat": 53.0463615,
+  "lon": 9.000159,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1065352992",
+  "lat": 53.3424048,
+  "lon": 13.4469684,
+  "tags": {
+   "leisure": "pitch",
+   "lit": "no",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1076161650",
+  "lat": 52.3620091,
+  "lon": 13.0209462,
+  "tags": {
+   "contact:website": "https://magix-wakeboarding.de/wakeboarden-am-lift/",
+   "leisure": "pitch",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1087857856",
+  "lat": 54.5770514,
+  "lon": 10.0198681,
+  "tags": {
+   "aerialway": "drag_lift",
+   "capacity": "9",
+   "manufacturer": "Rixen",
+   "operator": "Wasserskiseilbahn Damp",
+   "sport": "water_ski",
+   "website": "https://wasserski-damp.de/der-wasserskipark-damp/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1155715308",
+  "lat": 52.9333249,
+  "lon": 13.7203297,
+  "tags": {
+   "leisure": "pitch",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1155715832",
+  "lat": 54.3067452,
+  "lon": 10.7891241,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1157295725",
+  "lat": 53.5743496,
+  "lon": 13.2562395,
+  "tags": {
+   "aerialway": "drag_lift",
+   "oneway": "yes",
+   "operator": "Wasserskiseilbahn",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1161131698",
+  "lat": 53.640825,
+  "lon": 8.0737395,
+  "tags": {
+   "aerialway": "drag_lift",
+   "leisure": "track",
+   "name": "Hooksieler Skiterrassen",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1161131699",
+  "lat": 53.640106,
+  "lon": 8.0699299,
+  "tags": {
+   "aerialway": "drag_lift",
+   "contact:website": "https://skiterrassen.de/",
+   "leisure": "track",
+   "name": "Little B.R.O.-Lift - Hooksieler Skiterrassen",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1175822285",
+  "lat": 51.4071471,
+  "lon": 6.6710581,
+  "tags": {
+   "aerialway": "rope_tow",
+   "leisure": "track",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1204238358",
+  "lat": 50.9310884,
+  "lon": 7.0666949,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "Bahn 2",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1210916575",
+  "lat": 51.7527382,
+  "lon": 8.6671748,
+  "tags": {
+   "aerialway": "drag_lift",
+   "name": "Übungsbahn 1",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1274425462",
+  "lat": 52.379282,
+  "lon": 9.7019292,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "1. Wasserskiclub Hannover e.V.",
+   "sport": "water_ski",
+   "website": "https://www.wasserski-hannover.de"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1292005064",
+  "lat": 50.9292929,
+  "lon": 7.0673804,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "Bahn 1",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1293042078",
+  "lat": 52.985927,
+  "lon": 7.2741681,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1293043510",
+  "lat": 53.5720138,
+  "lon": 8.6529702,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1365073689",
+  "lat": 51.0161146,
+  "lon": 13.8207949,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Wasserski- und Wakeboardzentrum Dresden",
+   "note": "geschätzt nach OSB",
+   "opening_hours:url": "http://www.cable-dresden.de/",
+   "sport": "water_ski",
+   "wheelchair": "limited"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1408389309",
+  "lat": 51.4014296,
+  "lon": 9.7201888,
+  "tags": {
+   "leisure": "pitch",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1408401759",
+  "lat": 51.6295552,
+  "lon": 9.5004023,
+  "tags": {
+   "leisure": "pitch",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1422848842",
+  "lat": 53.817184,
+  "lon": 9.0357708,
+  "tags": {
+   "leisure": "pitch",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1422848856",
+  "lat": 53.817222,
+  "lon": 9.0355193,
+  "tags": {
+   "aerialway": "drag_lift",
+   "area": "no",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1450834878",
+  "lat": 50.930228,
+  "lon": 7.0645119,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "Training",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1468294593",
+  "lat": 50.5560397,
+  "lon": 8.4636046,
+  "tags": {
+   "leisure": "sports_centre",
+   "operator": "Motor-Wasserski-Club Gießen-Oberlahn",
+   "sport": "water_ski",
+   "website": "https://www.mwc-giessen-oberlahn.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1471957926",
+  "lat": 50.8185122,
+  "lon": 9.5255648,
+  "tags": {
+   "email": "wasserski.wolfgang@web.de",
+   "fee": "yes",
+   "leisure": "sports_centre",
+   "name": "Wasserski & Wakeboard Paradies",
+   "operator": "Boarden & Skien GmbH",
+   "operator:type": "business",
+   "phone": "+49 6628 8666",
+   "sport": "water_ski",
+   "website": "https://www.wasserski-kirchheim.de/"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1513218501",
+  "lat": 53.4984555,
+  "lon": 12.4740303,
+  "tags": {
+   "leisure": "pitch",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "way/1517264506",
+  "lat": 53.285769,
+  "lon": 12.8063983,
+  "tags": {
+   "leisure": "pitch",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "relation/68622",
+  "lat": 52.3542012,
+  "lon": 13.2960161,
+  "tags": {
+   "natural": "water",
+   "sport": "water_ski",
+   "type": "multipolygon"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "relation/2410576",
+  "lat": 54.5770301,
+  "lon": 10.0198934,
+  "tags": {
+   "description": "Wasserskianlage",
+   "natural": "water",
+   "sport": "water_ski",
+   "type": "multipolygon",
+   "water": "reservoir"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "relation/3186597",
+  "lat": 51.4066572,
+  "lon": 6.7824183,
+  "tags": {
+   "name": "Margaretensee",
+   "natural": "water",
+   "sport": "water_ski",
+   "type": "multipolygon"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "relation/4032008",
+  "lat": 47.6269597,
+  "lon": 12.1917019,
+  "tags": {
+   "name": "Hödenauer See",
+   "natural": "water",
+   "sport": "water_ski",
+   "type": "multipolygon",
+   "water": "basin",
+   "wikidata": "Q23829751"
+  }
+ },
+ {
+  "country": "DE",
+  "osm": "relation/12876371",
+  "lat": 50.9876212,
+  "lon": 13.0774932,
+  "tags": {
+   "contact:website": "www.wasserski-wakeboard-rossau.de",
+   "name": "Wasserskianlage Rossau",
+   "natural": "water",
+   "sport": "water_ski",
+   "type": "multipolygon"
+  }
+ },
+ {
+  "country": "CH",
+  "osm": "node/411508137",
+  "lat": 46.9101182,
+  "lon": 7.077004,
+  "tags": {
+   "contact:email": "buetiger@wakeboard.ch",
+   "description": "for a Session, Reservation by Phone.",
+   "name": "wakeboard.ch",
+   "phone": "+41 79 415 22 22",
+   "sport": "wakeboarding",
+   "website": "http://www.wakeboard.ch"
+  }
+ },
+ {
+  "country": "CH",
+  "osm": "node/1141136546",
+  "lat": 46.7142859,
+  "lon": 7.6952157,
+  "tags": {
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "CH",
+  "osm": "node/1805756495",
+  "lat": 46.8573453,
+  "lon": 6.8468087,
+  "tags": {
+   "name": "Club Ski Nautique Estavayer-le-Lac",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "CH",
+  "osm": "node/2627101630",
+  "lat": 46.6203061,
+  "lon": 6.247433,
+  "tags": {
+   "addr:city": "Le Sentier",
+   "addr:postcode": "1347",
+   "addr:street": "Rocheray Plage",
+   "ele": "1005",
+   "email": "o.meylan@waterski.ch",
+   "name": "Ski nautique Vallée de Joux",
+   "phone": "+4179 433 48 81",
+   "sport": "water_ski",
+   "website": "http://www.skinautique-joux.ch/ski-wake/",
+   "wheelchair": "yes"
+  }
+ },
+ {
+  "country": "CH",
+  "osm": "node/2636790137",
+  "lat": 47.5681991,
+  "lon": 7.5862133,
+  "tags": {
+   "email": "info@wasserski-basel.ch",
+   "name": "Wasserski-Club Basel",
+   "sport": "water_ski",
+   "website": "https://www.wasserski-basel.ch/"
+  }
+ },
+ {
+  "country": "CH",
+  "osm": "node/5151369027",
+  "lat": 46.3028446,
+  "lon": 7.4691961,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Crans-Montana Wakepark",
+   "sport": "wakeboarding",
+   "website": "https://www.cransmontana.ch/wakepark"
+  }
+ },
+ {
+  "country": "CH",
+  "osm": "node/10748447758",
+  "lat": 46.5081064,
+  "lon": 6.6255675,
+  "tags": {
+   "addr:city": "Lausanne",
+   "addr:housenumber": "47",
+   "addr:postcode": "1007",
+   "addr:street": "Avenue Frédéric-César-de-La-Harpe",
+   "name": "Get Wet Bike & Sports",
+   "opening_hours": "Mo, 14:00-18:30; Ma-Fr 10:00-18:30,14:00-18:30; Sa 10:00-12:30-13:30-17:00",
+   "payment:cash": "yes",
+   "payment:credit_cards": "yes",
+   "phone": "+41 21 617 55 22",
+   "shop": "sports",
+   "sport": "cycling;skiing;multi;water_ski;wakeboarding;windsurfing;wingfoil;pumpfoil;kiteboarding;skitouring",
+   "website": "http://www.getwet-surfshop.ch"
+  }
+ },
+ {
+  "country": "CH",
+  "osm": "way/169408597",
+  "lat": 46.8589691,
+  "lon": 6.8466331,
+  "tags": {
+   "aerialway": "drag_lift",
+   "area": "no",
+   "name": "Club Ski Nautique Estavayer-le-Lac",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "CH",
+  "osm": "way/1218253945",
+  "lat": 46.0792669,
+  "lon": 7.7761039,
+  "tags": {
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "CH",
+  "osm": "way/1424739763",
+  "lat": 46.8157812,
+  "lon": 9.8466108,
+  "tags": {
+   "aerialway": "drag_lift",
+   "direction": "both",
+   "name": "Wakeboard-Lift Davos",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "CH",
+  "osm": "node/9865610097",
+  "lat": 46.8575879,
+  "lon": 6.846379,
+  "tags": {
+   "leisure": "pitch",
+   "name": "Alphasurf - ski nautique",
+   "website": "https://alphasurf.ch/accueil"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "node/277306110",
+  "lat": 48.3061735,
+  "lon": 14.2728181,
+  "tags": {
+   "name": "Wasserschischule Kral",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "node/292745653",
+  "lat": 48.3241443,
+  "lon": 14.0652008,
+  "tags": {
+   "name": "Jetlake",
+   "phone": "+43 7233 20520",
+   "sport": "wakeboarding",
+   "website": "http://www.jetlake.com/lift/"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "node/364397888",
+  "lat": 48.8454521,
+  "lon": 15.7312804,
+  "tags": {
+   "leisure": "pitch",
+   "name": "Wasserschistation",
+   "operator": "WSC Tulln",
+   "sport": "wakeboarding;water_ski"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "node/1461659706",
+  "lat": 48.2129737,
+  "lon": 16.4365567,
+  "tags": {
+   "name": "Wakeboardlift Wien",
+   "operator": "wakeboardlift.at e.U",
+   "sport": "water_ski",
+   "website": "https://www.wakeboardlift.at/"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "node/2072464134",
+  "lat": 48.2730606,
+  "lon": 14.3984706,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Fetzys World Wasserskizentrum",
+   "sport": "wakeboarding",
+   "website": "https://www.fetzysworld.com/"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "node/4318450413",
+  "lat": 47.8027984,
+  "lon": 13.4877358,
+  "tags": {
+   "amenity": "water_ski_school",
+   "name": "Wasserskischule Unterach",
+   "sport": "water_ski",
+   "website": "https://www.wasserschischule.at/"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "node/9658051515",
+  "lat": 46.6303068,
+  "lon": 14.1430124,
+  "tags": {
+   "check_date:opening_hours": "2025-10-31",
+   "name": "WAVER Wasserskischule",
+   "opening_hours:signed": "no",
+   "operator": "Gerwin Kaschitz",
+   "shop": "sports",
+   "sport": "water_ski",
+   "website": "https://www.waver.at/"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "node/9672305767",
+  "lat": 47.7358822,
+  "lon": 13.0797805,
+  "tags": {
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "way/124123925",
+  "lat": 46.6303134,
+  "lon": 14.1429938,
+  "tags": {
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "way/143768580",
+  "lat": 48.3060473,
+  "lon": 14.2727461,
+  "tags": {
+   "landuse": "commercial",
+   "name": "Wasserschischule Kral",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "way/169046286",
+  "lat": 47.8374769,
+  "lon": 13.5436787,
+  "tags": {
+   "addr:city": "Steinbach am Attersee",
+   "addr:country": "AT",
+   "addr:housenumber": "53",
+   "addr:place": "Seefeld",
+   "addr:postcode": "4853",
+   "amenity": "boat_rental",
+   "building": "yes",
+   "motorboat_rental": "yes",
+   "name": "Wassersport Mühlegger",
+   "opening_hours": "Jun-Sep: Mo-Su,PH 10:00-18:00",
+   "pedalboat_rental": "yes",
+   "source": "geoimage.at",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "way/172148356",
+  "lat": 48.2483694,
+  "lon": 14.4186013,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "Wakeboard- und Wasserskilift, 4 Masten, 800m Umlaufseil",
+   "name": "Ausee Cable",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "way/233945734",
+  "lat": 46.6063442,
+  "lon": 14.1840055,
+  "tags": {
+   "building": "boathouse",
+   "name": "Wasserschischule Reifnitz",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "way/343991398",
+  "lat": 48.2129991,
+  "lon": 16.4365553,
+  "tags": {
+   "floating": "yes",
+   "man_made": "pier",
+   "operator": "Wakeboardlift Wien",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "way/350584631",
+  "lat": 48.2135041,
+  "lon": 16.4344153,
+  "tags": {
+   "aerialway": "drag_lift",
+   "alt_name": "Wasserschilift Wien",
+   "description": "Wasserschilift und Wakeboardlift Wien",
+   "name": "Wakeboardlift Wien",
+   "oneway": "yes",
+   "operator": "Wakeboardlift Wien",
+   "sport": "water_ski",
+   "website": "https://www.wakeboardlift.at/"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "way/416999008",
+  "lat": 47.2284838,
+  "lon": 10.8383911,
+  "tags": {
+   "name": "Wake Area",
+   "natural": "water",
+   "sport": "surfing;wakeboarding",
+   "water": "basin"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "way/549883781",
+  "lat": 46.6119288,
+  "lon": 14.0536054,
+  "tags": {
+   "building": "cube",
+   "description": "Wasserski, Wakeboard, Reifen, Banane, Shuttlesevice",
+   "email": "info@woesee.at",
+   "name": "WÖSEE Wassersport",
+   "phone": "+43 664 1145195",
+   "shop": "sports",
+   "sport": "water_ski;wakeboard;watersports",
+   "website": "https://www.woesee.at"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "way/616400092",
+  "lat": 46.8016561,
+  "lon": 13.5702824,
+  "tags": {
+   "addr:housenumber": "56",
+   "addr:street": "Seemühlgasse",
+   "amenity": "boat_rental",
+   "area": "yes",
+   "leisure": "sports_centre",
+   "name": "Strobl",
+   "operator": "Strobl",
+   "phone": "+43 660 4737559",
+   "sport": "water_ski",
+   "sport_1": "wakeboard"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "way/717871351",
+  "lat": 46.6902921,
+  "lon": 13.9927965,
+  "tags": {
+   "floating": "yes",
+   "leisure": "pitch",
+   "man_made": "pier",
+   "note": "Holzplattform als Startpunkt für Wasserski",
+   "sport": "water_ski",
+   "surface": "wood"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "way/830692263",
+  "lat": 47.3681371,
+  "lon": 9.6569361,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Wasserschanzen Freestyle Zentrum Rheinauen",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "way/1075406137",
+  "lat": 47.7875727,
+  "lon": 15.3311135,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "way/1079071125",
+  "lat": 48.2725764,
+  "lon": 14.399214,
+  "tags": {
+   "aerialway": "drag_lift",
+   "fee": "yes",
+   "name": "Fetzysworld",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "way/1239670149",
+  "lat": 48.1123054,
+  "lon": 16.3086744,
+  "tags": {
+   "aerialway": "drag_lift",
+   "mobile": "+43 660 3110098",
+   "name": "Wakeboardlift",
+   "opening_hours": "Mo-Fr 13:30-20:30",
+   "operator": "Lilly Beach House GmbH",
+   "sport": "wakeboarding",
+   "website": "https://pywakepark.com/"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "node/4318450412",
+  "lat": 47.8028244,
+  "lon": 13.4877292,
+  "tags": {
+   "amenity": "boat_rental",
+   "canoe_rental": "no",
+   "dinghy_rental": "yes",
+   "houseboat_rental": "no",
+   "jetski_rental": "no",
+   "kayak_rental": "no",
+   "motorboat_rental": "no",
+   "name": "Wasserskischule Unterach",
+   "pedalboat_rental": "yes",
+   "sailboat_rental": "no",
+   "website": "https://www.wasserschischule.at/"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "node/11137736293",
+  "lat": 47.3857822,
+  "lon": 12.6525456,
+  "tags": {
+   "leisure": "fitness_station",
+   "name": "Alpine Wasserskiwand",
+   "ref": "17",
+   "sport": "fitness"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "way/297042604",
+  "lat": 48.347513,
+  "lon": 16.2102592,
+  "tags": {
+   "man_made": "pier",
+   "name": "Pier Restaurant Wasserskischule",
+   "seamark:small_craft_facility:category": "visitor_berth",
+   "seamark:type": "small_craft_facility"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "way/458549035",
+  "lat": 48.2528145,
+  "lon": 16.4767372,
+  "tags": {
+   "leisure": "fitness_station",
+   "name": "Wasserskiwand",
+   "sport": "fitness"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "way/458549036",
+  "lat": 48.2528099,
+  "lon": 16.4769763,
+  "tags": {
+   "leisure": "fitness_station",
+   "name": "Wasserskizylinder",
+   "sport": "fitness"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "way/844056374",
+  "lat": 48.2835117,
+  "lon": 16.3483037,
+  "tags": {
+   "club": "sport",
+   "name": "ARBÖ Wasserski- u Motorboot- Club Wien",
+   "sport": "motorboat"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "way/893650746",
+  "lat": 46.6194306,
+  "lon": 14.1606274,
+  "tags": {
+   "area": "yes",
+   "floating": "yes",
+   "man_made": "pier",
+   "name": "Wasserskiinsel Linde"
+  }
+ },
+ {
+  "country": "AT",
+  "osm": "way/1012366020",
+  "lat": 48.0926934,
+  "lon": 13.9318212,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Wasserski Leistungszentrum Union Fischlham"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "node/874217740",
+  "lat": 37.6612003,
+  "lon": 12.5175708,
+  "tags": {
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "node/880465634",
+  "lat": 45.4998306,
+  "lon": 10.7330834,
+  "tags": {
+   "email": "info@gardawake.com",
+   "leisure": "sports_centre",
+   "name": "gardawake.com",
+   "phone": "+39 349 4076004",
+   "sport": "wakeboarding;water_ski;wakesurf",
+   "website": "https://www.gardawake.com/"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "node/1231979984",
+  "lat": 45.4116974,
+  "lon": 8.0497752,
+  "tags": {
+   "alt_name": "LSN Wakeboard",
+   "amenity": "training",
+   "name": "Le Ski Nautique",
+   "sport": "wakeboarding",
+   "website": "https://www.wakeboarditaly.com/"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "node/2618772970",
+  "lat": 43.6589075,
+  "lon": 10.6630786,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Tarpons Wake Park",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "node/4844237821",
+  "lat": 45.7398805,
+  "lon": 12.2852042,
+  "tags": {
+   "addr:city": "Carbonera",
+   "addr:housenumber": "1",
+   "addr:postcode": "31030",
+   "addr:street": "Postioma",
+   "email": "info@wakepark-cable7.com",
+   "leisure": "fitness_centre",
+   "name": "Wakepark Cable 7",
+   "name:it": "Wakepark Cable 7",
+   "name:ru": "Wakepark Cable 7",
+   "opening_hours": "Mo-Su 12:00-23:00",
+   "phone": "+39 335 594 5518",
+   "sport": "wakeboarding",
+   "website": "http://wakepark-cable7.com"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "node/5396208920",
+  "lat": 45.5456184,
+  "lon": 10.219102,
+  "tags": {
+   "addr:city": "Brescia",
+   "addr:housenumber": "24",
+   "addr:postcode": "25122",
+   "addr:street": "Via Leonardo da Vinci",
+   "contact:email": "info@minoiawebstore.com",
+   "contact:phone": "+39 030 3379051",
+   "contact:website": "https://www.minoiawebstore.com",
+   "level": "0",
+   "name": "Minoia Board Co.",
+   "shop": "sports",
+   "sport": "skateboard;snowboard;kiteboard;wakeboard;surf"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "node/6786894843",
+  "lat": 45.615337,
+  "lon": 11.9438852,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Veneto Cable Park",
+   "sport": "wakeboarding",
+   "wakeboard:rental": "yes",
+   "website": "https://www.venetocablepark.com/"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "node/6818430391",
+  "lat": 45.5179793,
+  "lon": 9.207633,
+  "tags": {
+   "addr:city": "Milano",
+   "addr:housenumber": "216",
+   "addr:postcode": "20126",
+   "addr:street": "Viale Fulvio Testi",
+   "name": "Mission",
+   "phone": "+390236591569",
+   "shop": "sports",
+   "sport": "wakeboard;kitesurf;snowboard;sup;surf;skateboard",
+   "website": "https://www.sportmission.com",
+   "wheelchair": "no"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "node/8749107402",
+  "lat": 43.8817539,
+  "lon": 10.2857036,
+  "tags": {
+   "club": "sport",
+   "name": "Wakepark Versilia",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "node/10637208214",
+  "lat": 45.3952592,
+  "lon": 10.4332726,
+  "tags": {
+   "addr:street": "Via Incanti",
+   "leisure": "water_park",
+   "name": "Wakeparadise",
+   "sport": "wakeboarding;beachvolleyball;padel"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "node/11041704829",
+  "lat": 42.3059047,
+  "lon": 14.0419979,
+  "tags": {
+   "addr:city": "Manoppello",
+   "addr:street": "Via Lungo Fiume Destro",
+   "club": "sport",
+   "contact:facebook": "https://www.facebook.com/Hotlake/",
+   "contact:instagram": "https://www.instagram.com/hotlake_cablepark",
+   "contact:whatsapp": "+39 329 5988909",
+   "email": "info@hot-lake.com",
+   "level": "0",
+   "name": "Hot Lake ASD",
+   "nohousenumber": "yes",
+   "phone": "+39 085 856 2029",
+   "shop": "surf",
+   "sport": "water_ski",
+   "website": "https://hot-lake.com"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "node/11190257839",
+  "lat": 46.0979378,
+  "lon": 11.0544215,
+  "tags": {
+   "contact:phone": "+39 392 6584943",
+   "contact:website": "https://www.facebook.com/LakeLineTerlago",
+   "leisure": "sports_centre",
+   "name": "Lake line Terlago",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "node/12057896421",
+  "lat": 45.1553409,
+  "lon": 7.8290913,
+  "tags": {
+   "addr:city": "Settimo Torinese",
+   "addr:place": "Frazione Mezzi Po",
+   "addr:postcode": "10036",
+   "leisure": "sports_centre",
+   "name": "Turin Wake Park",
+   "operator": "Turin Wake Park SSD",
+   "sport": "wakeboarding;beachvolleyball;skateboard"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "way/87195369",
+  "lat": 45.4677514,
+  "lon": 8.4089671,
+  "tags": {
+   "level": "1",
+   "natural": "water",
+   "sport": "water_ski",
+   "water": "reservoir"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "way/88226443",
+  "lat": 46.1360618,
+  "lon": 9.4081776,
+  "tags": {
+   "ele": "206",
+   "it:lombardia:dusaf2.1:DESCRIZION": "Bacini idrici artificiali",
+   "it:lombardia:dusaf2.1:POLIGONO": "28455",
+   "leisure": "water_park",
+   "natural": "water",
+   "source": "PCN ortofoto a colori 2006",
+   "sport": "wakeboarding",
+   "water": "reservoir"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "way/163215603",
+  "lat": 39.2279487,
+  "lon": 8.8229041,
+  "tags": {
+   "abandoned:leisure": "pitch",
+   "name": "WSA Wakeboarding Sardinia Association",
+   "sport": "wakeboarding",
+   "website": "http://www.wakeboardsardegna.com/"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "way/167134951",
+  "lat": 42.3044679,
+  "lon": 14.0422942,
+  "tags": {
+   "boat": "permissive",
+   "leisure": "pitch",
+   "loc_name": "Lagone",
+   "name": "Lago di Rosciano",
+   "natural": "water",
+   "sport": "water_ski",
+   "water": "lake"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "way/278673818",
+  "lat": 44.4027633,
+  "lon": 12.2558712,
+  "tags": {
+   "addr:city": "Porto Fuori",
+   "addr:housenumber": "55",
+   "addr:postcode": "48121",
+   "addr:street": "Via Francesco Beretti",
+   "leisure": "sports_centre",
+   "name": "Starwake Park",
+   "phone": "+39 335 7014807",
+   "source": "http://cableparks.info/directory/Ravenna_Star_Cable_Park",
+   "sport": "wakeboarding",
+   "website": "http://www.starwakepark.com",
+   "wheelchair": "limited"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "way/333558339",
+  "lat": 38.019992,
+  "lon": 15.6367617,
+  "tags": {
+   "addr:city": "Pellaro",
+   "addr:country": "IT",
+   "addr:postcode": "89134",
+   "addr:province": "Reggio Calabria",
+   "addr:street": "Via Vecchia Provinciale Occhio di Pellaro",
+   "leisure": "sports_centre",
+   "name": "NewKiteZone International IKO Kite Center",
+   "note": "Affiliated IKO Center (Verifica nr#4013) Circolo Velico Federvela FIV (Verifica nr#1535)",
+   "opening_hours": "10:00-20:00",
+   "phone": "+39 393 1933 234",
+   "sport": "kitesurfing;surfing;windsurfing;canoe;sailing;wakeboard;kiteboarding",
+   "website": "https://www.newkitezone.it/",
+   "wheelchair": "yes"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "way/405280538",
+  "lat": 43.660059,
+  "lon": 10.6625135,
+  "tags": {
+   "name": "Lago Braccini",
+   "natural": "water",
+   "sport": "water_ski",
+   "water": "pond"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "way/426205676",
+  "lat": 45.4553373,
+  "lon": 9.2901334,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "name": "Wakeboard",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "way/591381192",
+  "lat": 45.467869,
+  "lon": 8.4098557,
+  "tags": {
+   "addr:city": "Recetto",
+   "addr:postcode": "28960",
+   "addr:street": "Strada Comunale del Fiume Sesia",
+   "email": "info@waterskirecetto.com",
+   "leisure": "sports_centre",
+   "name": "Centro Federale Sci Nautico",
+   "phone": "+39 348 3001104;+39 348 3001106",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "way/721599105",
+  "lat": 45.4554739,
+  "lon": 9.2909083,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "name": "Wakeboard",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "way/723619152",
+  "lat": 45.6142998,
+  "lon": 11.9430869,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "name": "Wakeboard",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "way/723619153",
+  "lat": 45.6155287,
+  "lon": 11.9427694,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "name": "Wakeboard",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "way/880692409",
+  "lat": 45.8356783,
+  "lon": 9.097316,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Wakeboard Lake Como",
+   "opening_hours": "Oct-Apr closed; Mo-Su 11:00-20:00",
+   "phone": "+39 338 757 8550",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "way/1189114928",
+  "lat": 42.3044532,
+  "lon": 14.0421769,
+  "tags": {
+   "aerialway": "drag_lift",
+   "area": "no",
+   "leisure": "pitch",
+   "oneway": "yes",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "way/1201032404",
+  "lat": 45.4554855,
+  "lon": 9.2910948,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "name": "Wakeboard",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "way/1201211432",
+  "lat": 37.6291972,
+  "lon": 13.0619757,
+  "tags": {
+   "abandoned": "yes",
+   "building": "sports_hall",
+   "name": "Ex Centro Sci Nautico Lago Arancio",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "way/1301826315",
+  "lat": 45.1558548,
+  "lon": 7.8282154,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "4",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "way/1301826316",
+  "lat": 45.1559214,
+  "lon": 7.8292316,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "way/1301826317",
+  "lat": 45.1547248,
+  "lon": 7.8265462,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "way/1301826318",
+  "lat": 45.0838596,
+  "lon": 7.7063599,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "way/1309840467",
+  "lat": 37.3088877,
+  "lon": 15.0908804,
+  "tags": {
+   "contact:facebook": "SunislandWakePark",
+   "leisure": "sports_centre",
+   "name": "Sunisland Wake Park",
+   "opening_hours": "Mo-Su 10:30-19:30",
+   "phone": "+39 392 1760206",
+   "sport": "wakeboarding",
+   "website": "http://www.sunislandwakepark.it/"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "way/1420678676",
+  "lat": 45.5044862,
+  "lon": 9.8088819,
+  "tags": {
+   "aerialway": "drag_lift",
+   "aerialway:occupancy": "1",
+   "name": "Santa Barbara Wakeboard",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "IT",
+  "osm": "way/1469085546",
+  "lat": 44.968097,
+  "lon": 7.6995894,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Waterski Torino",
+   "phone": "+39 345 485 0009",
+   "sport": "water_ski",
+   "website": "https://www.facebook.com/profile.php?id=100054481328987#"
+  }
+ },
+ {
+  "country": "ES",
+  "osm": "node/1786016267",
+  "lat": 42.9720353,
+  "lon": -4.0544764,
+  "tags": {
+   "addr:city": "Arroyo",
+   "addr:housenumber": "81",
+   "addr:postcode": "39213",
+   "addr:street": "Arroyo",
+   "addr:unit": "A",
+   "leisure": "sports_centre",
+   "name": "H2ur.com - Aventura y Turismo Activo",
+   "sport": "climbing_adventure;canoe;paintball;stand_up_paddling;wakeboard;canoe_raft",
+   "website": "https://www.h2ur.com/"
+  }
+ },
+ {
+  "country": "ES",
+  "osm": "node/8804484335",
+  "lat": 37.851833,
+  "lon": -5.0211096,
+  "tags": {
+   "addr:city": "Almodóvar del Río",
+   "addr:postcode": "14720",
+   "addr:street": "Embalse de la Breña",
+   "club": "sport",
+   "email": "debbie@xtreme-gene.com",
+   "name": "Xtreme Gene Watersports",
+   "phone": "+34 957057010",
+   "sport": "multi;wakeboarding;wakesurfing;waterski",
+   "website": "https://www.xtreme-gene.com/"
+  }
+ },
+ {
+  "country": "ES",
+  "osm": "node/9067095055",
+  "lat": 42.1319049,
+  "lon": 0.3109538,
+  "tags": {
+   "club": "sport",
+   "name": "Eseraventura",
+   "sport": "water_ski;wakeboarding;canoeing"
+  }
+ },
+ {
+  "country": "ES",
+  "osm": "node/9930331491",
+  "lat": 39.5948873,
+  "lon": 3.3846218,
+  "tags": {
+   "name": "Sea Fusion water sports",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "ES",
+  "osm": "node/9953254417",
+  "lat": 41.2724599,
+  "lon": 1.9919612,
+  "tags": {
+   "addr:city": "Castelldefels",
+   "addr:postcode": "08860",
+   "addr:street": "Avinguda del Canal Olímpic",
+   "contact:email": "info@olimpic-cablepark.com",
+   "contact:facebook": "https://www.facebook.com/OlimpicCableParkBarcelona",
+   "contact:instagram": "ocpcablepark",
+   "contact:website": "https://www.olimpic-cablepark.com/",
+   "contact:whatsapp": "+34602253047",
+   "leisure": "water_park",
+   "name": "Olimpic Cable Park",
+   "phone": "+34936656480",
+   "sport": "wakeboarding",
+   "survey:date": "2022-08-14"
+  }
+ },
+ {
+  "country": "ES",
+  "osm": "node/10597489685",
+  "lat": 38.5318384,
+  "lon": -0.1086327,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:summer:access": "entry",
+   "operator": "Cable Ski Benidorm",
+   "public_transport": "station",
+   "ref": "4",
+   "sport": "water_ski;wakeboarding",
+   "tower:type": "diving"
+  }
+ },
+ {
+  "country": "ES",
+  "osm": "node/11295263259",
+  "lat": 41.2727073,
+  "lon": 1.9923092,
+  "tags": {
+   "aerialway": "station",
+   "aerialway:access": "entry",
+   "operator": "Olimpic Cable Park",
+   "public_transport": "station",
+   "ref": "5",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "ES",
+  "osm": "node/11718358790",
+  "lat": 41.2762132,
+  "lon": 1.9924982,
+  "tags": {
+   "fixme": "define as area + restriction for water skiing",
+   "leisure": "pitch",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "ES",
+  "osm": "way/19797298",
+  "lat": 41.2754147,
+  "lon": 1.9925445,
+  "tags": {
+   "check_date": "2024-08-23",
+   "name": "Canal Olimpic de Catalunya",
+   "name:ca": "Canal Olímpic de Catalunya",
+   "natural": "water",
+   "sport": "canoe;water_ski;kayak",
+   "water": "basin",
+   "wikidata": "Q4887991",
+   "wikimedia_commons": "Category:Canal Olímpic de Catalunya",
+   "wikipedia": "ca:Canal Olímpic de Catalunya"
+  }
+ },
+ {
+  "country": "ES",
+  "osm": "way/376356368",
+  "lat": 37.9689047,
+  "lon": -0.683158,
+  "tags": {
+   "leisure": "pitch",
+   "seamark:restricted_area:category": "water_skiing",
+   "seamark:type": "restricted_area",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "ES",
+  "osm": "way/1116408943",
+  "lat": 40.0587032,
+  "lon": -3.6307677,
+  "tags": {
+   "natural": "water",
+   "sport": "water_ski",
+   "water": "basin"
+  }
+ },
+ {
+  "country": "ES",
+  "osm": "way/1136855888",
+  "lat": 38.5315961,
+  "lon": -0.1106118,
+  "tags": {
+   "access": "customers",
+   "aerialway": "drag_lift",
+   "description": "1000m approx., 12 carriers, counterclockwise",
+   "fixme": "Description to translate in Spanish (couldn't translate the technical word \"carrier\")",
+   "operator": "Cable Ski Benidorm",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "ES",
+  "osm": "way/1160894857",
+  "lat": 40.058814,
+  "lon": -3.630981,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Esquí Acuático Botaski Seseña Waterski Complex",
+   "name:es": "Esquí Acuático Botaski Seseña Waterski Complex",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "ES",
+  "osm": "way/1218971455",
+  "lat": 41.2714638,
+  "lon": 1.9927507,
+  "tags": {
+   "aerialway": "drag_lift",
+   "description": "680m, en sentido antihorario",
+   "operator": "Olimpic Cable Park",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "ES",
+  "osm": "way/1365075656",
+  "lat": 39.8356758,
+  "lon": 3.1083584,
+  "tags": {
+   "aerialway": "drag_lift",
+   "oneway": "no",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "ES",
+  "osm": "node/10033889617",
+  "lat": 42.336114,
+  "lon": -8.4828663,
+  "tags": {
+   "addr:housenumber": "20",
+   "addr:postcode": "36846",
+   "addr:street": "Lugar Oitaven Dabaixo",
+   "name": "Fornelos Wake Club - Cable Park Wakeboarding",
+   "phone": "+34 630726588",
+   "tourism": "attraction",
+   "website": "https://forneloswakeclub.com/"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "node/369036552",
+  "lat": 51.4024561,
+  "lon": -0.5192086,
+  "tags": {
+   "addr:city": "Chertsey",
+   "addr:postcode": "KT16 8PH",
+   "addr:street": "Thorpe Road",
+   "leisure": "water_park",
+   "name": "Thorpe Lakes Watersports Resort",
+   "phone": "+44 1932 579750",
+   "sport": "water_sports;water_ski;swimming",
+   "website": "https://www.jbski.com/"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "node/476541833",
+  "lat": 52.3900149,
+  "lon": 0.6453185,
+  "tags": {
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "node/795606222",
+  "lat": 52.4831512,
+  "lon": -2.0927144,
+  "tags": {
+   "building": "yes",
+   "leisure": "sports_centre",
+   "name": "Dudley Water Sports Centre Ltd",
+   "sport": "sailing;scuba_diving;waterski;stand_up_paddling"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "node/5219617017",
+  "lat": 50.5442495,
+  "lon": -4.9233438,
+  "tags": {
+   "club": "sport",
+   "email": "info@camelskischool.com",
+   "name": "Camel Ski School",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "node/5648372447",
+  "lat": 50.1605648,
+  "lon": -5.1687428,
+  "tags": {
+   "leisure": "water_park",
+   "name": "Kernow Adventure Park",
+   "sport": "swimming;water_ski"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "node/6501053167",
+  "lat": 52.3103317,
+  "lon": -0.1031675,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Liquid Skillz",
+   "sport": "paddleboarding;wakeboarding;swimming",
+   "website": "https://en-gb.facebook.com/lakeashmoreliquidskillz/"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "node/6813933460",
+  "lat": 50.8359641,
+  "lon": -1.077339,
+  "tags": {
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "node/10235889315",
+  "lat": 50.6169886,
+  "lon": -3.4237868,
+  "tags": {
+   "addr:city": "Exmouth",
+   "addr:housename": "Shelly Court",
+   "addr:postcode": "EX8 1ER",
+   "addr:street": "Pier Head",
+   "addr:unit": "6",
+   "club": "sport",
+   "name": "Exmouth Power Boat & Ski Club",
+   "sport": "water_ski; power_boat"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "node/12831814557",
+  "lat": 56.3853623,
+  "lon": -4.2749118,
+  "tags": {
+   "addr:city": "Lochearnhead",
+   "addr:postcode": "FK19 8PU",
+   "contact:facebook": "https://www.facebook.com/lochearnwakeschool",
+   "leisure": "sports_centre",
+   "name": "Loch Earn Wakeschool",
+   "opening_hours": "Mo-Su 10:00-18:00",
+   "phone": "+44 7943 620165",
+   "sport": "wakeboarding",
+   "website": "https://www.lochearnwakeschool.co.uk/"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "node/13081571070",
+  "lat": 51.2966304,
+  "lon": -0.7371986,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Quays Water Sports",
+   "sport": "swimming;wakeboarding;canoe",
+   "website": "https://www.quayswatersports.co.uk/"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "node/13589659030",
+  "lat": 51.4738079,
+  "lon": -0.5573533,
+  "tags": {
+   "addr:city": "Slough",
+   "addr:country": "GB",
+   "addr:postcode": "SL3 9HY",
+   "addr:street": "Horton Road",
+   "addr:suburb": "Datchet",
+   "leisure": "water_park",
+   "name": "Plastic Playground Wake Park",
+   "sport": "water_ski",
+   "website": "https://www.plasticplayground.co.uk/"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "node/13682892327",
+  "lat": 51.4119233,
+  "lon": -0.5422292,
+  "tags": {
+   "club": "sport",
+   "name": "Longside Lake Watersports",
+   "sport": "water_ski;wakeboarding;paddleboarding;swimming",
+   "website": "https://www.cjmskiandwake.com/"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/4805850",
+  "lat": 53.6677071,
+  "lon": -2.1828952,
+  "tags": {
+   "name": "Cowm Reservoir",
+   "natural": "water",
+   "old_owner": "Rochdale Corporation Water Works",
+   "ref:GB:uprn": "10014331525",
+   "source": "Bing",
+   "sport": "water_ski",
+   "water": "reservoir"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/24798310",
+  "lat": 50.8353319,
+  "lon": -1.0754453,
+  "tags": {
+   "name": "Hilsea Lagoon",
+   "natural": "water",
+   "sport": "water_ski",
+   "water": "moat"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/37826859",
+  "lat": 52.1246476,
+  "lon": -0.5204814,
+  "tags": {
+   "aerialway": "drag_lift",
+   "name": "Box End Water Park Cable Tow",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/55037100",
+  "lat": 50.9147421,
+  "lon": -1.4724769,
+  "tags": {
+   "note": "Water Skiing Area (Mar-Oct)",
+   "opening_hours": "Mar-Oct",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/61109727",
+  "lat": 53.6968451,
+  "lon": -0.4033926,
+  "tags": {
+   "natural": "water",
+   "ref:GB:uprn": "10025067384",
+   "source": "OS_Vectormap",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/69284059",
+  "lat": 53.1861391,
+  "lon": -0.6324799,
+  "tags": {
+   "name": "Water Ski Lake",
+   "natural": "water",
+   "ref:GB:uprn": "10024941777",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/160730220",
+  "lat": 51.4471503,
+  "lon": -0.5287206,
+  "tags": {
+   "addr:city": "Wraysbury",
+   "addr:housename": "Tony Edge National Centre",
+   "addr:place": "Heron Lake",
+   "addr:postcode": "TW19 6HW",
+   "addr:street": "Staines Road",
+   "building": "yes",
+   "building:levels": "1",
+   "contact:email": "office@bdwsa.org",
+   "contact:phone": "+44 1784 483664",
+   "contact:website": "https://www.bdwwa.org/hl",
+   "description": "Swiming Club",
+   "fhrs:id": "544538",
+   "fhrs:local_authority_id": "28760/2012/2/000",
+   "name": "Tony Edge National Centre",
+   "operator": "British Disabled Water Ski Association",
+   "sport": "wakeboarding;water_ski",
+   "toilets": "yes",
+   "toilets:access": "customers",
+   "toilets:wheelchair": "yes",
+   "wheelchair": "yes"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/192235542",
+  "lat": 53.6994837,
+  "lon": -1.8060913,
+  "tags": {
+   "intermittent": "no",
+   "name": "Freeman's Cut",
+   "natural": "water",
+   "salt": "no",
+   "sport": "water_ski",
+   "tidal": "no",
+   "water": "lake"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/216890563",
+  "lat": 51.4180685,
+  "lon": -0.9967512,
+  "tags": {
+   "addr:postcode": "RG30 3UH",
+   "building": "yes",
+   "building:levels": "1",
+   "leisure": "sports_centre",
+   "name": "Lagoona Park - JetSki",
+   "ref:GB:uprn": "10032931090",
+   "source:building": "OS_OpenData_StreetView",
+   "sport": "water_ski",
+   "website": "https://www.lagoonapark.com/"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/510120862",
+  "lat": 53.6654217,
+  "lon": -2.1800594,
+  "tags": {
+   "addr:city": "Rochdale",
+   "addr:postcode": "OL12 8BE",
+   "addr:street": "Tong Lane",
+   "addr:suburb": "Whitworth",
+   "building": "yes",
+   "name": "Whitworth Water Ski Centre",
+   "ref:GB:uprn": "100012731928",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/589648715",
+  "lat": 51.3915087,
+  "lon": 1.4187852,
+  "tags": {
+   "building": "yes",
+   "club": "sport",
+   "name": "Foreness Waterski and Boat Club",
+   "ref:GB:uprn": "100062627461",
+   "source": "image",
+   "source:date": "2019-03-26",
+   "sport": "sailing;waterski"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/623473038",
+  "lat": 51.6367222,
+  "lon": -0.4762439,
+  "tags": {
+   "addr:city": "Rickmansworth",
+   "addr:country": "GB",
+   "addr:postcode": "WD3 1NB",
+   "building": "yes",
+   "name": "Rickmansworth Water Ski Club",
+   "ref:GB:uprn": "200000938786",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/633949077",
+  "lat": 52.2140887,
+  "lon": -4.3580715,
+  "tags": {
+   "addr:city": "New Quay",
+   "addr:postcode": "SA45 9PS",
+   "addr:street": "Sandy Slip, Glanmor Terrace",
+   "leisure": "sports_centre",
+   "name": "Cardigan Bay Water Sports",
+   "phone": "+44 1545 561257",
+   "sport": "sailing;windsurfing;water_ski",
+   "website": "https://www.cardiganbaywatersports.org.uk/"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/692854861",
+  "lat": 52.3107272,
+  "lon": -0.1023613,
+  "tags": {
+   "aerialway": "drag_lift",
+   "name": "liquidskillz wakeboard",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/698565111",
+  "lat": 51.5062349,
+  "lon": 0.0183762,
+  "tags": {
+   "addr:city": "London",
+   "addr:postcode": "E16 1AG",
+   "addr:street": "Dock Road",
+   "fhrs:authority": "City of London Corporation",
+   "fhrs:id": "558640",
+   "fhrs:local_authority_id": "PI/000024155",
+   "leisure": "sports_centre",
+   "name": "Wakeup Docklands",
+   "operator": "Wake Up Docklands Limited",
+   "sport": "wakeboarding;water_skiing;paddle_boarding",
+   "swimming": "no",
+   "website": "https://www.wakeupdocklands.com/"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/723081669",
+  "lat": 52.6632398,
+  "lon": -1.9421399,
+  "tags": {
+   "contact:email": "bookings@pier52.co.uk",
+   "contact:phone": "+44 1543 379339",
+   "contact:website": "http://www.pier52.co.uk/",
+   "leisure": "sports_centre",
+   "name": "Pier 52",
+   "sport": "wakeboarding;paddleboarding"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/836101010",
+  "lat": 51.44624,
+  "lon": -0.5294615,
+  "tags": {
+   "access": "customers",
+   "aerialway": "rope_tow",
+   "operator": "British Disabled Water Ski Association",
+   "sport": "wakeboarding"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/913591632",
+  "lat": 53.6983437,
+  "lon": -1.8108312,
+  "tags": {
+   "addr:city": "Brighouse",
+   "addr:postcode": "HD6 2SP",
+   "building": "yes",
+   "club": "sport",
+   "name": "White Rose Water Ski Club",
+   "ref:GB:uprn": "10035038843",
+   "sport": "water_ski",
+   "website": "https://www.whiterosewaterski.com/"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/916344145",
+  "lat": 51.5958135,
+  "lon": -0.5011724,
+  "tags": {
+   "building": "yes",
+   "name": "Denham Waterski Club",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/977027142",
+  "lat": 53.4707585,
+  "lon": -2.2870311,
+  "tags": {
+   "sport": "wakeboarding",
+   "swimming": "no"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/1151598867",
+  "lat": 50.8716268,
+  "lon": -1.7878321,
+  "tags": {
+   "building": "yes",
+   "club": "sport",
+   "name": "Ellingham Water Ski and Wakeboard Club",
+   "sport": "water_ski;wakeboarding"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/1160055605",
+  "lat": 50.8272532,
+  "lon": -0.1993555,
+  "tags": {
+   "aerialway": "drag_lift",
+   "direction": "both",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/1160055606",
+  "lat": 50.827399,
+  "lon": -0.1990109,
+  "tags": {
+   "aerialway": "drag_lift",
+   "direction": "both",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/1160055607",
+  "lat": 50.8271359,
+  "lon": -0.1996629,
+  "tags": {
+   "aerialway": "drag_lift",
+   "direction": "both",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/1161031213",
+  "lat": 53.5146359,
+  "lon": -2.6249687,
+  "tags": {
+   "addr:city": "Wigan",
+   "addr:postcode": "WN2 5JY",
+   "building": "yes",
+   "club": "sport",
+   "source": "survey;local knowledge",
+   "sport": "water_ski",
+   "website": "https://www.bwsw.org.uk/clubs/three-sisters-water-ski-club/"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/1222081180",
+  "lat": 50.868427,
+  "lon": -1.7892873,
+  "tags": {
+   "name": "Ellingham Lake",
+   "natural": "water",
+   "sport": "water_ski",
+   "water": "lake"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/1274640765",
+  "lat": 52.5253107,
+  "lon": -0.259561,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/1274640766",
+  "lat": 52.5252388,
+  "lon": -0.2601296,
+  "tags": {
+   "aerialway": "drag_lift",
+   "sport": "water_ski"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/1290467800",
+  "lat": 51.2632339,
+  "lon": 1.3893001,
+  "tags": {
+   "building": "yes",
+   "club": "sport",
+   "name": "Sandwich Bay Sailing and Water Ski club",
+   "ref:GB:uprn": "100062284833",
+   "sport": "sailing;water_ski"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "relation/2014584",
+  "lat": 51.4731665,
+  "lon": -0.5598882,
+  "tags": {
+   "natural": "water",
+   "sport": "water_ski",
+   "type": "multipolygon"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "relation/3965948",
+  "lat": 52.9508358,
+  "lon": -4.3885534,
+  "tags": {
+   "leisure": "water_park",
+   "name": "Glaslyn Parc Aquapark",
+   "natural": "water",
+   "sport": "wakeboarding",
+   "tourism": "yes",
+   "type": "multipolygon"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "relation/12129600",
+  "lat": 53.5147149,
+  "lon": -2.6252495,
+  "tags": {
+   "access": "private",
+   "description": "Artificial lake created 2003 for 20 fishing pegs and then given permission for water skiing (single boat) in Feb 2010. A/03/58045 etc.",
+   "fishing": "yes",
+   "intermittent": "no",
+   "name": "Park Brook Amenity Lake",
+   "natural": "water",
+   "note": "Artificial lake created 2003 for 20 fishing pegs and then given permission for water skiing (single boat) in Feb 2010. A/03/58045 etc.",
+   "salt": "no",
+   "source": "local knowledge;survey",
+   "sport": "water_ski",
+   "start_date": "2004",
+   "tidal": "no",
+   "type": "multipolygon",
+   "water": "lake",
+   "website": "https://www.bwsw.org.uk/clubs/three-sisters-water-ski-club/"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "relation/17770094",
+  "lat": 52.2577751,
+  "lon": -0.2585946,
+  "tags": {
+   "alt_name": "A1 South Lake",
+   "fee": "yes",
+   "leisure": "water_park",
+   "natural": "water",
+   "source": "landsat",
+   "sport": "water_ski",
+   "standup_paddleboard_rental": "yes",
+   "type": "multipolygon",
+   "website": "https://www.southlakewaterpark.co.uk/open-water-swimming-st-neots-bedford"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "node/5143306078",
+  "lat": 54.1977972,
+  "lon": -3.2789385,
+  "tags": {
+   "addr:city": "Haverigg",
+   "addr:postcode": "LA18 4LG",
+   "leisure": "sports_centre",
+   "name": "Port Haverigg Wakepark",
+   "phone": "+44 7840 502 091",
+   "website": "https://www.porthaveriggwakepark.co.uk/"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "node/5714232186",
+  "lat": 56.4609788,
+  "lon": -2.9624149,
+  "tags": {
+   "addr:city": "Dundee",
+   "addr:country": "GB",
+   "addr:postcode": "DD1 3JP",
+   "addr:street": "West Victoria Dock Road",
+   "leisure": "water_park",
+   "name": "Wakeboarding track",
+   "operator": "Foxlake Dundee",
+   "website": "https://www.foxlakedundee.co.uk/info/gettinghere/"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "node/6732034759",
+  "lat": 56.0866505,
+  "lon": -3.447901,
+  "tags": {
+   "leisure": "sports_centre",
+   "name": "Waterski & Wakeboard Scotland"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "node/11834718384",
+  "lat": 52.5262843,
+  "lon": -0.2600357,
+  "tags": {
+   "check_date": "2024-04-21",
+   "leisure": "water_park",
+   "name": "Peterborough Wake Park"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "node/13944947687",
+  "lat": 54.2259301,
+  "lon": -0.4843248,
+  "tags": {
+   "name": "North Yorkshire Water Park, Wakeboard Dock"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/143572689",
+  "lat": 52.9494663,
+  "lon": -1.074173,
+  "tags": {
+   "amenity": "parking",
+   "name": "Wakeboard and Waterpark Water Users Car Park",
+   "source": "Bing"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/912430229",
+  "lat": 50.9791611,
+  "lon": -4.37311,
+  "tags": {
+   "leisure": "water_park",
+   "name": "North Devon Wake Park"
+  }
+ },
+ {
+  "country": "GB",
+  "osm": "way/1106032621",
+  "lat": 50.8362373,
+  "lon": -1.0771636,
+  "tags": {
+   "building": "yes",
+   "name": "South Coast Wakepark",
+   "shop": "sports"
+  }
+ }
+]

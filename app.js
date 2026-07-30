@@ -4,7 +4,6 @@
 const TYPE_LABEL = {
   fullsize: 'Full-size (téléski 5-6 mâts)',
   system2: 'System 2.0 (bi-poulie / 2 tours)',
-  both: 'Full-size + System 2.0',
   unknown: 'Type non déterminé',
 };
 
@@ -23,7 +22,8 @@ const spots = (window.SPOTS || []).slice();
 const state = {
   query: '',
   country: '',
-  types: new Set(['fullsize', 'system2', 'both', 'unknown']),
+  types: new Set(['fullsize', 'system2', 'unknown']),
+  grouping: true,
   selected: null,
 };
 
@@ -31,6 +31,7 @@ const el = {
   search: document.getElementById('search'),
   country: document.getElementById('country'),
   typeFilters: document.getElementById('type-filters'),
+  clusterToggle: document.getElementById('cluster-toggle'),
   count: document.getElementById('count'),
   countLabel: document.getElementById('count-label'),
   results: document.getElementById('results'),
@@ -44,9 +45,12 @@ const el = {
 
 const map = L.map('map', { center: [46.6, 2.4], zoom: 6, zoomControl: true, worldCopyJump: true });
 
-L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
-  subdomains: 'abcd',
+/* Tuiles d'OpenStreetMap France : les libellés y sont en français (« Allemagne »,
+   « Pays-Bas », « Londres »). Les fonds CARTO, plus sobres, sont en anglais, et les tuiles
+   OSM standard affichent les noms locaux (« Deutschland », « België / Belgique »). */
+L.tileLayer('https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png', {
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> — tuiles <a href="https://openstreetmap.fr/">OpenStreetMap France</a>',
+  subdomains: 'abc',
   maxZoom: 19,
 }).addTo(map);
 
@@ -63,9 +67,14 @@ const cluster = L.markerClusterGroup({
       iconSize: [size, size],
     });
   },
-}).addTo(map);
+});
 
-/* Un marqueur par spot, créé une fois puis ajouté/retiré du cluster selon les filtres. */
+/* Affichage sans regroupement, piloté par la case à cocher : les marqueurs vont soit dans
+   le cluster, soit dans ce groupe simple. Un seul des deux est sur la carte à la fois. */
+const plain = L.layerGroup();
+map.addLayer(cluster);
+
+/* Un marqueur par spot, créé une fois puis ajouté/retiré du groupe actif selon les filtres. */
 spots.forEach((s) => {
   // Position approchée (centre de la commune) : marqueur creux, pour ne pas laisser croire
   // que le point est sur le plan d'eau.
@@ -97,7 +106,10 @@ function render() {
   const visible = spots.filter(matches);
 
   cluster.clearLayers();
-  cluster.addLayers(visible.map((s) => s.marker));
+  plain.clearLayers();
+
+  if (state.grouping) cluster.addLayers(visible.map((s) => s.marker));
+  else visible.forEach((s) => plain.addLayer(s.marker));
 
   el.count.textContent = visible.length;
   el.countLabel.textContent = visible.length === 1 ? 'spot affiché' : 'spots affichés';
@@ -249,6 +261,13 @@ el.country.addEventListener('change', (e) => {
     const pts = spots.filter((s) => s.country === state.country).map((s) => [s.lat, s.lng]);
     if (pts.length) map.fitBounds(L.latLngBounds(pts).pad(0.15));
   }
+});
+
+el.clusterToggle.addEventListener('change', (e) => {
+  state.grouping = e.target.checked;
+  map.removeLayer(state.grouping ? plain : cluster);
+  map.addLayer(state.grouping ? cluster : plain);
+  render();
 });
 
 el.typeFilters.addEventListener('click', (e) => {

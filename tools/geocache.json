@@ -3173,5 +3173,621 @@
   "lat": 44.178621,
   "lon": 4.7628292,
   "display": "Piolenc, Carpentras, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, 84420, France"
- }
+ },
+ "c|BE|Froidchapelle": {
+  "lat": 50.16307,
+  "lon": 4.3266382,
+  "display": "Froidchapelle, Thuin, Hainaut, Wallonie, België / Belgique / Belgien"
+ },
+ "c|BE|Saint-Ghislain": {
+  "lat": 50.4477484,
+  "lon": 3.8195241,
+  "display": "Saint-Ghislain, Mons, Hainaut, Wallonie, België / Belgique / Belgien"
+ },
+ "c|BE|Hoogstraten": {
+  "lat": 51.4012894,
+  "lon": 4.7616865,
+  "display": "Hoogstraten, Turnhout, Antwerpen, Vlaanderen, België / Belgique / Belgien"
+ },
+ "c|BE|Knokke-Heist": {
+  "lat": 51.3433866,
+  "lon": 3.2884738,
+  "display": "Knokke-Heist, Brugge, West-Vlaanderen, Vlaanderen, België / Belgique / Belgien"
+ },
+ "c|BE|Dilsen-Stokkem": {
+  "lat": 51.0284779,
+  "lon": 5.7311405,
+  "display": "Dilsen-Stokkem, Maaseik, Limburg, Vlaanderen, 3650, België / Belgique / Belgien"
+ },
+ "c|CH|Estavayer-le-Lac": {
+  "lat": 46.8496406,
+  "lon": 6.8477378,
+  "display": "Estavayer-le-Lac, Estavayer, District de la Broye, Fribourg/Freiburg, 1470, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "c|CH|Wiesendangen": {
+  "lat": 47.5213051,
+  "lon": 8.7889904,
+  "display": "Wiesendangen, Bezirk Winterthur, Zürich, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "c|CH|Crans-Montana": {
+  "lat": 46.3069171,
+  "lon": 7.469015,
+  "display": "Crans-Montana, Sierre, Valais central, Valais/Wallis, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "c|NL|Best": {
+  "lat": 51.5033671,
+  "lon": 5.3938665,
+  "display": "Best, Noord-Brabant, Nederland"
+ },
+ "c|NL|Zwolle": {
+  "lat": 52.5089759,
+  "lon": 6.0943765,
+  "display": "Zwolle, Overijssel, Nederland"
+ },
+ "c|NL|Rotterdam": {
+  "lat": 51.9244424,
+  "lon": 4.47775,
+  "display": "Rotterdam, Zuid-Holland, Nederland"
+ },
+ "c|NL|Sevenum": {
+  "lat": 51.4123504,
+  "lon": 6.0370021,
+  "display": "Sevenum, Horst aan de Maas, Limburg, Nederland"
+ },
+ "c|NL|Honselersdijk": {
+  "lat": 52.0093169,
+  "lon": 4.2300007,
+  "display": "Honselersdijk, Westland, Zuid-Holland, Nederland"
+ },
+ "c|NL|Kamperland": {
+  "lat": 51.5680028,
+  "lon": 3.7017099,
+  "display": "Kamperland, Noord-Beveland, Zeeland, Nederland"
+ },
+ "c|NL|Enschede": {
+  "lat": 52.2209855,
+  "lon": 6.8940537,
+  "display": "Enschede, Overijssel, Nederland"
+ },
+ "c|NL|Alphen aan den Rijn": {
+  "lat": 52.1130693,
+  "lon": 4.6408057,
+  "display": "Alphen aan den Rijn, Zuid-Holland, Nederland"
+ },
+ "c|DE|Schleife": {
+  "lat": 51.5298515,
+  "lon": 14.4888231,
+  "display": "Schleife - Slepo, Schleife, Görlitz, Sachsen, 02959, Deutschland"
+ },
+ "c|DE|Berlin": {
+  "lat": 52.5173885,
+  "lon": 13.3951309,
+  "display": "Berlin, Deutschland"
+ },
+ "c|DE|Zossen": {
+  "lat": 52.2159073,
+  "lon": 13.4488958,
+  "display": "Zossen, Teltow-Fläming, Brandenburg, 15806, Deutschland"
+ },
+ "c|DE|Rostock": {
+  "lat": 54.0886707,
+  "lon": 12.1400211,
+  "display": "Rostock, Mecklenburg-Vorpommern, Deutschland"
+ },
+ "c|DE|Suesel": {
+  "lat": 54.0791463,
+  "lon": 10.7132522,
+  "display": "Süsel, Kreis Ostholstein, Schleswig-Holstein, 23701, Deutschland"
+ },
+ "c|DE|Fehmarn": {
+  "lat": 54.4685201,
+  "lon": 11.1342465,
+  "display": "Fehmarn, Kreis Ostholstein, Schleswig-Holstein, 23769, Deutschland"
+ },
+ "c|DE|Hooksiel": {
+  "lat": 53.630905,
+  "lon": 8.021502,
+  "display": "Hooksiel, Wangerland, Landkreis Friesland, Niedersachsen, 26434, Deutschland"
+ },
+ "c|DE|Schiffdorf": {
+  "lat": 53.5355378,
+  "lon": 8.662196,
+  "display": "Schiffdorf, Landkreis Cuxhaven, Niedersachsen, 27619, Deutschland"
+ },
+ "c|DE|Paderborn": {
+  "lat": 51.7177044,
+  "lon": 8.752653,
+  "display": "Paderborn, Kreis Paderborn, Nordrhein-Westfalen, Deutschland"
+ },
+ "c|DE|Kirchheim": {
+  "lat": 48.6480545,
+  "lon": 9.4510227,
+  "display": "Kirchheim unter Teck, VVG der Stadt Kirchheim unter Teck, Landkreis Esslingen, Baden-Württemberg, 73230, Deutschland"
+ },
+ "c|DE|Wolfsburg": {
+  "lat": 52.4205588,
+  "lon": 10.7861682,
+  "display": "Wolfsburg, Niedersachsen, Deutschland"
+ },
+ "c|DE|Sassenburg": {
+  "lat": 52.5219633,
+  "lon": 10.6465636,
+  "display": "Sassenburg, Landkreis Gifhorn, Niedersachsen, 38524, Deutschland"
+ },
+ "c|DE|Langenfeld": {
+  "lat": 51.1008952,
+  "lon": 6.9459377,
+  "display": "Langenfeld (Rheinland), Kreis Mettmann, Nordrhein-Westfalen, 40764, Deutschland"
+ },
+ "c|DE|Duisburg-Rheinhausen": null,
+ "c|DE|Rieste": {
+  "lat": 52.483702,
+  "lon": 8.0112404,
+  "display": "Rieste, Samtgemeinde Bersenbrück, Landkreis Osnabrück, Niedersachsen, 49597, Deutschland"
+ },
+ "c|DE|Bruehl": {
+  "lat": 50.8291313,
+  "lon": 6.9037057,
+  "display": "Brühl, Rhein-Erft-Kreis, Nordrhein-Westfalen, 50321, Deutschland"
+ },
+ "c|DE|Koeln": {
+  "lat": 50.938361,
+  "lon": 6.959974,
+  "display": "Köln, Nordrhein-Westfalen, Deutschland"
+ },
+ "c|DE|Riol": {
+  "lat": 49.7933999,
+  "lon": 6.7922,
+  "display": "Riol, Schweich an der Römischen Weinstraße, Landkreis Trier-Saarburg, Rheinland-Pfalz, Deutschland"
+ },
+ "c|DE|Hamm": {
+  "lat": 51.681281,
+  "lon": 7.8191185,
+  "display": "Hamm, Nordrhein-Westfalen, Deutschland"
+ },
+ "c|DE|Mannheim": {
+  "lat": 49.4892913,
+  "lon": 8.4673098,
+  "display": "Mannheim, Baden-Württemberg, Deutschland"
+ },
+ "c|DE|St. Leon-Rot": {
+  "lat": 49.2671326,
+  "lon": 8.6142616,
+  "display": "St. Leon-Rot, Rhein-Neckar-Kreis, Baden-Württemberg, 68789, Deutschland"
+ },
+ "c|DE|Geisenfeld": {
+  "lat": 48.6842075,
+  "lon": 11.6134032,
+  "display": "Geisenfeld, Geisenfeld (VGem), Landkreis Pfaffenhofen an der Ilm, Bayern, 85290, Deutschland"
+ },
+ "c|DE|Aschheim": {
+  "lat": 48.1713481,
+  "lon": 11.7160347,
+  "display": "Aschheim, Landkreis München, Bayern, 85609, Deutschland"
+ },
+ "c|DE|Friedberg": {
+  "lat": 50.328272,
+  "lon": 8.747636,
+  "display": "Friedberg (Hessen), Wetteraukreis, Hessen, 61169, Deutschland"
+ },
+ "c|DE|Thannhausen": {
+  "lat": 48.2829292,
+  "lon": 10.4682347,
+  "display": "Thannhausen, Landkreis Günzburg, Bayern, 86470, Deutschland"
+ },
+ "c|DE|Blaichach": {
+  "lat": 47.5040721,
+  "lon": 10.1694565,
+  "display": "Blaichach, Landkreis Oberallgäu, Bayern, 87544, Deutschland"
+ },
+ "c|DE|Gundelfingen": {
+  "lat": 48.0328928,
+  "lon": 7.8932553,
+  "display": "Gundelfingen, VVG der Gemeinde Gundelfingen, Landkreis Breisgau-Hochschwarzwald, Baden-Württemberg, 79194, Deutschland"
+ },
+ "c|DE|Absberg": {
+  "lat": 49.1445646,
+  "lon": 10.8796997,
+  "display": "Absberg, Gunzenhausen (VGem), Landkreis Weißenburg-Gunzenhausen, Bayern, 91720, Deutschland"
+ },
+ "c|DE|Steinberg am See": {
+  "lat": 49.2762524,
+  "lon": 12.1801423,
+  "display": "Steinberg am See, Wackersdorf (VGem), Landkreis Schwandorf, Bayern, 92449, Deutschland"
+ },
+ "c|DE|Thulba": {
+  "lat": 50.1791693,
+  "lon": 9.9203877,
+  "display": "Thulba, Oberthulba, Landkreis Bad Kissingen, Bayern, 97723, Deutschland"
+ },
+ "c|DE|Muldestausee": {
+  "lat": 51.6398815,
+  "lon": 12.4528028,
+  "display": "Muldestausee, Anhalt-Bitterfeld, Sachsen-Anhalt, Deutschland"
+ },
+ "c|DE|Wachtendonk": {
+  "lat": 51.4065422,
+  "lon": 6.3352922,
+  "display": "Wachtendonk, Kreis Kleve, Nordrhein-Westfalen, 47669, Deutschland"
+ },
+ "c|DE|Pinneberg": {
+  "lat": 53.6615177,
+  "lon": 9.7967897,
+  "display": "Pinneberg, Kreis Pinneberg, Schleswig-Holstein, 25421, Deutschland"
+ },
+ "c|DE|Niedersfeld": {
+  "lat": 51.260338,
+  "lon": 8.5295606,
+  "display": "Niedersfeld, Winterberg, Hochsauerlandkreis, Nordrhein-Westfalen, 59955, Deutschland"
+ },
+ "c|DE|Schkopau": {
+  "lat": 51.3902906,
+  "lon": 11.9854347,
+  "display": "Schkopau, Saalekreis, Sachsen-Anhalt, 06258, Deutschland"
+ },
+ "c|DE|Ostrhauderfehn": {
+  "lat": 53.1389184,
+  "lon": 7.6211712,
+  "display": "Ostrhauderfehn, Landkreis Leer, Niedersachsen, 26842, Deutschland"
+ },
+ "c|DE|Ribnitz-Damgarten": {
+  "lat": 54.2433326,
+  "lon": 12.4319733,
+  "display": "Ribnitz-Damgarten, Vorpommern-Rügen, Mecklenburg-Vorpommern, 18311, Deutschland"
+ },
+ "c|DE|Leipzig": {
+  "lat": 51.3406321,
+  "lon": 12.3747329,
+  "display": "Leipzig, Sachsen, Deutschland"
+ },
+ "c|DE|Stassfurt": {
+  "lat": 51.8514515,
+  "lon": 11.5929455,
+  "display": "Staßfurt, Salzlandkreis, Sachsen-Anhalt, Deutschland"
+ },
+ "c|DE|Bad Saarow": {
+  "lat": 52.2922975,
+  "lon": 14.0552305,
+  "display": "Bad Saarow, Scharmützelsee, Oder-Spree, Brandenburg, Deutschland"
+ },
+ "c|DE|Magdeburg": {
+  "lat": 52.1314783,
+  "lon": 11.6400789,
+  "display": "Magdeburg, Sachsen-Anhalt, Deutschland"
+ },
+ "c|DE|Woerth an der Isar": {
+  "lat": 48.622725,
+  "lon": 12.3400241,
+  "display": "Wörth an der Isar, Wörth a.d.Isar, Wörth a.d.Isar (VGem), Landkreis Landshut, Bayern, 84109, Deutschland"
+ },
+ "c|IT|Augusta": {
+  "lat": 37.2369363,
+  "lon": 15.2196575,
+  "display": "Augusta, Siracusa, Sicilia, 96011, Italia"
+ },
+ "c|IT|Mezzi Po": {
+  "lat": 45.1499091,
+  "lon": 7.816424,
+  "display": "Mezzi Po, Settimo Torinese, Torino, Piemonte, 10032, Italia"
+ },
+ "c|IT|Bologna": {
+  "lat": 44.4938203,
+  "lon": 11.3426327,
+  "display": "Bologna, Emilia-Romagna, Italia"
+ },
+ "c|IT|Pontedera": {
+  "lat": 43.6634536,
+  "lon": 10.6354851,
+  "display": "Pontedera, Pisa, Toscana, 56025, Italia"
+ },
+ "c|IT|Peschiera Borromeo": {
+  "lat": 45.4318465,
+  "lon": 9.311479,
+  "display": "Peschiera Borromeo, Rodano, Milano, Lombardia, 20068, Italia"
+ },
+ "c|IT|Montichiari": {
+  "lat": 45.415181,
+  "lon": 10.390675,
+  "display": "Montichiari, Brescia, Lombardia, 25018, Italia"
+ },
+ "c|IT|Resana": {
+  "lat": 45.6362093,
+  "lon": 11.9667733,
+  "display": "Resana, Treviso, Veneto, 31023, Italia"
+ },
+ "c|IT|Massarosa": {
+  "lat": 43.8676499,
+  "lon": 10.3397157,
+  "display": "Massarosa, Unione dei comuni della Versilia, Lucca, Toscana, 55054, Italia"
+ },
+ "c|ES|Fornelos de Montes": {
+  "lat": 42.3278337,
+  "lon": -8.4353139,
+  "display": "Fornelos de Montes, Vigo, Pontevedra, Galicia, España"
+ },
+ "c|AT|Wien": {
+  "lat": 48.2083537,
+  "lon": 16.3725042,
+  "display": "Wien, Österreich"
+ },
+ "c|AT|Oetztal-Bahnhof": {
+  "lat": 47.2358705,
+  "lon": 10.8564829,
+  "display": "Ötztal-Bahnhof, Haiming, Bezirk Imst, Tirol, 6430, Österreich"
+ },
+ "c|AT|Anif": {
+  "lat": 47.7497338,
+  "lon": 13.0638706,
+  "display": "Anif, Bezirk Salzburg-Umgebung, Salzburg, 5081, Österreich"
+ },
+ "c|GB|Dundee": {
+  "lat": 56.4605938,
+  "lon": -2.97019,
+  "display": "Dundee, Dundee City, Alba / Scotland, DD1 1SA, United Kingdom"
+ },
+ "c|GB|Bedford": {
+  "lat": 52.1363806,
+  "lon": -0.4675041,
+  "display": "Bedford, England, MK40 1SU, United Kingdom"
+ },
+ "c|GB|Chertsey": {
+  "lat": 51.392296,
+  "lon": -0.5038294,
+  "display": "Chertsey, Runnymede, Surrey, England, United Kingdom"
+ },
+ "c|GB|Datchet": {
+  "lat": 51.4838483,
+  "lon": -0.5784291,
+  "display": "Datchet, Windsor and Maidenhead, England, United Kingdom"
+ },
+ "c|GB|Fordingbridge": {
+  "lat": 50.926829,
+  "lon": -1.7917011,
+  "display": "Fordingbridge, Hyde, New Forest, Hampshire, England, United Kingdom"
+ },
+ "c|GB|London": {
+  "lat": 51.5074456,
+  "lon": -0.1277653,
+  "display": "Greater London, England, United Kingdom"
+ },
+ "c|GB|St Osyth": {
+  "lat": 51.8068428,
+  "lon": 1.0855547,
+  "display": "St. Osyth, St Osyth, Tendring, Essex, England, United Kingdom"
+ },
+ "c|GB|Delamere": {
+  "lat": 53.2136511,
+  "lon": -2.6567857,
+  "display": "Delamere, Cheshire West and Chester, England, CW8 2HT, United Kingdom"
+ },
+ "c|GB|Portsmouth": {
+  "lat": 50.800031,
+  "lon": -1.0906023,
+  "display": "Portsmouth, England, United Kingdom"
+ },
+ "c|GB|Henley-in-Arden": {
+  "lat": 52.290713,
+  "lon": -1.780685,
+  "display": "Henley-in-Arden, Stratford-on-Avon, Warwickshire, England, B95 5BS, United Kingdom"
+ },
+ "r|51.0454|3.8077": "Heusden",
+ "r|51.2149|4.3657": "Antwerpen",
+ "r|50.4610|3.7923": "Saint-Ghislain",
+ "r|51.0053|5.6966": "Lanklaar",
+ "r|50.8416|3.5878": "Oudenaarde",
+ "r|51.2408|5.3848": "Lommel",
+ "r|46.8590|6.8466": "Estavayer",
+ "r|47.5461|8.8253": "Wiesendangen",
+ "r|47.5654|9.3776": "Romanshorn",
+ "r|46.3028|7.4692": "Chermignon",
+ "r|46.0677|7.7770": "Täsch",
+ "r|46.8158|9.8466": "Davos",
+ "r|46.2164|6.1818": "Cologny",
+ "r|51.5006|5.4389": "Best",
+ "r|51.2076|5.9712": "Roermond",
+ "r|52.3595|5.2174": "Almere",
+ "r|52.4976|6.1515": "Zwolle",
+ "r|51.9794|4.5763": "Rotterdam",
+ "r|53.2381|6.6006": "Groningen",
+ "r|51.3816|5.9691": "Sevenum",
+ "r|51.3284|5.4227": "Westerhoven",
+ "r|53.0321|5.6973": "Offingawier",
+ "r|51.8203|5.6961": "Leur",
+ "r|52.6631|4.8327": "Heerhugowaard",
+ "r|51.9925|4.2401": "Honselersdijk",
+ "r|51.5726|3.6498": "Kamperland",
+ "r|52.1872|5.6072": "Voorthuizen",
+ "r|52.1805|6.8413": "Enschede",
+ "r|53.0808|6.8773": "Wildervank",
+ "r|52.1357|4.6775": "Alphen aan den Rijn",
+ "r|51.0153|13.8212": "Dresden",
+ "r|50.9876|13.0775": "Rossau",
+ "r|52.5774|13.2635": "Berlin",
+ "r|52.2271|13.3871": "Zossen",
+ "r|52.8214|13.5752": "Ruhlsdorf",
+ "r|52.6991|13.2252": "Velten",
+ "r|54.1397|12.0900": "Rostock",
+ "r|53.4821|11.2975": "Hoort",
+ "r|53.4581|10.0142": "Hamburg",
+ "r|53.8175|9.0343": "Neuhaus",
+ "r|54.3067|10.7891": "Wangels",
+ "r|54.4101|11.1650": "Fehmarn",
+ "r|54.5771|10.0199": "Damp",
+ "r|53.2979|8.1364": "Rastede",
+ "r|53.6402|8.0719": "Wangerland",
+ "r|53.5229|7.4770": "Aurich",
+ "r|53.1521|7.6420": "Ostrhauderfehn",
+ "r|53.0464|9.0002": "Oyten",
+ "r|52.4277|9.6005": "Garbsen",
+ "r|52.1098|8.9588": "Hohenhausen",
+ "r|51.3692|9.0583": "Wetterburg",
+ "r|50.7603|8.7411": "Niederweimar",
+ "r|49.7608|10.5685": "Schlüsselfeld",
+ "r|50.8185|9.5256": "Kirchheim",
+ "r|52.1504|10.3593": "Salzgitter",
+ "r|51.1310|6.0946": "Wassenberg",
+ "r|51.6862|6.4425": "Xanten",
+ "r|51.4067|6.7824": "Duisburg",
+ "r|52.4879|7.9875": "Rieste",
+ "r|52.7937|7.1964": "Haren (Ems)",
+ "r|50.8442|6.8573": "Hürth",
+ "r|50.9302|7.0662": "Köln",
+ "r|50.8050|6.4441": "Düren",
+ "r|49.7924|6.8022": "Riol",
+ "r|51.6985|7.9172": "Hamm",
+ "r|51.7555|8.0411": "Beckum",
+ "r|50.0122|8.4772": "Raunheim",
+ "r|49.4132|8.5321": "Mannheim",
+ "r|49.2817|8.5880": "St. Leon-Rot",
+ "r|48.0654|7.8139": "Freiburg im Breisgau",
+ "r|47.6275|12.1912": "Kiefersfelden",
+ "r|48.7153|11.6123": "Geisenfeld",
+ "r|48.1612|11.7260": "Aschheim",
+ "r|50.3283|8.7476": "Friedberg",
+ "r|48.2926|10.4454": "Thannhausen",
+ "r|47.5526|10.2444": "Blaichach",
+ "r|47.9295|9.2358": "Pfullendorf",
+ "r|50.9986|11.0508": "Erfurt",
+ "r|51.6315|12.3807": "Pouch",
+ "r|51.3785|6.2706": "Wachtendonk",
+ "r|53.6504|9.8073": "Pinneberg",
+ "r|51.4576|12.6004": "Eilenburg",
+ "r|48.9280|12.5753": "Parkstetten",
+ "r|51.2531|8.5364": "Winterberg",
+ "r|51.4196|11.9300": "Schkopau",
+ "r|53.1528|7.6413": "Ostrhauderfehn",
+ "r|54.4587|9.5529": "Jagel",
+ "r|54.2527|12.3675": "Dierhagen",
+ "r|51.8831|11.5260": "Staßfurt",
+ "r|52.3157|14.0726": "Bad Saarow",
+ "r|52.1742|11.6389": "Magdeburg",
+ "r|51.1025|6.7724": "Dormagen",
+ "r|47.9863|10.1808": "Memmingen",
+ "r|48.6274|12.3549": "Wörth a.d.Isar",
+ "r|37.3089|15.0909": "Augusta",
+ "r|41.8192|12.8003": "San Cesareo",
+ "r|44.4398|11.0593": "Valsamoggia",
+ "r|44.5070|11.2403": "Bologna",
+ "r|43.6589|10.6631": "Pontedera",
+ "r|44.2610|12.3495": "Cervia",
+ "r|45.4518|7.8933": "Ivrea",
+ "r|45.4642|9.1896": "Milano",
+ "r|39.2400|9.1881": "Quartu Sant'Aleni/Quartu Sant'Elena",
+ "r|45.3890|9.1128": "Buccinasco",
+ "r|45.4532|9.2905": "Peschiera Borromeo",
+ "r|44.8373|11.6186": "Ferrara",
+ "r|45.8357|9.0973": "Blevio",
+ "r|45.3953|10.4333": "Montichiari",
+ "r|42.3045|14.0422": "Manoppello",
+ "r|45.4554|9.2907": "Peschiera Borromeo",
+ "r|45.4998|10.7331": "Lazise",
+ "r|43.3007|13.4536": "Macerata",
+ "r|43.5235|13.5476": "Camerano",
+ "r|45.5045|9.8089": "Covo",
+ "r|41.0343|13.9408": "Castel Volturno",
+ "r|45.4248|9.9632": "Orzivecchi",
+ "r|45.7471|8.5317": "Oleggio Castello",
+ "r|45.6151|11.9432": "Resana",
+ "r|45.4276|11.0958": "San Martino Buon Albergo",
+ "r|45.5255|11.6303": "Torri di Quartesolo",
+ "r|45.4971|10.8019": "Pastrengo",
+ "r|45.4181|10.0752": "Dello",
+ "r|45.0662|8.8800": "Mezzana Bigli",
+ "r|45.0678|7.6825": "Torino",
+ "r|46.0979|11.0544": "Vallelaghi",
+ "r|45.8696|10.7450": "Ledro",
+ "r|43.8818|10.2857": "Massarosa",
+ "r|41.8933|12.4829": "Roma",
+ "r|41.7747|14.1217": "Castel di Sangro",
+ "r|37.2961|-1.8807": "Cuevas del Almanzora",
+ "r|38.5317|-0.1096": null,
+ "r|36.4976|-4.9931": "Marbella",
+ "r|40.7171|-4.2460": "Navas de San Antonio",
+ "r|41.5343|2.1836": "Santa Perpètua de Mogoda",
+ "r|39.8357|3.1084": "Alcúdia",
+ "r|41.1391|1.0520": "Riudoms",
+ "r|37.3886|-5.9953": "Sevilla",
+ "r|40.7204|0.7243": "Deltebre",
+ "r|40.0099|-4.6773": "Cazalegas",
+ "r|37.9775|-0.6828": "Torrevieja",
+ "r|41.1172|1.2546": "Tarragona",
+ "r|42.3361|-8.4829": "A Igrexa",
+ "r|41.6666|0.5555": "Alpicat",
+ "r|40.6178|0.5900": "la Ràpita",
+ "r|48.2132|16.4358": "Wien",
+ "r|48.3241|14.0652": "Feldkirchen an der Donau",
+ "r|48.2484|14.4186": "Luftenberg an der Donau",
+ "r|47.2285|10.8384": "Roppen",
+ "r|46.7535|15.6152": "Sankt Veit in der Südsteiermark",
+ "r|46.8866|13.0343": "Stall",
+ "r|47.7548|16.5406": "Klingenbach/Klimpuh",
+ "r|48.1123|16.3087": "Brunn am Gebirge",
+ "r|46.9661|15.4027": "Premstätten",
+ "r|47.7876|15.3311": "Mariazell",
+ "r|47.7359|13.0798": "Anif",
+ "r|54.5964|-5.9302": "County Borough of Belfast",
+ "r|56.0021|-2.5158": "Dunbar",
+ "r|55.8612|-4.2502": "Glasgow",
+ "r|52.1246|-0.5205": "Bedford",
+ "r|51.4025|-0.5192": "Runnymede",
+ "r|52.3990|0.2620": "East Cambridgeshire",
+ "r|50.8716|-1.7878": "New Forest",
+ "r|53.3807|-1.4702": "Sheffield",
+ "r|51.2632|1.3893": "Dover",
+ "r|52.8986|-1.2708": "Erewash",
+ "r|50.9792|-4.3731": "Torridge",
+ "r|53.7593|-2.6993": "Preston",
+ "r|52.9508|-4.3886": "Pwllheli",
+ "r|51.7980|-4.7427": "Pembrokeshire",
+ "r|52.2379|-0.8964": "West Northamptonshire",
+ "r|51.7971|1.0672": "Brightlingsea",
+ "r|53.2175|-2.6394": "Cheshire West and Chester",
+ "r|52.6632|-1.9421": "Lichfield",
+ "r|50.8362|-1.0772": "Portsmouth",
+ "r|50.8273|-0.1993": "Hove",
+ "r|53.4708|-2.2870": "Salford",
+ "r|54.5641|-1.3129": "Stockton-on-Tees",
+ "r|52.2599|-1.7918": "Stratford-on-Avon",
+ "r|54.2259|-0.4843": "North Yorkshire",
+ "r|51.2966|-0.7372": "Surrey Heath",
+ "r|51.0594|4.4470": "Mechelen",
+ "r|50.9080|3.1845": "Izegem",
+ "r|51.0046|5.6718": "Lanklaar",
+ "r|52.6888|6.0762": "Wanneperveen",
+ "r|51.2408|5.6709": "Weert",
+ "r|53.2192|6.5192": "Groningen",
+ "r|48.3632|10.9657": "Friedberg",
+ "r|54.3645|10.3150": "Passade",
+ "r|49.4238|11.9181": "Kümmersbruck",
+ "r|51.7739|8.0264": "Beckum",
+ "r|49.3487|10.3213": "Geslau",
+ "r|49.4385|8.4630": "Ludwigshafen am Rhein",
+ "r|50.5549|8.4803": "Wetzlar",
+ "r|51.7532|8.4064": "Rietberg",
+ "r|53.6559|11.4271": "Schwerin",
+ "r|50.5663|8.6234": "Heuchelheim an der Lahn",
+ "r|53.2809|12.8109": "Mirow",
+ "r|51.6176|10.4924": "Bad Lauterberg im Harz",
+ "r|52.3793|9.7019": "Hannover",
+ "r|46.9101|7.0770": "Faoug",
+ "r|47.5682|7.5862": "Basel",
+ "r|48.2728|14.3988": "Steyregg",
+ "r|47.8028|13.4877": "Unterach am Attersee",
+ "r|46.6303|14.1430": "Pörtschach am Wörther See",
+ "r|47.3858|12.6525": "Saalbach-Hinterglemm",
+ "r|48.3475|16.2103": "Sankt Andrä-Wördern",
+ "r|48.2528|16.4769": "Wien",
+ "r|48.2835|16.3483": "Wien",
+ "r|46.6194|14.1606": "Maria Wörth",
+ "r|48.0927|13.9318": "Fischlham",
+ "r|39.2279|8.8229": "Siliqua",
+ "r|44.9681|7.6996": "Moncalieri",
+ "r|40.0588|-3.6310": "Seseña",
+ "r|52.3105|-0.1028": "Huntingdonshire",
+ "r|53.1861|-0.6325": "North Kesteven",
+ "r|51.3915|1.4188": "Thanet",
+ "r|51.5958|-0.5012": "Jordans",
+ "r|52.5256|-0.2599": "Peterborough",
+ "r|56.0866|-3.4479": "Dunfermline",
+ "r|52.9495|-1.0742": "Rushcliffe"
 }

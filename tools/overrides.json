@@ -1,0 +1,436 @@
+[
+ {
+  "id": "fr-dahu-wake-park",
+  "action": "drop",
+  "notes": "base bateau (Domaine du Dahu) : hébergement + wake tracté bateau, pas de câble"
+ },
+ {
+  "id": "fr-planet-ski",
+  "action": "drop",
+  "notes": "base bateau uniquement (site officiel + annuaire tsn44 concordants)"
+ },
+ {
+  "id": "fr-wake-it-easy",
+  "action": "drop",
+  "notes": "école tractée bateau (Nautique/Correcraft) sur le lac de Monteynard, pas de câble"
+ },
+ {
+  "id": "fr-wake-gliss",
+  "action": "drop",
+  "notes": "club nautique tracté bateau (Nautique G21) sur la Seine, pas de câble"
+ },
+ {
+  "id": "fr-argeles-wakepark",
+  "action": "drop",
+  "notes": "aucun câble à Argelès : les listings renvoient au TSJ de Saint-Jean-Pla-de-Corts, déjà présent"
+ },
+ {
+  "id": "fr-beziers-wakepark",
+  "action": "drop",
+  "notes": "aucun téléski nautique à Béziers ; les plus proches sont Carcassonne, Bram et Gruissan"
+ },
+ {
+  "id": "fr-hossegor-wakepark",
+  "action": "drop",
+  "notes": "le « wakepark d'Hossegor » des listings désigne l'EXO 64 du lac de Sames, déjà présent"
+ },
+
+ {
+  "id": "fr-gsnw-club-de-ski-nautique-et-wakeboard",
+  "action": "drop",
+  "notes": "Club Ski Nautique Gazelec : ski et wakeboard tractés bateau, pas de câble"
+ },
+
+ {
+  "id": "fr-mtd-wakepark",
+  "address": "Base de loisirs du lac Baron-Desqueyroux, 17130 Montendre",
+  "website": "https://www.mtdwakepark.fr/",
+  "season": "Début juillet à fin septembre",
+  "openingHours": "Mardi au vendredi et week-end, 12h30 - 19h30",
+  "prices": "23 € les 15 min avec son matériel, 26 € matériel fourni",
+  "notes": "Câble installé en 2025 ; l'ancien domaine .com n'existe plus"
+ },
+ {
+  "id": "fr-east-wake-park-686",
+  "prices": "25 € l'heure, 17 € l'heure supplémentaire, 59 € la journée"
+ },
+ {
+  "id": "fr-champagne-wake-park-teleski-nautique",
+  "type": "system2",
+  "address": "Lieu-dit Derrière le Bois, rue de Mareuil, 51530 Oiry",
+  "phone": "06 15 04 65 18",
+  "instagram": "https://www.instagram.com/champagnewakepark/"
+ },
+ {
+  "id": "fr-chamrousse-oxygene",
+  "type": "system2",
+  "address": "Zone ludique du lac de la Grenouillère, Chamrousse 1650, 38410 Chamrousse",
+  "phone": "06 27 24 34 06",
+  "instagram": "https://www.instagram.com/chamrousseoxygene/",
+  "season": "Début juin à fin septembre",
+  "prices": "20 € les 15 min (ski / wakeboard), 10 € les 10 min (bouée)",
+  "notes": "Téléski bi-poulie sur le lac de la Grenouillère, à 1650 m d'altitude"
+ },
+ {
+  "id": "fr-dynamite-wakepark-wakeboard-arles",
+  "type": "system2",
+  "address": "2864 route de Mas-Thibert au pont de Bompas, 13104 Arles",
+  "phone": "07 63 62 28 48",
+  "instagram": "https://www.instagram.com/dynamite.wakepark/"
+ },
+ {
+  "id": "fr-marina-o-zone",
+  "type": "fullsize",
+  "address": "1 place de la Jonque, 11430 Gruissan",
+  "phone": "07 54 38 10 50",
+  "email": "contact@marinaozone.com",
+  "instagram": "https://www.instagram.com/marinaozone/",
+  "openingHours": "10h30 - 19h",
+  "season": "Juin à septembre",
+  "notes": "Téléski 5 mâts sur le plan d'eau des Ayguades"
+ },
+ {
+  "id": "fr-exo-3d",
+  "type": "fullsize",
+  "address": "Lac de la Pierre, 50 pont de Cordon, 01300 Brégnier-Cordon",
+  "phone": "06 48 27 12 00",
+  "instagram": "https://www.instagram.com/exo3dcablegliss/",
+  "season": "Avril à octobre",
+  "prices": "27 € l'heure adulte, 42 € la journée"
+ },
+ {
+  "id": "fr-rille-wake-park",
+  "phone": "07 68 76 03 05",
+  "email": "rillewakepark@gmail.com",
+  "season": "Avril à septembre"
+ },
+ {
+  "id": "fr-east-wake-park-686",
+  "address": "21 rue du Printemps, 68870 Bartenheim",
+  "email": "hello@east-park.fr",
+  "website": "https://east-park.fr/",
+  "instagram": "https://www.instagram.com/eastpark.pro/",
+  "season": "Avril à novembre",
+  "notes": "East Park : téléski électrique aménagé dans une ancienne gravière"
+ },
+ {
+  "id": "fr-lake-wake-park",
+  "type": "both",
+  "address": "Site de Fréaudour, lac de Saint-Pardoux, 87250 Saint-Pardoux-le-Lac",
+  "website": "https://wakeandski87.fr/lake-wakepark-teleski-saint-pardoux/",
+  "cables": "Téléski full-size 750 m à 5 mâts (jusqu'à 10 riders), plus un bi-poulie de 225 m",
+  "notes": "Équipement du département de la Haute-Vienne. Full-size à partir de 11 ans, bi-poulie à partir de 10 ans, sur réservation"
+ },
+ {
+  "id": "fr-teleski-nautique-2",
+  "type": "system2",
+  "city": "Saint-Gilles-Croix-de-Vie",
+  "phone": "02 51 60 11 11",
+  "website": "https://www.saintgillescroixdevie-nautisme.fr/semvie-nautisme-accueil/wakepark/",
+  "prices": "100 € l'heure de câble privatisé, encadrement et matériel compris",
+  "cables": "Câble de 200 m (bi-poulie)",
+  "notes": "Wakepark du centre nautique de Saint-Gilles-Croix-de-Vie (Semvie Nautisme)"
+ },
+ {
+  "id": "fr-teleski-nautique-wakeboard",
+  "type": "system2",
+  "city": "Pierrefitte-sur-Sauldre",
+  "cables": "Téléski à deux pylônes (bi-poulie)",
+  "notes": "Téléski sur le lac du camping Les Alicourts (Sandaya), en Sologne"
+ },
+
+ {
+  "id": "fr-aloha-wakepark",
+  "address": "Étang du Maupas, 85360 La Tranche-sur-Mer",
+  "phone": "06 60 07 02 74",
+  "email": "alohawakepark@gmail.com"
+ },
+ {
+  "id": "fr-acp-amiens-cable-park",
+  "address": "Étang du Milieu, route d'Argœuves, 80470 Dreuil-lès-Amiens",
+  "phone": "06 33 25 81 27",
+  "instagram": "https://www.instagram.com/amienscablepark/"
+ },
+ {
+  "id": "fr-atlantic-wake-park",
+  "address": "L'Aiguillon-sur-Mer (Vendée)",
+  "phone": "06 76 27 55 04",
+  "instagram": "https://www.instagram.com/atlanticwakepark/"
+ },
+ {
+  "id": "fr-cachin-wake-park-73",
+  "address": "Base de loisirs « Les Îles du Chéran », 73340 Lescheraines",
+  "phone": "07 83 52 47 22",
+  "season": "Début juin à mi-septembre",
+  "openingHours": "7j/7 à partir de 11h en pleine saison",
+  "instagram": "https://www.instagram.com/cwa_cachin_water_activities/"
+ },
+ {
+  "id": "fr-advance-ride",
+  "instagram": "https://www.instagram.com/wakepark_advance_ride/"
+ },
+ {
+  "id": "fr-delta-wake-park",
+  "address": "Le Gap, 26340 Vercheny",
+  "phone": "07 87 32 88 10",
+  "email": "contact@deltawaterpark.com",
+  "openingHours": "Tous les jours 10h - 20h",
+  "instagram": "https://www.instagram.com/delta_waterpark/"
+ },
+ {
+  "id": "fr-etoile-park-26",
+  "phone": "07 83 15 44 81",
+  "email": "etoilepark26@gmail.com",
+  "season": "1er juillet au 31 août",
+  "openingHours": "Aquapark et téléski 14h - 20h, guinguette 14h - 23h",
+  "instagram": "https://www.instagram.com/etoilepark_26/",
+  "notes": "À 10 min de Valence"
+ },
+ {
+  "id": "fr-wakepark-lacanau",
+  "phone": "06 50 51 38 41",
+  "notes": "Uniquement sur réservation"
+ },
+ {
+  "id": "fr-koba-wake-park",
+  "phone": "06 78 55 75 47",
+  "notes": "Téléski nautique entre Strasbourg et Colmar ; réservation quotidienne"
+ },
+ {
+  "id": "fr-lakecity-33",
+  "phone": "06 40 65 11 71",
+  "season": "Juillet-août",
+  "openingHours": "Wakeboard 11h - 21h en semaine, 10h - 21h le week-end",
+  "notes": "Base de 13 ha entre Bordeaux et Arcachon. Fermeture temporaire annoncée sur le site en raison d'incendies — vérifier avant de venir"
+ },
+ {
+  "id": "fr-les-o-kiri-wakepark",
+  "address": "Espace Loisirs, avenue du Lac, 64800 Baudreix",
+  "phone": "05 59 92 97 73",
+  "email": "contact@lesokiri.com",
+  "instagram": "https://www.instagram.com/lesokiri64/",
+  "notes": "Base de loisirs et camping du lac de Baudreix, à 15 min de Pau"
+ },
+ {
+  "id": "fr-brumath-aventure-wakepark",
+  "website": "https://www.fun-parc-brumath.fr/"
+ },
+
+ {
+  "id": "fr-martinique-wake-park",
+  "type": "system2",
+  "cables": "Sesitec System 2.0 sur un bassin artificiel de 142 × 33 m",
+  "notes": "Premier câble des Antilles françaises. Modules kickers, rails et box ; douches, casiers et restaurant sur place"
+ },
+ {
+  "id": "fr-my-little-wake-park",
+  "address": "Avenue du Docteur Max Pierrou, 77310 Boissise-le-Roi",
+  "phone": "06 78 26 28 09",
+  "email": "mylittlewakepark@gmail.com",
+  "season": "Avril à octobre",
+  "instagram": "https://www.instagram.com/mylittlewakepark/"
+ },
+ {
+  "id": "fr-natural-wake-park",
+  "address": "03500 Paray-sous-Briailles",
+  "phone": "07 43 37 09 27",
+  "email": "naturalwakepark03@gmail.com",
+  "website": "https://www.naturalwakepark.com/",
+  "season": "Avril à août",
+  "instagram": "https://www.instagram.com/naturalwakepark03/"
+ },
+ {
+  "id": "fr-original-green-park",
+  "instagram": "https://www.instagram.com/originalgreenpark/",
+  "notes": "À 30 min de Toulouse, Montauban et Albi"
+ },
+ {
+  "id": "fr-teleski-nautique-de-verberie",
+  "address": "Route de Rivecourt, 60410 Verberie",
+  "phone": "06 09 20 02 70",
+  "email": "info@teleskiverberie.com",
+  "instagram": "https://www.instagram.com/parknauticverberie/",
+  "notes": "Plan d'eau de 16 ha près de Compiègne ; téléski, accrobranche, paintball et mini-golf"
+ },
+ {
+  "id": "fr-rouffiac-cable-park",
+  "website": "-",
+  "phone": "05 53 52 68 79",
+  "address": "Base de loisirs de Rouffiac, 24270 Lanouaille",
+  "season": "Juillet-août en pleine saison",
+  "openingHours": "11h - 12h et 14h - 19h, sur réservation",
+  "prices": "22 € l'heure adulte, 17 € étudiant, 14 € enfant",
+  "cables": "Téléski full-size de 800 m à entraînement électrique, 10 palonniers",
+  "notes": "Un des téléskis les mieux équipés de France, accueille des compétitions nationales. Le domaine rouffiaccablepark.fr a expiré et pointe désormais vers un site sans rapport : lien retiré"
+ },
+ {
+  "id": "fr-poule-wake-park",
+  "website": "https://www.poulewakepark.net/",
+  "openingHours": "Lundi et mercredi 11h - 20h, jeudi au dimanche 11h - 21h30, fermé le mardi",
+  "cables": "Sesitec System 2.0 HD — le plus long bi-poulie existant",
+  "notes": "Aussi trampoline, skate, slackline, pétanque et paddle sur place"
+ },
+ {
+  "id": "fr-addict-wake-park",
+  "address": "793 route du Grand Verger, 38430 Moirans",
+  "phone": "06 82 91 23 77",
+  "website": "http://www.addict-wake.fr/",
+  "season": "Mai à octobre",
+  "openingHours": "Juillet-août tous les jours 10h - 20h ; mai, juin et septembre horaires réduits",
+  "cables": "Deux Sesitec System 2.0",
+  "notes": "Premier cable wake & foil park de France"
+ },
+ {
+  "id": "fr-off-axis-wake",
+  "address": "Lac des Bonnets, 31600 Muret",
+  "website": "https://www.extremridepark.com/fr/",
+  "cables": "Sesitec System 2.0 bi-poulie, en service depuis 2005",
+  "notes": "À 10 min de Toulouse ; ouvert tous les jours, réservation conseillée"
+ },
+
+ {
+  "id": "fr-teleski-nautique-de-saujon",
+  "address": "Voie Pied de Talus, 17600 Saujon",
+  "notes": "Téléski électrique, à partir de 10 ans et pour les nageurs ; séances à vitesse réduite sur réservation pour les 8-12 ans"
+ },
+ {
+  "id": "fr-tn28",
+  "address": "1 bis rue de la Ferrière, 28240 Fontaine-Simon",
+  "phone": "06 20 02 84 52",
+  "email": "tn28@live.fr",
+  "season": "Mars à octobre",
+  "instagram": "https://www.instagram.com/tn28_eure_et_loir/"
+ },
+ {
+  "id": "fr-tna-cablepark",
+  "address": "110 chemin du Brachouet, 74800 Arenthon",
+  "phone": "07 59 62 29 95",
+  "email": "tna.cablepark@gmail.com",
+  "season": "1er avril au 27 septembre",
+  "notes": "Structure familiale : vitesse réduite pour les débutants de juin à septembre, plus de 20 modules pour les confirmés, aquaparc en juin"
+ },
+ {
+  "id": "fr-tnco-teleski-nautique-cote-d-or",
+  "address": "Base de loisirs Saule Guillaume, 21700 Prémeaux-Prissey",
+  "phone": "06 86 92 99 59",
+  "email": "contact@teleskinautiquecotedor.com",
+  "instagram": "https://www.instagram.com/tnco_21/",
+  "notes": "Base de 30 ha, à partir de 10 ans, sans réservation ; vitesse réduite le mercredi"
+ },
+
+ {
+  "id": "fr-tiki-wake-park",
+  "type": "system2",
+  "address": "Lac de Bournazel, 19700 Seilhac",
+  "phone": "06 74 59 05 00",
+  "website": "https://espritnaturecorreze.com/",
+  "openingHours": "Juillet-août tous les jours sauf lundi, 13h - 19h",
+  "cables": "Bi-poulie sur le lac de Bournazel"
+ },
+ {
+  "id": "fr-teleski-nautique-du-barcares",
+  "address": "Stade de glisse, parc des Dosses, 66420 Le Barcarès",
+  "phone": "04 68 86 23 45",
+  "website": "https://www.teleskibarcares.com/",
+  "openingHours": "Téléski 9h - 19h",
+  "season": "Toute l'année selon la météo",
+  "instagram": "https://www.instagram.com/teleskinautiquebarcares/",
+  "cables": "Téléski full-size, circuit de 900 m, jusqu'à 11 riders en simultané"
+ },
+ {
+  "id": "fr-tng-cable-park",
+  "address": "Allée du Lac, 32600 L'Isle-Jourdain",
+  "phone": "05 62 58 38 21",
+  "email": "tngcablepark@gmail.com",
+  "instagram": "https://www.instagram.com/tngcablepark/",
+  "notes": "À partir de 8 ans, encadrement par moniteurs diplômés"
+ },
+ {
+  "id": "fr-wake-park-plesse",
+  "address": "Route de Savenay, étang de Buhel, 44630 Plessé",
+  "phone": "02 28 05 47 03",
+  "email": "contact@wakeparkplesse.com",
+  "season": "Avril à octobre",
+  "prices": "Adulte 24 € l'heure, 36 € 2 h, 45 € 4 h, 55 € la journée ; -16 ans 20 € l'heure, 50 € la journée"
+ },
+ {
+  "id": "fr-tsj-wakepark",
+  "address": "Saint-Jean-Pla-de-Corts, Vallespir (66)",
+  "season": "Mai à septembre, tous les jours en juillet-août",
+  "instagram": "https://www.instagram.com/tsjwakepark/",
+  "notes": "Le téléski le plus au sud de France ; aussi waterjump, aquapark et restaurant"
+ },
+ {
+  "id": "fr-urban-wake-park",
+  "address": "15 avenue Charles de Gaulle, 84130 Le Pontet",
+  "phone": "06 43 20 94 22",
+  "email": "info@urban-wakepark.fr",
+  "instagram": "https://www.instagram.com/urbanwakepark/",
+  "cables": "Deux bi-poulies, du débutant au confirmé",
+  "notes": "Afterworks hebdomadaires et stages en saison"
+ },
+ {
+  "id": "fr-wakelagoona",
+  "type": "unknown",
+  "address": "Chemin de Moderis, 33720 Virelade",
+  "phone": "06 83 69 56 99",
+  "instagram": "https://www.instagram.com/wakelagoona/",
+  "prices": "Session à partir de 28 €, 24 € pour les moins de 12 ans",
+  "cables": "-",
+  "notes": "⚠ Le site n'annonce que des sessions tractées bateau (deux bateaux) sur lac privé : la présence d'un bi-poulie, mentionnée par l'annuaire tsn44, n'est pas confirmée. À 25 min de Bordeaux"
+ },
+
+ {
+  "id": "fr-la-source-wake-park",
+  "address": "Route de Peyssies, lieu-dit Baudéan, 31390 Carbonne",
+  "openingHours": "Été : tous les jours 10h - 19h",
+  "season": "Toute l'année",
+  "instagram": "https://www.instagram.com/la_source_wake_park/",
+  "notes": "Téléski, aquapark et paddle près de Toulouse ; restaurant et hébergement sur place"
+ },
+ {
+  "id": "fr-anjou-wake-park",
+  "address": "ZA la Jalletière, 49380 Notre-Dame-d'Allençon",
+  "phone": "02 41 66 87 93",
+  "season": "Avril à octobre",
+  "prices": "27 € l'heure adulte, 42 € la journée, 229 € le forfait 10 h",
+  "instagram": "https://www.instagram.com/anjouwakepark/"
+ },
+ {
+  "id": "fr-totem-wake-park",
+  "address": "Chemin des Sablons, 71680 Crêches-sur-Saône",
+  "phone": "06 16 91 02 55",
+  "season": "Toute l'année",
+  "openingHours": "12h - 21h",
+  "notes": "À 9 km de Mâcon. Pass MULTIPARK commun à plusieurs cable parks"
+ },
+ {
+  "id": "fr-wake-paradise-spay",
+  "address": "La Brosse, lieu-dit la Pièce du Milieu, 72700 Spay",
+  "phone": "02 43 28 49 38",
+  "email": "contact@wakeparadise.fr",
+  "website": "https://wakeparadise.fr",
+  "season": "Toute l'année",
+  "instagram": "https://www.instagram.com/wake_paradise/"
+ },
+ {
+  "id": "fr-wakepark-izon",
+  "name": "Zion Park (ex-Wakepark Izon)",
+  "address": "96 rue du Port, 33450 Izon",
+  "phone": "06 52 90 69 25",
+  "season": "Avril à novembre",
+  "instagram": "https://www.instagram.com/wakeparkizon/",
+  "cables": "Trois lignes de câble, avec un pool gap unique en Europe",
+  "notes": "Rebaptisé Zion Park. Près de Bordeaux, réservation par téléphone uniquement"
+ },
+ {
+  "id": "fr-wakepark-cable-la-grande-motte",
+  "website": "-",
+  "notes": "Le domaine wakeparkcable.com n'est plus actif : à vérifier auprès de la base de La Grande-Motte"
+ },
+ {
+  "id": "fr-wood-wakepark-79",
+  "website": "-",
+  "notes": "Le domaine woodwakepark79.com n'est plus actif : statut à confirmer"
+ }
+]

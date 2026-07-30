@@ -90,7 +90,7 @@ console.log(`Périmètre : ${SCOPE.join(', ')}`);
 
 /* Sources Overpass, dédoublonnées par id OSM. Chaque fichier est optionnel. */
 const byId = new Map();
-for (const f of ['osm_fr.json', 'osm_by_country.json', 'osm_fast.json']) {
+for (const f of ['osm_fr.json', 'osm_eu.json', 'osm_by_country.json', 'osm_fast.json']) {
   const p = path.join(HERE, f);
   if (!fs.existsSync(p)) { console.log(`(${f} absent, ignoré)`); continue; }
   const arr = readJson(p);
@@ -355,9 +355,14 @@ const cleanCity = (c) => {
 const CABLE_TEXT = {
   fullsize: 'Téléski nautique full-size (5-6 mâts)',
   system2: 'Système 2 tours (System 2.0 / bi-poulie)',
-  both: 'Full-size (5-6 mâts) + System 2.0',
+  both: 'Téléski nautique full-size (5-6 mâts), plus un bi-poulie sur le site',
   unknown: null,
 };
+
+/* Un plan d'eau qui a un full-size ET un bi-poulie compte comme full-size : c'est le
+   grand téléski qui caractérise le spot. Le bi-poulie reste mentionné dans le descriptif
+   pour ne pas perdre l'information. */
+const FILTER_TYPE = { fullsize: 'fullsize', both: 'fullsize', system2: 'system2' };
 
 const spots = [];
 
@@ -366,9 +371,10 @@ for (const c of catalog) {
   const pos = cl ? { lat: cl.lat, lon: cl.lon } : c.geo;
   if (!pos) continue;
 
-  const type = ['fullsize', 'system2', 'both'].includes(c.type) ? c.type : 'unknown';
-  let cables = CABLE_TEXT[type];
-  if (cl?.dragLifts > 1 && type !== 'system2') cables = `${cables} — ${cl.dragLifts} tracés relevés sur OSM`;
+  const declared = ['fullsize', 'system2', 'both'].includes(c.type) ? c.type : 'unknown';
+  const type = FILTER_TYPE[declared] || 'unknown';
+  let cables = CABLE_TEXT[declared];
+  if (cl?.dragLifts > 1 && declared !== 'system2') cables = `${cables} — ${cl.dragLifts} tracés relevés sur OSM`;
 
   spots.push({
     id: makeId(c.country, c.name),
@@ -391,6 +397,8 @@ for (const c of catalog) {
     email: cl?.email || null,
     address: cl?.address || null,
     openingHours: cl?.openingHours || null,
+    season: null,   // renseignés à la main via overrides.tsv
+    prices: null,
     notes: cl?.description || null,
     sources: [c.source, cl ? 'OpenStreetMap' : (pos.approx ? 'géocodage commune' : 'Nominatim')].filter(Boolean),
     dataQuality: cl ? (c.nearby ? 'nearby' : 'verified') : (pos.approx ? 'approx' : 'partial'),
@@ -447,6 +455,8 @@ for (const cl of clusters) {
     email: cl.email || null,
     address: cl.address || null,
     openingHours: cl.openingHours || null,
+    season: null,
+    prices: null,
     notes: cl.description || null,
     sources: ['OpenStreetMap'],
     dataQuality: 'partial',
@@ -531,11 +541,67 @@ console.log(`Doublons fusionnés par commune : ${cityMerges}`);
 
 spots.forEach((s) => { delete s.cityFromOsm; });
 
+/* ------------------------------------------- 9. corrections manuelles
+
+   overrides.json porte tout ce qu'aucune source automatique ne donne correctement :
+   les spots fermés ou qui n'ont en réalité pas de câble (bases bateau), et les
+   coordonnées de contact relevées à la main sur les sites et les réseaux sociaux.
+   C'est ce fichier qu'il faut éditer pour corriger un spot — pas data/spots.js, qui est
+   régénéré à chaque exécution. `"action": "drop"` retire le spot de la carte. */
+
+const OV_FILE = path.join(HERE, 'overrides.json');
+let ovApplied = 0, ovDropped = 0;
+const ovUnknown = [];
+
+if (fs.existsSync(OV_FILE)) {
+  const byIdSpot = new Map(spots.map((s) => [s.id, s]));
+
+  for (const o of readJson(OV_FILE)) {
+    const s = byIdSpot.get(o.id);
+    if (!s) { ovUnknown.push(o.id); continue; }
+
+    if (o.action === 'drop') {
+      s._drop = true;
+      s._dropReason = o.notes || 'retiré manuellement';
+      ovDropped++;
+      continue;
+    }
+    /* Une valeur non vide écrase ce qui vient des sources automatiques. La valeur "-"
+       efface le champ : nécessaire quand une source automatique donne une information
+       carrément fausse — par exemple un nom de domaine expiré, racheté depuis par un
+       site sans rapport, qu'il ne faut surtout pas continuer à proposer en lien. */
+    for (const k of ['name', 'address', 'phone', 'email', 'website', 'instagram', 'facebook',
+      'season', 'openingHours', 'prices', 'notes', 'cables', 'city']) {
+      if (o[k] === '-') s[k] = null;
+      else if (o[k]) s[k] = o[k];
+    }
+    if (o.type && FILTER_TYPE[o.type]) {
+      s.type = FILTER_TYPE[o.type];
+      s.cables = o.cables || CABLE_TEXT[o.type] || s.cables;
+    }
+    if (!s.sources.includes('vérifié à la main')) s.sources.push('vérifié à la main');
+    if (s.dataQuality === 'approx' && o.address) s.dataQuality = 'partial';
+    ovApplied++;
+  }
+
+  for (let i = spots.length - 1; i >= 0; i--) {
+    if (spots[i]._drop) {
+      console.log(`  retiré : ${spots[i].name} (${spots[i]._dropReason})`);
+      spots.splice(i, 1);
+    }
+  }
+  console.log(`Corrections manuelles : ${ovApplied} fiches enrichies, ${ovDropped} retirées`);
+  if (ovUnknown.length) console.log(`  ⚠ ids inconnus dans overrides.json : ${ovUnknown.join(', ')}`);
+} else {
+  console.log('(overrides.json absent, aucune correction manuelle)');
+}
+
 spots.sort((a, b) => a.country.localeCompare(b.country) || a.name.localeCompare(b.name, 'fr'));
 
 const header = `/* Données générées le ${new Date().toISOString().slice(0, 10)}.
-   Sources : OpenStreetMap (positions, contacts), waketricks.com et tsn44.com (type de câble).
-   ${spots.length} spots. Ne pas éditer à la main : régénérer via le script de collecte. */\n`;
+   Sources : OpenStreetMap (positions, contacts), annuaires wake (type de câble),
+   tools/overrides.tsv (vérifications et contacts relevés à la main).
+   ${spots.length} spots. Ne pas éditer à la main : régénérer via tools/build.mjs. */\n`;
 
 fs.mkdirSync(path.dirname(OUT), { recursive: true });
 fs.writeFileSync(OUT, `${header}window.SPOTS = ${JSON.stringify(spots, null, 1)};\n`, 'utf8');
