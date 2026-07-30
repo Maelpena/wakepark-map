@@ -136,7 +136,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts)",
   "website": "https://pywakepark.com/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/pywakepark/",
   "phone": null,
   "email": null,
   "address": null,
@@ -146,7 +146,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "nearby"
  },
@@ -286,7 +287,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts)",
   "website": "https://www.wakeboardlift.at/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wakeboardlift_wien/",
   "phone": null,
   "email": null,
   "address": null,
@@ -296,7 +297,8 @@ window.SPOTS = [
   "notes": "Wasserschilift und Wakeboardlift Wien",
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -409,7 +411,7 @@ window.SPOTS = [
   "cables": null,
   "website": "https://www.wasserschischule.at/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wasserschischule/",
   "phone": null,
   "email": null,
   "address": null,
@@ -418,7 +420,8 @@ window.SPOTS = [
   "prices": null,
   "notes": null,
   "sources": [
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "partial"
  },
@@ -433,7 +436,7 @@ window.SPOTS = [
   "cables": null,
   "website": "https://www.waver.at/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/waverpoertschach/",
   "phone": null,
   "email": null,
   "address": null,
@@ -442,7 +445,8 @@ window.SPOTS = [
   "prices": null,
   "notes": null,
   "sources": [
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "partial"
  },
@@ -457,7 +461,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts), plus un bi-poulie sur le site — 2 tracés relevés sur OSM",
   "website": "https://dock79.be",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/dock_79_park/",
   "phone": null,
   "email": null,
   "address": null,
@@ -467,7 +471,8 @@ window.SPOTS = [
   "notes": "Téléski nautique \"full-size\" de Dock79 (ex-Belgium Cable Park).\n760m, 9 accrocheurs, sens antihoraire",
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -482,7 +487,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts), plus un bi-poulie sur le site",
   "website": "https://www.goodlifecablepark.be/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/goodlifecablepark/",
   "phone": null,
   "email": null,
   "address": "Hoogeind, 2321 Meer",
@@ -492,7 +497,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -730,7 +736,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts)",
   "website": "https://alphasurf.ch",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/alphasurf_/",
   "phone": null,
   "email": null,
   "address": null,
@@ -740,7 +746,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "nearby"
  },
@@ -929,7 +936,7 @@ window.SPOTS = [
   "cables": null,
   "website": "https://www.wasserski-basel.ch/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wasserskibasel/",
   "phone": null,
   "email": "info@wasserski-basel.ch",
   "address": null,
@@ -938,7 +945,8 @@ window.SPOTS = [
   "prices": null,
   "notes": null,
   "sources": [
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "partial"
  },
@@ -1001,7 +1009,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts)",
   "website": "https://agora-erlebnis-resort.de/wakepark/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/agora_erlebnis_resort/",
   "phone": null,
   "email": null,
   "address": null,
@@ -1011,7 +1019,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "nearby"
  },
@@ -1076,7 +1085,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts)",
   "website": "https://www.beachclub-nethen.de/wake",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wake_beachclub_nethen/",
   "phone": null,
   "email": null,
   "address": null,
@@ -1086,7 +1095,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "nearby"
  },
@@ -1176,7 +1186,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts) — 3 tracés relevés sur OSM",
   "website": "https://toeppersee.de/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/sunwakepark_toeppersee/",
   "phone": "+49 2151 403747",
   "email": "info@toeppersee.de",
   "address": "91 Lohfelder Weg, 47239 Duisburg",
@@ -1186,7 +1196,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -1201,7 +1212,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts)",
   "website": "https://www.chill-and-wake.de/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/chillandwake/",
   "phone": null,
   "email": null,
   "address": null,
@@ -1212,7 +1223,8 @@ window.SPOTS = [
   "sources": [
    "waketricks",
    "géocodage commune",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "nearby"
  },
@@ -1227,7 +1239,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts), plus un bi-poulie sur le site — 2 tracés relevés sur OSM",
   "website": "https://dock5.eu/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/dock5dn/",
   "phone": null,
   "email": null,
   "address": null,
@@ -1237,7 +1249,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "nearby"
  },
@@ -1252,7 +1265,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts)",
   "website": "https://www.wasserski-gundelfingen.de/index.html",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/gufisee/",
   "phone": "+49 9073 920690",
   "email": null,
   "address": "10 Haldenweg, 89423 Gundelfingen an der Donau",
@@ -1262,7 +1275,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -1352,7 +1366,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts) — 3 tracés relevés sur OSM",
   "website": "https://skiterrassen.de/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/skiterrassen/",
   "phone": null,
   "email": null,
   "address": null,
@@ -1362,7 +1376,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -1402,7 +1417,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts)",
   "website": "http://www.magix-wakeboarding.de",
   "facebook": "https://www.facebook.com/magixwakeboarding",
-  "instagram": null,
+  "instagram": "https://www.instagram.com/magixwakeboarding/",
   "phone": null,
   "email": "info@magix-wakeboarding.de",
   "address": "100 Templiner Straße, 14473 Potsdam",
@@ -1412,7 +1427,8 @@ window.SPOTS = [
   "notes": "Wasserskifläche",
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -1752,7 +1768,7 @@ window.SPOTS = [
   "cables": null,
   "website": "https://www.wake-beach.de/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wake_beach/",
   "phone": "+49 173 9828077",
   "email": "info@wake-beach.de",
   "address": "1 Hainweg, 04575 Neukieritzsch",
@@ -1761,7 +1777,8 @@ window.SPOTS = [
   "prices": null,
   "notes": null,
   "sources": [
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "partial"
  },
@@ -1776,7 +1793,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts), plus un bi-poulie sur le site",
   "website": "https://wakebeach.de/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wakebeach257/",
   "phone": null,
   "email": null,
   "address": null,
@@ -1786,7 +1803,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "nearby"
  },
@@ -2024,7 +2042,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts)",
   "website": "https://www.wake-park.de/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wakeparkwolfsburg/",
   "phone": null,
   "email": null,
   "address": "1 Berliner Ring, 38448 Wolfsburg",
@@ -2034,7 +2052,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -2049,7 +2068,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts), plus un bi-poulie sur le site — 3 tracés relevés sur OSM",
   "website": "https://wakepark-brombachsee.de/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wakeparkbrombachsee/",
   "phone": null,
   "email": null,
   "address": "7 Badehalbinsel, 91720 Absberg",
@@ -2059,7 +2078,8 @@ window.SPOTS = [
   "notes": "Wakeboardanlage",
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -2149,7 +2169,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts) — 2 tracés relevés sur OSM",
   "website": "https://www.wakepark-thulba.de/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wakeparkthulba/",
   "phone": "+49 9736 4726",
   "email": "info@wakepark-thulba.de",
   "address": "5 Untere Au, 97723 Oberthulba",
@@ -2159,7 +2179,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -2323,7 +2344,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts) — 3 tracés relevés sur OSM",
   "website": "https://suesel-seeparx.de/wakeboard-park",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/suesel_seeparx/",
   "phone": "+49 4524 1777",
   "email": "info@suesel-seeparx.de",
   "address": "2 Süseler Moor, 23701 Süsel",
@@ -2333,7 +2354,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "nearby"
  },
@@ -2498,7 +2520,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts)",
   "website": "http://www.wasserski-hamburg.de/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wasserskiwakeboardhamburg/",
   "phone": null,
   "email": null,
   "address": null,
@@ -2508,7 +2530,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -2573,7 +2596,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts), plus un bi-poulie sur le site — 6 tracés relevés sur OSM",
   "website": "https://www.wasserski-langenfeld.de/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wasserski_langenfeld/",
   "phone": null,
   "email": null,
   "address": "88 Baumberger Straße, 40764 Langenfeld",
@@ -2583,7 +2606,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -2598,7 +2622,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts) — 3 tracés relevés sur OSM",
   "website": "https://www.wasserski-paderborn.de/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wasserski_paderborn/",
   "phone": "+49525468660",
   "email": null,
   "address": "160 Sander Straße, 33106 Paderborn",
@@ -2608,7 +2632,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -2748,7 +2773,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts) — 2 tracés relevés sur OSM",
   "website": "https://www.wasserski-stleon.de/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wasserski_wakeboard_st.leon/",
   "phone": null,
   "email": null,
   "address": null,
@@ -2758,7 +2783,8 @@ window.SPOTS = [
   "notes": "Anfängerbahn",
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -2847,7 +2873,7 @@ window.SPOTS = [
   "cables": "1 tracé(s) de câble relevé(s) sur OSM",
   "website": "https://wasserski-heuchelheim.de/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/southlake_heuchelheim/",
   "phone": null,
   "email": null,
   "address": null,
@@ -2856,7 +2882,8 @@ window.SPOTS = [
   "prices": null,
   "notes": null,
   "sources": [
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "partial"
  },
@@ -2871,7 +2898,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts)",
   "website": "https://cable-dresden.de/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/cable_dresden/",
   "phone": "+4917675489424",
   "email": "info@cable-dresden.de",
   "address": null,
@@ -2881,7 +2908,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -2921,7 +2949,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts)",
   "website": "https://www.wasserski-jagel.de/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wasserski_jagel/",
   "phone": null,
   "email": null,
   "address": null,
@@ -2931,7 +2959,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -3044,7 +3073,7 @@ window.SPOTS = [
   "cables": null,
   "website": "https://www.wsk-kurpfalz.de/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wsk.kurpfalz/",
   "phone": null,
   "email": null,
   "address": null,
@@ -3053,7 +3082,8 @@ window.SPOTS = [
   "prices": null,
   "notes": null,
   "sources": [
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "partial"
  },
@@ -3068,7 +3098,7 @@ window.SPOTS = [
   "cables": null,
   "website": "https://www.best-of-wasserski.de/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wsc_luzin_feldberg/",
   "phone": "+49 172 6300520",
   "email": null,
   "address": "44 Amtsplatz, 17258 Feldberger Seenlandschaft",
@@ -3077,7 +3107,8 @@ window.SPOTS = [
   "prices": null,
   "notes": null,
   "sources": [
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "partial"
  },
@@ -3141,7 +3172,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts) — 2 tracés relevés sur OSM",
   "website": "https://www.wasserskipark-aschheim.de/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wasserskipark_aschheim/",
   "phone": null,
   "email": null,
   "address": null,
@@ -3151,7 +3182,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -3191,7 +3223,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts)",
   "website": "https://wasserski-damp.de/der-wasserskipark-damp/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wakepark_damp/",
   "phone": null,
   "email": null,
   "address": null,
@@ -3201,7 +3233,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -3265,7 +3298,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts), plus un bi-poulie sur le site",
   "website": "https://www.wakeboard-berlin.de/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wakepark_berlin_velten/",
   "phone": null,
   "email": null,
   "address": null,
@@ -3275,7 +3308,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "nearby"
  },
@@ -3315,7 +3349,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts)",
   "website": "http://www.wildwakeski.de/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wildwakepark/",
   "phone": "+49 9431 790380",
   "email": "info@wildwakeski.de",
   "address": "1 In der Oder, 92449 Steinberg am See",
@@ -3325,7 +3359,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "nearby"
  },
@@ -3894,7 +3929,7 @@ window.SPOTS = [
   "cables": "Système 2 tours (System 2.0 / bi-poulie)",
   "website": "https://awakeparktoulouse.wixsite.com/toulouse",
   "facebook": "https://facebook.com/awakepark",
-  "instagram": null,
+  "instagram": "https://www.instagram.com/sylvain_awakepark/",
   "phone": null,
   "email": null,
   "address": null,
@@ -3904,7 +3939,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "tsn44",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -4625,7 +4661,7 @@ window.SPOTS = [
   "cables": "Système 2 tours (System 2.0 / bi-poulie)",
   "website": "https://www.fun-parc-brumath.fr/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/funparcbrumath/",
   "phone": null,
   "email": null,
   "address": null,
@@ -5238,7 +5274,7 @@ window.SPOTS = [
   "cables": "Sesitec System 2.0 HD — le plus long bi-poulie existant",
   "website": "https://www.poulewakepark.net/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/poulewakepark/",
   "phone": null,
   "email": null,
   "address": "450 Route des Lacs, 73260 La Léchère",
@@ -5366,7 +5402,7 @@ window.SPOTS = [
   "cables": "Câble de 200 m (bi-poulie)",
   "website": "https://www.saintgillescroixdevie-nautisme.fr/semvie-nautisme-accueil/wakepark/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/sgcvnautisme85/",
   "phone": "02 51 60 11 11",
   "email": null,
   "address": null,
@@ -5541,7 +5577,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts)",
   "website": "https://lery-poses.fr",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/leryposes/",
   "phone": null,
   "email": null,
   "address": null,
@@ -5551,7 +5587,8 @@ window.SPOTS = [
   "notes": "1000m, sens antihoraire",
   "sources": [
    "tsn44",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -5842,7 +5879,7 @@ window.SPOTS = [
   "cables": "Bi-poulie sur le lac de Bournazel",
   "website": "https://espritnaturecorreze.com/",
   "facebook": "https://facebook.com/tikiwakepark",
-  "instagram": null,
+  "instagram": "https://www.instagram.com/esprit_nature19/",
   "phone": "06 74 59 05 00",
   "email": null,
   "address": "Lac de Bournazel, 19700 Seilhac",
@@ -5894,7 +5931,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts)",
   "website": "https://tnacablepark.com",
   "facebook": "https://facebook.com/TNACablePark",
-  "instagram": null,
+  "instagram": "https://www.instagram.com/tna.cablepark/",
   "phone": "07 59 62 29 95",
   "email": "tna.cablepark@gmail.com",
   "address": "110 chemin du Brachouet, 74800 Arenthon",
@@ -6124,7 +6161,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts)",
   "website": "https://tsn44.com",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/tsnconcept/",
   "phone": null,
   "email": null,
   "address": null,
@@ -6134,7 +6171,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "tsn44",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "nearby"
  },
@@ -6149,7 +6187,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts)",
   "website": "https://tsn44.com",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/tsnconcept/",
   "phone": null,
   "email": null,
   "address": null,
@@ -6160,7 +6198,8 @@ window.SPOTS = [
   "sources": [
    "tsn44",
    "géocodage commune",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "nearby"
  },
@@ -6555,7 +6594,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts), plus un bi-poulie sur le site — 2 tracés relevés sur OSM",
   "website": "https://www.wampark.fr/vosges-thaon/",
   "facebook": "https://facebook.com/Vosgeswakepark",
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wampark_vosges/",
   "phone": null,
   "email": null,
   "address": "23 Chemin de l'Écluse, 88150 Thaon-les-Vosges",
@@ -6565,7 +6604,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "tsn44",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -6606,7 +6646,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts) — 2 tracés relevés sur OSM",
   "website": "https://www.wampark.fr/base/bordeaux-nord-avensan/",
   "facebook": "https://facebook.com/cablepark",
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wampark_avensan/",
   "phone": "+33 5 47 74 52 10",
   "email": "base-avensan@wampark.fr",
   "address": "4 Route de Casalié, 33480 Avensan",
@@ -6616,7 +6656,8 @@ window.SPOTS = [
   "notes": "820m, sens horaire",
   "sources": [
    "tsn44",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -6631,7 +6672,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts)",
   "website": "https://www.wampark.fr/base/bordeaux-sud-baurech/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wampark_baurech/",
   "phone": "+33 5 47 74 60 81",
   "email": "base-baurech@wampark.fr",
   "address": "259 Chemin, Port Leyron, 33880 Baurech",
@@ -6641,7 +6682,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "tsn44",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -6681,7 +6723,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts) — 2 tracés relevés sur OSM",
   "website": "https://www.wampark.fr/lyon-condrieu/",
   "facebook": "https://facebook.com/wamparklyon",
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wampark_lyoncondrieu/",
   "phone": null,
   "email": null,
   "address": "69420",
@@ -6691,7 +6733,8 @@ window.SPOTS = [
   "notes": "Environ 800m, 10 accrocheurs, sens antihoraire",
   "sources": [
    "tsn44",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -7055,7 +7098,7 @@ window.SPOTS = [
   "cables": null,
   "website": "https://www.lochearnwakeschool.co.uk/",
   "facebook": "https://www.facebook.com/lochearnwakeschool",
-  "instagram": null,
+  "instagram": "https://www.instagram.com/lochearnwakeschool/",
   "phone": "+44 7943 620165",
   "email": null,
   "address": "FK19 8PU Lochearnhead",
@@ -7064,7 +7107,8 @@ window.SPOTS = [
   "prices": null,
   "notes": null,
   "sources": [
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "partial"
  },
@@ -7203,7 +7247,7 @@ window.SPOTS = [
   "cables": "Système 2 tours (System 2.0 / bi-poulie)",
   "website": "http://www.pier52.co.uk/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/pier52watersports/",
   "phone": "+44 1543 379339",
   "email": "bookings@pier52.co.uk",
   "address": null,
@@ -7213,7 +7257,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -7228,7 +7273,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts), plus un bi-poulie sur le site",
   "website": "https://www.plasticplayground.co.uk/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/liquidleisurewakepark/",
   "phone": null,
   "email": null,
   "address": "Horton Road, SL3 9HY Slough",
@@ -7238,7 +7283,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -7277,7 +7323,7 @@ window.SPOTS = [
   "cables": "Système 2 tours (System 2.0 / bi-poulie)",
   "website": "https://www.quayswatersports.co.uk/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/quays_watersports/",
   "phone": null,
   "email": null,
   "address": null,
@@ -7287,7 +7333,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -7549,7 +7596,7 @@ window.SPOTS = [
   "cables": "Système 2 tours (System 2.0 / bi-poulie)",
   "website": "https://www.wakeupdocklands.com/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/wakeupdocklands/",
   "phone": null,
   "email": null,
   "address": "Dock Road, E16 1AG London",
@@ -7559,7 +7606,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -8270,7 +8318,7 @@ window.SPOTS = [
   "cables": "Système 2 tours (System 2.0 / bi-poulie)",
   "website": "http://www.sunislandwakepark.it/",
   "facebook": "https://SunislandWakePark",
-  "instagram": null,
+  "instagram": "https://www.instagram.com/sunisland_wakepark/",
   "phone": "+39 392 1760206",
   "email": null,
   "address": null,
@@ -8280,7 +8328,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -8719,7 +8768,7 @@ window.SPOTS = [
   "cables": "Système 2 tours (System 2.0 / bi-poulie)",
   "website": "https://www.gardawake.com/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/gardawakewatersports/",
   "phone": "+39 349 4076004",
   "email": "info@gardawake.com",
   "address": null,
@@ -8729,7 +8778,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "nearby"
  },
@@ -9117,7 +9167,7 @@ window.SPOTS = [
   "cables": null,
   "website": "https://www.rooyeplas.nl/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/derooyeplas/",
   "phone": null,
   "email": null,
   "address": "21 Haveltweg, 5423VV Handel",
@@ -9126,7 +9176,8 @@ window.SPOTS = [
   "prices": null,
   "notes": null,
   "sources": [
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "partial"
  },
@@ -9165,7 +9216,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts)",
   "website": "https://www.waterskitwente.nl/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/waterskitwente/",
   "phone": null,
   "email": null,
   "address": null,
@@ -9175,7 +9226,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  },
@@ -9190,7 +9242,7 @@ window.SPOTS = [
   "cables": "1 tracé(s) de câble relevé(s) sur OSM",
   "website": "https://www.zwembadweert.nl/waterskibaan/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/zwembaddeijzerenman/",
   "phone": null,
   "email": null,
   "address": null,
@@ -9199,7 +9251,8 @@ window.SPOTS = [
   "prices": null,
   "notes": null,
   "sources": [
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "partial"
  },
@@ -9314,7 +9367,7 @@ window.SPOTS = [
   "cables": "Téléski nautique full-size (5-6 mâts)",
   "website": "https://www.kabelskibaan.nl/",
   "facebook": null,
-  "instagram": null,
+  "instagram": "https://www.instagram.com/cableparkwollebrand/",
   "phone": null,
   "email": null,
   "address": null,
@@ -9324,7 +9377,8 @@ window.SPOTS = [
   "notes": null,
   "sources": [
    "waketricks",
-   "OpenStreetMap"
+   "OpenStreetMap",
+   "vérifié à la main"
   ],
   "dataQuality": "verified"
  }

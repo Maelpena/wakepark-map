@@ -22,7 +22,8 @@ chargés depuis le web. Les données des spots, elles, sont locales (`data/spots
 - **Filtrer par pays** — la carte se recadre automatiquement sur le pays choisi.
 - **Chercher** par nom de spot, ville ou pays (insensible aux accents : « barcares » trouve
   « Téléski du Barcarès »).
-- **Cliquer un spot** pour ouvrir sa fiche : installation, contacts, liens, itinéraire.
+- **Cliquer un spot** pour ouvrir sa fiche : installation, horaires, adresse, téléphone,
+  e-mail, coordonnées, et les liens vers le site, Instagram, Facebook et l'itinéraire.
 - Chaque spot a une **URL partageable** : `…/#spot=fr-tnd-47`.
 
 `Échap` ferme la fiche.
@@ -97,6 +98,7 @@ groupe de clustering échoue — tous les marqueurs disparaissent.
 | **tsn44.com**, **waketricks.com**, **likeepic.fr** | Le type de câble, les liens Facebook, les spots absents d'OSM. |
 | **Nominatim** | Géocodage de secours et orthographe officielle des communes. |
 | **`tools/overrides.json`** | Vérifications et contacts relevés à la main sur les sites officiels et les réseaux sociaux. |
+| **`tools/find_instagram.mjs`** | Récupère le HTML brut de chaque site et y cherche les URL `instagram.com`. 91 spots sur 373 ont ainsi un lien Instagram. |
 
 Le champ `dataQuality` indique la confiance, et la fiche l'affiche en clair :
 
@@ -128,10 +130,26 @@ Un cas reste incertain et est signalé dans sa fiche : **Wakelagoona** (Virelade
 site n'annonce plus que des sessions tractées bateau alors qu'un annuaire lui prête un
 bi-poulie.
 
+### Trouver les comptes Instagram
+
+`node tools/find_instagram.mjs` lit le **HTML brut** de chaque site et y cherche les URL
+`instagram.com`. Extraire le texte de la page ne suffit pas : les réseaux sociaux vivent
+dans des icônes de pied de page, dont les liens disparaissent à la conversion — cette
+méthode trouvait 12 % des comptes, la lecture du HTML en trouve 51 %.
+
+Le résultat atterrit dans `tools/instagram_found.json` et demande une **relecture**, car le
+scan ramène du bruit qu'aucune règle simple ne distingue : artefacts de l'éditeur du site
+(`wix`, `qodeinteractive`), comptes personnels de riders, compte du restaurant voisin, et
+surtout le compte d'une **autre base du même groupe** — `exo01_larena` apparaît sur les
+pages de Tencin et du Muy, qui sont deux autres bases. La sélection retenue est explicite
+dans `tools/apply_instagram.mjs`, qui la fusionne dans `overrides.json`.
+
 ### Limites connues
 
-- **Tarifs et horaires** ne sont renseignés que pour les spots vérifiés à la main (une
-  cinquantaine en France). Ailleurs ils sont vides — ils changent chaque saison.
+- La fiche n'affiche plus obstacles, services, saison ni tarifs : ces informations changent
+  chaque saison et n'étaient renseignées que sur une poignée de spots, si bien que la fiche
+  affichait surtout des « non renseigné ». Elles restent dans `data/spots.js`.
+- **Les horaires** ne sont renseignés que pour les spots vérifiés à la main.
 - Les 91 spots `approx` sont posés sur leur commune, pas sur le plan d'eau.
 - **Hors de France, la vérification manuelle n'a pas encore été faite** : des bases bateau
   ou des spots fermés peuvent subsister dans les 253 spots européens.

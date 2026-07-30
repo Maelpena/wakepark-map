@@ -1,0 +1,784 @@
+{
+ "at-fetzys-world-wasserskizentrum": {
+  "site": "https://www.fetzysworld.com/",
+  "nom": "Fetzys World Wasserskizentrum",
+  "comptes": []
+ },
+ "at-jetlake-feldkirchen": {
+  "site": "http://www.jetlake.com/lift/",
+  "nom": "Jetlake",
+  "comptes": []
+ },
+ "at-pywakepark": {
+  "site": "https://pywakepark.com/",
+  "nom": "PYwakepark",
+  "comptes": [
+   "pywakepark"
+  ]
+ },
+ "at-wakeboardlift-wien": {
+  "site": "https://www.wakeboardlift.at/",
+  "nom": "Wakeboardlift Wien",
+  "comptes": [
+   "wakeboardlift_wien"
+  ]
+ },
+ "at-wasserskischule-unterach": {
+  "site": "https://www.wasserschischule.at/",
+  "nom": "Wasserskischule Unterach",
+  "comptes": [
+   "wasserschischule"
+  ]
+ },
+ "at-waver-wasserskischule": {
+  "site": "https://www.waver.at/",
+  "nom": "WAVER Wasserskischule",
+  "comptes": [
+   "waverpoertschach"
+  ]
+ },
+ "be-dock-79": {
+  "site": "https://dock79.be",
+  "nom": "Dock 79",
+  "comptes": [
+   "dock_79_park"
+  ]
+ },
+ "be-goodlife-cablepark": {
+  "site": "https://www.goodlifecablepark.be/",
+  "nom": "Goodlife Cablepark",
+  "comptes": [
+   "goodlifecablepark"
+  ]
+ },
+ "be-lakeside-paradise": {
+  "site": "https://www.lakesideparadise.be/",
+  "nom": "Lakeside Paradise",
+  "comptes": []
+ },
+ "be-rbsc-wakepark-gent": {
+  "site": "https://www.wakepark.gent/",
+  "nom": "WakePark Gent",
+  "erreur": "fetch failed"
+ },
+ "ch-alphasurf": {
+  "site": "https://alphasurf.ch",
+  "nom": "Alphasurf",
+  "comptes": [
+   "alphasurf_"
+  ]
+ },
+ "ch-crans-montana-wakepark": {
+  "site": "https://www.cransmontana.ch/wakepark",
+  "nom": "Crans-Montana Wakepark",
+  "comptes": []
+ },
+ "ch-wakeboard-ch": {
+  "site": "http://www.wakeboard.ch",
+  "nom": "wakeboard.ch",
+  "comptes": []
+ },
+ "ch-wasserski-club-basel": {
+  "site": "https://www.wasserski-basel.ch/",
+  "nom": "Wasserski-Club Basel",
+  "comptes": [
+   "wasserskibasel"
+  ]
+ },
+ "de-1-wasserskiclub-hannover-e-v": {
+  "site": "https://www.wasserski-hannover.de",
+  "nom": "1. Wasserskiclub Hannover e.V.",
+  "comptes": []
+ },
+ "de-agora-erlebnis-muldestausee": {
+  "site": "https://agora-erlebnis-resort.de/wakepark/",
+  "nom": "Agora Erlebnis Muldestausee",
+  "comptes": [
+   "agora_erlebnis_resort"
+  ]
+ },
+ "de-beachclub-nethen": {
+  "site": "https://www.beachclub-nethen.de/wake",
+  "nom": "Beachclub Nethen",
+  "comptes": [
+   "wake_beachclub_nethen"
+  ]
+ },
+ "de-wasserskianlage-toeppersee": {
+  "site": "https://toeppersee.de/",
+  "nom": "Cafeteria & Wasserskianlage Toeppersee",
+  "comptes": [
+   "sunwakepark_toeppersee"
+  ]
+ },
+ "de-chill-and-wake-friedberg": {
+  "site": "https://www.chill-and-wake.de/",
+  "nom": "Chill and Wake Friedberg",
+  "comptes": [
+   "chillandwake"
+  ]
+ },
+ "de-dock5-wasserski-wakeboardpark-dueren": {
+  "site": "https://dock5.eu/",
+  "nom": "DOCK5 Wasserski- & Wakeboardpark Dueren",
+  "comptes": [
+   "dock5dn"
+  ]
+ },
+ "de-wasserski-wakeboard-gufi-see": {
+  "site": "https://www.wasserski-gundelfingen.de/index.html",
+  "nom": "GuFi-See Wasserski und Wakeboard",
+  "comptes": [
+   "gufisee"
+  ]
+ },
+ "de-joho-park-ribnitz-damgarten": {
+  "site": "https://JOHO Park GmbH",
+  "nom": "JoHo Park am Bernsteinsee",
+  "erreur": "Failed to parse URL from https://JOHO Park GmbH"
+ },
+ "de-hooksieler-skiterrassen": {
+  "site": "https://skiterrassen.de/",
+  "nom": "Little B.R.O.-Lift - Hooksieler Skiterrassen",
+  "comptes": [
+   "skiterrassen"
+  ]
+ },
+ "de-magix-wake-freizeitpark-grossbeeren": {
+  "site": "http://www.magix-wakeboarding.de",
+  "nom": "Magix Wakeboarding",
+  "comptes": [
+   "magixwakeboarding"
+  ]
+ },
+ "de-supieria-rostock": {
+  "site": "https://supieria.de",
+  "nom": "Supieria Rostock",
+  "comptes": []
+ },
+ "de-wake-and-beach-halbendorf": {
+  "site": "https://www.wakeboard-halbendorf.de/",
+  "nom": "Wake and Beach",
+  "comptes": []
+ },
+ "de-wake-and-camp-ruhlsdorf": {
+  "site": "https://wake-and-camp.de/",
+  "nom": "Wake and Camp Ruhlsdorf",
+  "comptes": []
+ },
+ "de-wake-beach-de": {
+  "site": "https://www.wake-beach.de/",
+  "nom": "Wake-Beach.de",
+  "comptes": [
+   "wake_beach",
+   "cara.caracaracara",
+   "noah_droege",
+   "pascov_official"
+  ]
+ },
+ "de-wakebeach-257": {
+  "site": "https://wakebeach.de/",
+  "nom": "Wakebeach 257",
+  "comptes": [
+   "wakebeach257"
+  ]
+ },
+ "de-wasserski-leipzig": {
+  "site": "https://www.wasserski-leipzig.de/",
+  "nom": "Wakeboard- & Wasserskilift Leipzig",
+  "comptes": []
+ },
+ "de-wasserski-wakeboarding-mannheim": {
+  "site": "http://www.wakeboarding-mannheim.de",
+  "nom": "Wakeboarding Mannheim",
+  "comptes": []
+ },
+ "de-wakepark-wolfsburg": {
+  "site": "https://www.wake-park.de/",
+  "nom": "Wakepark",
+  "comptes": [
+   "wakeparkwolfsburg"
+  ]
+ },
+ "de-wakepark-brombachsee": {
+  "site": "https://wakepark-brombachsee.de/",
+  "nom": "Wakepark Brombachsee",
+  "comptes": [
+   "wakeparkbrombachsee",
+   "kulturinsel.brombachsee"
+  ]
+ },
+ "de-wasserski-heede": {
+  "site": "https://www.wakeparkheede.de/",
+  "nom": "Wakepark Heede",
+  "erreur": "fetch failed"
+ },
+ "de-wakepark-pfullendorf": {
+  "site": "https://www.wasserskipark-pfullendorf.de/",
+  "nom": "Wakepark Pfullendorf",
+  "erreur": "HTTP 444"
+ },
+ "de-wakepark-thulba": {
+  "site": "https://www.wakepark-thulba.de/",
+  "nom": "WakePark Thulba",
+  "comptes": [
+   "wakeparkthulba",
+   "Wakeparkthulba"
+  ]
+ },
+ "de-wasserski-wakeboard-paradies-kirchheim": {
+  "site": "https://www.wasserski-kirchheim.de/",
+  "nom": "Wasserski & Wakeboard Paradies",
+  "comptes": []
+ },
+ "de-wasserski-wakeboard-park-suesel": {
+  "site": "https://suesel-seeparx.de/wakeboard-park",
+  "nom": "Wasserski & Wakeboard Park Suesel",
+  "comptes": [
+   "suesel_seeparx"
+  ]
+ },
+ "de-wasserski-bernsteinsee": {
+  "site": "https://www.wasserski-bernsteinsee.com/",
+  "nom": "Wasserski Bernsteinsee",
+  "erreur": "fetch failed"
+ },
+ "de-wasserski-friedenhainsee": {
+  "site": "https://www.friedenhainsee.de/wsbahn.htm",
+  "nom": "Wasserski Friedenhainsee",
+  "erreur": "HTTP 404"
+ },
+ "de-wasserski-wakeboard-hamburg": {
+  "site": "http://www.wasserski-hamburg.de/",
+  "nom": "Wasserski Hamburg",
+  "comptes": [
+   "wasserskiwakeboardhamburg"
+  ]
+ },
+ "de-wasserski-langenfeld": {
+  "site": "https://www.wasserski-langenfeld.de/",
+  "nom": "Wasserski Langenfeld",
+  "comptes": [
+   "wasserski_langenfeld"
+  ]
+ },
+ "de-wasserski-paderborn": {
+  "site": "https://www.wasserski-paderborn.de/",
+  "nom": "Wasserski Paderborn",
+  "comptes": [
+   "wasserski_paderborn"
+  ]
+ },
+ "de-wasserski-petersdorf": {
+  "site": "https://www.wasserskipark-zossen.de/",
+  "nom": "Wasserski Petersdorf",
+  "comptes": []
+ },
+ "de-wasserski-ruegen": {
+  "site": "https://wasserskiruegen.de/",
+  "nom": "Wasserski Ruegen",
+  "comptes": []
+ },
+ "de-wasserski-st-leon": {
+  "site": "https://www.wasserski-stleon.de/",
+  "nom": "Wasserski St. Leon Anfängerbahn",
+  "comptes": [
+   "wasserski_wakeboard_st.leon"
+  ]
+ },
+ "de-wasserski-und-motorbootclub-wetzlar": {
+  "site": "https://www.wmc-wetzlar.de/",
+  "nom": "Wasserski- und Motorbootclub Wetzlar",
+  "comptes": []
+ },
+ "de-wasserski-und-wakeboard-zentrum-heuchelheim": {
+  "site": "https://wasserski-heuchelheim.de/",
+  "nom": "Wasserski- und Wakeboard Zentrum Heuchelheim",
+  "comptes": [
+   "wwz_southlake",
+   "southlake_heuchelheim"
+  ]
+ },
+ "de-wasserskilift-dresden": {
+  "site": "https://cable-dresden.de/",
+  "nom": "Wasserski- und Wakeboardzentrum Dresden",
+  "comptes": [
+   "cable_dresden"
+  ]
+ },
+ "de-wasserski-und-wakeboard-park-jagel": {
+  "site": "https://www.wasserski-jagel.de/",
+  "nom": "Wasserski-Park Jagel",
+  "comptes": [
+   "wasserski_jagel"
+  ]
+ },
+ "de-pineapple-wakepark-rossau": {
+  "site": "https://www.wasserski-wakeboard-rossau.de",
+  "nom": "Wasserskianlage Rossau",
+  "comptes": []
+ },
+ "de-wasserskiclub-bremerhaven-e-v": {
+  "site": "http://www.wsc-bremerhaven.de",
+  "nom": "Wasserskiclub Bremerhaven e.V.",
+  "comptes": []
+ },
+ "de-wasserskiclub-kurpfalz": {
+  "site": "https://www.wsk-kurpfalz.de/",
+  "nom": "Wasserskiclub Kurpfalz",
+  "comptes": [
+   "wsk.kurpfalz"
+  ]
+ },
+ "de-wasserskiclub-luzin-feldberg": {
+  "site": "https://www.best-of-wasserski.de/",
+  "nom": "Wasserskiclub Luzin Feldberg",
+  "comptes": [
+   "wsc_luzin_feldberg"
+  ]
+ },
+ "de-wasserskiclub-wsc-mastholte": {
+  "site": "https://www.wwc-mastholte.de/",
+  "nom": "Wasserskiclub WSC Mastholte",
+  "comptes": []
+ },
+ "de-wasserskipark-aschheim": {
+  "site": "https://www.wasserskipark-aschheim.de/",
+  "nom": "Wasserskipark Aschheim",
+  "comptes": [
+   "wasserskipark_aschheim"
+  ]
+ },
+ "de-wasserskipark-damp": {
+  "site": "https://wasserski-damp.de/der-wasserskipark-damp/",
+  "nom": "Wasserskiseilbahn Damp",
+  "comptes": [
+   "wakepark_damp"
+  ]
+ },
+ "de-cable-park-twistesee": {
+  "site": "https://wasserski-twistesee.de/Kontakt",
+  "nom": "Wasserskizentrum Twistesee",
+  "erreur": "HTTP 404"
+ },
+ "de-wet-wild-cablepark-velten": {
+  "site": "https://www.wakeboard-berlin.de/",
+  "nom": "Wet & Wild Cablepark Velten",
+  "comptes": [
+   "wakepark_berlin_velten"
+  ]
+ },
+ "de-wildwakepark-steinberg-am-see": {
+  "site": "http://www.wildwakeski.de/",
+  "nom": "WildWakePark Steinberg am See",
+  "comptes": [
+   "wildwakepark"
+  ]
+ },
+ "es-fornelos-wake-club": {
+  "site": "https://forneloswakeclub.com/",
+  "nom": "Fornelos Wake Club - Cable Park Wakeboarding",
+  "erreur": "HTTP 403"
+ },
+ "fr-addict-wake-park": {
+  "site": "http://www.addict-wake.fr/",
+  "nom": "Addict Wake & HydroFoil Park Grenoble Moirans",
+  "erreur": "fetch failed"
+ },
+ "fr-aloha-wakepark": {
+  "site": "https://www.alohawakepark.com",
+  "nom": "Aloha Wakepark",
+  "comptes": []
+ },
+ "fr-awake-park": {
+  "site": "https://awakeparktoulouse.wixsite.com/toulouse",
+  "nom": "Awake Park",
+  "comptes": [
+   "sylvain_awakepark"
+  ]
+ },
+ "fr-bzh-wakepark-bretagne": {
+  "site": "https://lasourcewakepark.fr",
+  "nom": "BZH Wake Park",
+  "comptes": [
+   "la_source_wake_park",
+   "rivage_restaurant_cosmopolite"
+  ]
+ },
+ "fr-cap-d-agde-wakepark": {
+  "site": "https://wakebeach.fr/",
+  "nom": "Cap d'Agde Wakepark",
+  "erreur": "fetch failed"
+ },
+ "fr-cap-decouverte-wakepark": {
+  "site": "https://vert-marine.com",
+  "nom": "Cap Découverte",
+  "erreur": "fetch failed"
+ },
+ "fr-castor-wake-park": {
+  "site": "https://www.castorwakepark.com/",
+  "nom": "Castor Wakepark",
+  "comptes": []
+ },
+ "fr-exo-38-wakepark-tencin": {
+  "site": "https://exoloisirs.com",
+  "nom": "EXO 38 Wakepark Tencin",
+  "comptes": [
+   "exo01_larena"
+  ]
+ },
+ "fr-exo-64-sames": {
+  "site": "https://www.exoloisirs.com/fr/content/exo-64-tnsames",
+  "nom": "EXO 64 Sames",
+  "erreur": "HTTP 403"
+ },
+ "fr-exo-84-lamotte": {
+  "site": "https://www.exoloisirs.com/fr/content/exo-84-la-motte",
+  "nom": "EXO 84",
+  "erreur": "HTTP 404"
+ },
+ "fr-off-axis-wake": {
+  "site": "https://www.extremridepark.com/fr/",
+  "nom": "eXtrem Ride Park Off Axis",
+  "erreur": "fetch failed"
+ },
+ "fr-brumath-aventure-wakepark": {
+  "site": "https://www.fun-parc-brumath.fr/",
+  "nom": "Fun Parc Brumath",
+  "comptes": [
+   "funparcbrumath"
+  ]
+ },
+ "fr-wakepark-lacanau": {
+  "site": "https://www.iwakepark.fr/wakepark-lacanau.html",
+  "nom": "I Wakepark Lacanau",
+  "comptes": []
+ },
+ "fr-koba-wake-park": {
+  "site": "https://www.kobawakepark.fr",
+  "nom": "Koba Wake Park",
+  "comptes": []
+ },
+ "fr-lake-wake-park": {
+  "site": "https://wakeandski87.fr/lake-wakepark-teleski-saint-pardoux/",
+  "nom": "Lake Wake Park",
+  "comptes": []
+ },
+ "fr-lakecity-33": {
+  "site": "https://lakecity.fr",
+  "nom": "Lakecity",
+  "comptes": []
+ },
+ "fr-martinique-wake-park": {
+  "site": "https://www.martiniquewakepark.com/",
+  "nom": "Martinique Wake Park",
+  "comptes": []
+ },
+ "fr-paris-wakepark": {
+  "site": "https://lasourcewakepark.fr",
+  "nom": "Paris Wakepark",
+  "comptes": [
+   "la_source_wake_park",
+   "rivage_restaurant_cosmopolite"
+  ]
+ },
+ "fr-poule-wake-park": {
+  "site": "https://www.poulewakepark.net/",
+  "nom": "Poule Wake Park",
+  "comptes": [
+   "poulewakepark",
+   "wix"
+  ]
+ },
+ "fr-rille-wake-park": {
+  "site": "https://rillewakepark.fr/",
+  "nom": "Rillé Wake Park",
+  "comptes": []
+ },
+ "fr-south-wake-park": {
+  "site": "https://southwakepark.fr",
+  "nom": "South Wake Park",
+  "comptes": []
+ },
+ "fr-teleski-nautique-2": {
+  "site": "https://www.saintgillescroixdevie-nautisme.fr/semvie-nautisme-accueil/wakepark/",
+  "nom": "Téléski nautique",
+  "comptes": [
+   "sgcvnautisme85",
+   "qodeinteractive"
+  ]
+ },
+ "fr-teleski-nautique-de-cany-barville": {
+  "site": "https://lacdecaniel.fr",
+  "nom": "Teleski Nautique de Cany-Barville",
+  "comptes": [
+   "wix"
+  ]
+ },
+ "fr-teleski-nautique-de-lery-poses": {
+  "site": "https://lery-poses.fr",
+  "nom": "Téléski nautique de Léry-Poses",
+  "comptes": [
+   "leryposes"
+  ]
+ },
+ "fr-base-nautique-de-mercus": {
+  "site": "https://basenautiquemercus.fr/public/?code=le-teleski-nautique",
+  "nom": "Téléski nautique de Mercus",
+  "erreur": "HTTP 404"
+ },
+ "fr-teleski-nautique-de-saujon": {
+  "site": "https://teleskisaujon.fr",
+  "nom": "Téléski Nautique de Saujon",
+  "comptes": []
+ },
+ "fr-wam-park-sesquieres-toulouse": {
+  "site": "https://www.wampark.fr/toulouse-sesquieres/",
+  "nom": "Téléski Toulouse",
+  "comptes": []
+ },
+ "fr-tiki-wake-park": {
+  "site": "https://espritnaturecorreze.com/",
+  "nom": "Tiki Wake Park",
+  "comptes": [
+   "esprit_nature19"
+  ]
+ },
+ "fr-tna-cablepark": {
+  "site": "https://tnacablepark.com",
+  "nom": "TNA",
+  "comptes": [
+   "tna.cablepark"
+  ]
+ },
+ "fr-tnd-47": {
+  "site": "https://tnd47.com",
+  "nom": "TND 47",
+  "erreur": "HTTP 403"
+ },
+ "fr-totem-wake-park": {
+  "site": "https://www.lelac.fr/",
+  "nom": "Totem Wake Park",
+  "comptes": []
+ },
+ "fr-tsn-44-saint-viaud": {
+  "site": "https://tsn44.com",
+  "nom": "TSN 44 Saint-Viaud",
+  "comptes": [
+   "tsnconcept"
+  ]
+ },
+ "fr-tsn-44-2-nozay": {
+  "site": "https://tsn44.com",
+  "nom": "TSN 44.2 Nozay",
+  "comptes": [
+   "tsnconcept"
+  ]
+ },
+ "fr-wake-park-plesse": {
+  "site": "https://wakeparkplesse.com/",
+  "nom": "Wake Park Plessé",
+  "comptes": []
+ },
+ "fr-la-rincerie-wakepark": {
+  "site": "https://wakepark-rincerie.com",
+  "nom": "Wakepark de la Rincerie",
+  "erreur": "fetch failed"
+ },
+ "fr-wam-park-orange": {
+  "site": "https://wampark.fr",
+  "nom": "Wam park",
+  "comptes": []
+ },
+ "fr-wam-park-88": {
+  "site": "https://www.wampark.fr/vosges-thaon/",
+  "nom": "WAM Park - Vosges",
+  "comptes": [
+   "wampark_vosges"
+  ]
+ },
+ "fr-wam-park-73": {
+  "site": "https://wam73.fr",
+  "nom": "WAM Park 73",
+  "erreur": "fetch failed"
+ },
+ "fr-cablepark-avensan": {
+  "site": "https://www.wampark.fr/base/bordeaux-nord-avensan/",
+  "nom": "WAM PARK Bordeaux Nord - Avensan",
+  "comptes": [
+   "wampark_avensan"
+  ]
+ },
+ "fr-exo-33-baurech": {
+  "site": "https://www.wampark.fr/base/bordeaux-sud-baurech/",
+  "nom": "WAM PARK Bordeaux Sud - Baurech",
+  "comptes": [
+   "wampark_baurech"
+  ]
+ },
+ "fr-wam-park-montauban": {
+  "site": "https://wampark.fr",
+  "nom": "Wam Park Bressols",
+  "comptes": []
+ },
+ "fr-wam-park-69": {
+  "site": "https://www.wampark.fr/lyon-condrieu/",
+  "nom": "Wam Park Condrieu",
+  "comptes": [
+   "wampark_lyoncondrieu"
+  ]
+ },
+ "fr-exo-83-le-muy": {
+  "site": "https://exoloisirs.com",
+  "nom": "WAM PARK Fréjus - Le Muy",
+  "comptes": [
+   "exo01_larena"
+  ]
+ },
+ "fr-west-wake-park": {
+  "site": "https://westwakepark.fr",
+  "nom": "West Wake Park",
+  "comptes": []
+ },
+ "gb-loch-earn-wakeschool": {
+  "site": "https://www.lochearnwakeschool.co.uk/",
+  "nom": "Loch Earn Wakeschool",
+  "comptes": [
+   "lochearnwakeschool"
+  ]
+ },
+ "gb-pier-52-watersports": {
+  "site": "http://www.pier52.co.uk/",
+  "nom": "Pier 52",
+  "comptes": [
+   "pier52watersports"
+  ]
+ },
+ "gb-plastic-playground-wake-park": {
+  "site": "https://www.plasticplayground.co.uk/",
+  "nom": "Plastic Playground Wake Park",
+  "comptes": [
+   "splashkingdomwindsor",
+   "liquidleisurewakepark"
+  ]
+ },
+ "gb-port-haverigg-wakepark": {
+  "site": "https://www.porthaveriggwakepark.co.uk/",
+  "nom": "Port Haverigg Wakepark",
+  "comptes": []
+ },
+ "gb-quays-watersports": {
+  "site": "https://www.quayswatersports.co.uk/",
+  "nom": "Quays Water Sports",
+  "comptes": [
+   "quays_watersports"
+  ]
+ },
+ "gb-tony-edge-national-centre": {
+  "site": "https://www.bdwwa.org/hl",
+  "nom": "Tony Edge National Centre",
+  "erreur": "fetch failed"
+ },
+ "gb-wakeup-docklands": {
+  "site": "https://www.wakeupdocklands.com/",
+  "nom": "Wakeup Docklands",
+  "comptes": [
+   "wakeupdocklands"
+  ]
+ },
+ "gb-white-rose-water-ski-club": {
+  "site": "https://www.whiterosewaterski.com/",
+  "nom": "White Rose Water Ski Club",
+  "comptes": []
+ },
+ "gb-wild-shore-dundee": {
+  "site": "https://www.foxlakedundee.co.uk/info/gettinghere/",
+  "nom": "Wild Shore Dundee",
+  "erreur": "fetch failed"
+ },
+ "it-starwake-full-size-cable-wakeboard-park": {
+  "site": "http://www.starwakepark.com",
+  "nom": "Starwake Park",
+  "erreur": "fetch failed"
+ },
+ "it-sunisland-wake-park": {
+  "site": "http://www.sunislandwakepark.it/",
+  "nom": "Sunisland Wake Park",
+  "comptes": [
+   "iamirez",
+   "dario_sunislandwakepark",
+   "seby_greco__",
+   "gianlucatarro",
+   "rene_pompigna",
+   "federicotarro",
+   "lucia__sciuto",
+   "valentinasicuso",
+   "dome__sun",
+   "giorginss88",
+   "makiwin",
+   "arturocosentino",
+   "sunisland_wakepark"
+  ]
+ },
+ "it-veneto-cable-park": {
+  "site": "https://www.venetocablepark.com/",
+  "nom": "Veneto Cable Park",
+  "erreur": "HTTP 403"
+ },
+ "it-wakepark-cable-7": {
+  "site": "http://wakepark-cable7.com",
+  "nom": "Wakepark Cable 7",
+  "erreur": "fetch failed"
+ },
+ "it-wallygator-veronello-wakepark": {
+  "site": "https://www.gardawake.com/",
+  "nom": "Wallygator Veronello Wakepark",
+  "comptes": [
+   "gardawakewatersports"
+  ]
+ },
+ "it-wsa-wakeboarding-sardinia-association": {
+  "site": "http://www.wakeboardsardegna.com/",
+  "nom": "WSA Wakeboarding Sardinia Association",
+  "erreur": "fetch failed"
+ },
+ "nl-burnside-cable-park": {
+  "site": "https://www.burnsidecablepark.nl/",
+  "nom": "Burnside Cablepark",
+  "comptes": []
+ },
+ "nl-wakepark-groningen": {
+  "site": "https://wakeparkgroningen.nl",
+  "nom": "Wake Park Groningen",
+  "erreur": "HTTP 500"
+ },
+ "nl-waterski-wakeboardcentrum-de-rooye-plas": {
+  "site": "https://www.rooyeplas.nl/",
+  "nom": "Waterski & Wakeboardcentrum De Rooye Plas",
+  "comptes": [
+   "derooyeplas"
+  ]
+ },
+ "nl-waterski-twente": {
+  "site": "https://www.waterskitwente.nl/",
+  "nom": "Waterski Twente",
+  "comptes": [
+   "waterskitwente"
+  ]
+ },
+ "nl-waterskibaan-ijzeren-man": {
+  "site": "https://www.zwembadweert.nl/waterskibaan/",
+  "nom": "Waterskibaan IJzeren Man",
+  "comptes": [
+   "zwembaddeijzerenman"
+  ]
+ },
+ "nl-wollebrand-cablepark": {
+  "site": "https://www.kabelskibaan.nl/",
+  "nom": "Wollebrand Cablepark",
+  "comptes": [
+   "cableparkwollebrand",
+   "wollebrand_lakehouse"
+  ]
+ }
+}

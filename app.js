@@ -276,22 +276,17 @@ function showDetail(s) {
   links.push(`<a href="https://www.google.com/maps/search/?api=1&query=${s.lat},${s.lng}" target="_blank" rel="noopener">Itinéraire</a>`);
   links.push(`<a href="https://www.google.com/search?q=${encodeURIComponent(s.name + ' wakepark ' + (s.city || ''))}" target="_blank" rel="noopener">Rechercher</a>`);
 
-  const services = [
-    s.school === true ? 'école / cours' : null,
-    s.rental === true ? 'location de matériel' : null,
-  ].filter(Boolean);
-
+  /* Fiche volontairement resserrée : obstacles, services, saison et tarifs ont été retirés.
+     Ces informations changent chaque saison et n'étaient renseignées que sur une poignée de
+     spots — la fiche affichait donc surtout des « non renseigné ». Elles restent dans les
+     données (data/spots.js) pour qui voudrait les réafficher. */
   el.detailBody.innerHTML = `
     <h2>${escapeHtml(s.name)}</h2>
     <p class="d-place">${escapeHtml(place)}</p>
     <span class="badge b-${s.type}">${escapeHtml(TYPE_LABEL[s.type])}</span>
     <dl>
       ${row('Installation', s.cables)}
-      ${row('Obstacles', s.obstacles)}
-      ${row('Services', services)}
-      ${row('Saison', s.season)}
       ${row('Horaires', s.openingHours)}
-      ${row('Tarifs', s.prices)}
       ${row('Adresse', s.address)}
       ${row('Téléphone', s.phone ? `<a href="tel:${attr(s.phone.replace(/\s/g, ''))}">${escapeHtml(s.phone)}</a>` : '', true)}
       ${row('E-mail', s.email ? `<a href="mailto:${attr(s.email)}">${escapeHtml(s.email)}</a>` : '', true)}

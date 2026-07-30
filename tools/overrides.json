@@ -34,13 +34,11 @@
   "action": "drop",
   "notes": "le « wakepark d'Hossegor » des listings désigne l'EXO 64 du lac de Sames, déjà présent"
  },
-
  {
   "id": "fr-gsnw-club-de-ski-nautique-et-wakeboard",
   "action": "drop",
   "notes": "Club Ski Nautique Gazelec : ski et wakeboard tractés bateau, pas de câble"
  },
-
  {
   "id": "fr-mtd-wakepark",
   "address": "Base de loisirs du lac Baron-Desqueyroux, 17130 Montendre",
@@ -129,7 +127,8 @@
   "website": "https://www.saintgillescroixdevie-nautisme.fr/semvie-nautisme-accueil/wakepark/",
   "prices": "100 € l'heure de câble privatisé, encadrement et matériel compris",
   "cables": "Câble de 200 m (bi-poulie)",
-  "notes": "Wakepark du centre nautique de Saint-Gilles-Croix-de-Vie (Semvie Nautisme)"
+  "notes": "Wakepark du centre nautique de Saint-Gilles-Croix-de-Vie (Semvie Nautisme)",
+  "instagram": "https://www.instagram.com/sgcvnautisme85/"
  },
  {
   "id": "fr-teleski-nautique-wakeboard",
@@ -138,7 +137,6 @@
   "cables": "Téléski à deux pylônes (bi-poulie)",
   "notes": "Téléski sur le lac du camping Les Alicourts (Sandaya), en Sologne"
  },
-
  {
   "id": "fr-aloha-wakepark",
   "address": "Étang du Maupas, 85360 La Tranche-sur-Mer",
@@ -213,9 +211,9 @@
  },
  {
   "id": "fr-brumath-aventure-wakepark",
-  "website": "https://www.fun-parc-brumath.fr/"
+  "website": "https://www.fun-parc-brumath.fr/",
+  "instagram": "https://www.instagram.com/funparcbrumath/"
  },
-
  {
   "id": "fr-martinique-wake-park",
   "type": "system2",
@@ -268,7 +266,8 @@
   "website": "https://www.poulewakepark.net/",
   "openingHours": "Lundi et mercredi 11h - 20h, jeudi au dimanche 11h - 21h30, fermé le mardi",
   "cables": "Sesitec System 2.0 HD — le plus long bi-poulie existant",
-  "notes": "Aussi trampoline, skate, slackline, pétanque et paddle sur place"
+  "notes": "Aussi trampoline, skate, slackline, pétanque et paddle sur place",
+  "instagram": "https://www.instagram.com/poulewakepark/"
  },
  {
   "id": "fr-addict-wake-park",
@@ -287,7 +286,6 @@
   "cables": "Sesitec System 2.0 bi-poulie, en service depuis 2005",
   "notes": "À 10 min de Toulouse ; ouvert tous les jours, réservation conseillée"
  },
-
  {
   "id": "fr-teleski-nautique-de-saujon",
   "address": "Voie Pied de Talus, 17600 Saujon",
@@ -307,7 +305,8 @@
   "phone": "07 59 62 29 95",
   "email": "tna.cablepark@gmail.com",
   "season": "1er avril au 27 septembre",
-  "notes": "Structure familiale : vitesse réduite pour les débutants de juin à septembre, plus de 20 modules pour les confirmés, aquaparc en juin"
+  "notes": "Structure familiale : vitesse réduite pour les débutants de juin à septembre, plus de 20 modules pour les confirmés, aquaparc en juin",
+  "instagram": "https://www.instagram.com/tna.cablepark/"
  },
  {
   "id": "fr-tnco-teleski-nautique-cote-d-or",
@@ -317,7 +316,6 @@
   "instagram": "https://www.instagram.com/tnco_21/",
   "notes": "Base de 30 ha, à partir de 10 ans, sans réservation ; vitesse réduite le mercredi"
  },
-
  {
   "id": "fr-tiki-wake-park",
   "type": "system2",
@@ -325,7 +323,8 @@
   "phone": "06 74 59 05 00",
   "website": "https://espritnaturecorreze.com/",
   "openingHours": "Juillet-août tous les jours sauf lundi, 13h - 19h",
-  "cables": "Bi-poulie sur le lac de Bournazel"
+  "cables": "Bi-poulie sur le lac de Bournazel",
+  "instagram": "https://www.instagram.com/esprit_nature19/"
  },
  {
   "id": "fr-teleski-nautique-du-barcares",
@@ -379,7 +378,6 @@
   "cables": "-",
   "notes": "⚠ Le site n'annonce que des sessions tractées bateau (deux bateaux) sur lac privé : la présence d'un bi-poulie, mentionnée par l'annuaire tsn44, n'est pas confirmée. À 25 min de Bordeaux"
  },
-
  {
   "id": "fr-la-source-wake-park",
   "address": "Route de Peyssies, lieu-dit Baudéan, 31390 Carbonne",
@@ -433,7 +431,6 @@
   "website": "-",
   "notes": "Le domaine woodwakepark79.com n'est plus actif : statut à confirmer"
  },
-
  {
   "id": "es-lunar-cable-park",
   "address": "Ctra. el Pantano, Pol. 12, 04610 Cuevas del Almanzora, Almería",
@@ -444,5 +441,221 @@
   "openingHours": "Lundi au dimanche 10h - 20h, samedi jusqu'à 21h",
   "cables": "Téléski full-size à 5 mâts sur un lac de 600 m, plus un System 2.0",
   "notes": "⚠ Position approchée : le parc se trouve sur la route du barrage (Ctra. el Pantano), au nord-ouest du bourg, mais son plan d'eau n'est pas cartographié dans OpenStreetMap. Aussi wakesurf, parc gonflable, paddle et kayak"
+ },
+ {
+  "id": "at-pywakepark",
+  "instagram": "https://www.instagram.com/pywakepark/"
+ },
+ {
+  "id": "at-wakeboardlift-wien",
+  "instagram": "https://www.instagram.com/wakeboardlift_wien/"
+ },
+ {
+  "id": "at-wasserskischule-unterach",
+  "instagram": "https://www.instagram.com/wasserschischule/"
+ },
+ {
+  "id": "at-waver-wasserskischule",
+  "instagram": "https://www.instagram.com/waverpoertschach/"
+ },
+ {
+  "id": "be-dock-79",
+  "instagram": "https://www.instagram.com/dock_79_park/"
+ },
+ {
+  "id": "be-goodlife-cablepark",
+  "instagram": "https://www.instagram.com/goodlifecablepark/"
+ },
+ {
+  "id": "ch-alphasurf",
+  "instagram": "https://www.instagram.com/alphasurf_/"
+ },
+ {
+  "id": "ch-wasserski-club-basel",
+  "instagram": "https://www.instagram.com/wasserskibasel/"
+ },
+ {
+  "id": "de-agora-erlebnis-muldestausee",
+  "instagram": "https://www.instagram.com/agora_erlebnis_resort/"
+ },
+ {
+  "id": "de-beachclub-nethen",
+  "instagram": "https://www.instagram.com/wake_beachclub_nethen/"
+ },
+ {
+  "id": "de-wasserskianlage-toeppersee",
+  "instagram": "https://www.instagram.com/sunwakepark_toeppersee/"
+ },
+ {
+  "id": "de-chill-and-wake-friedberg",
+  "instagram": "https://www.instagram.com/chillandwake/"
+ },
+ {
+  "id": "de-dock5-wasserski-wakeboardpark-dueren",
+  "instagram": "https://www.instagram.com/dock5dn/"
+ },
+ {
+  "id": "de-wasserski-wakeboard-gufi-see",
+  "instagram": "https://www.instagram.com/gufisee/"
+ },
+ {
+  "id": "de-hooksieler-skiterrassen",
+  "instagram": "https://www.instagram.com/skiterrassen/"
+ },
+ {
+  "id": "de-magix-wake-freizeitpark-grossbeeren",
+  "instagram": "https://www.instagram.com/magixwakeboarding/"
+ },
+ {
+  "id": "de-wake-beach-de",
+  "instagram": "https://www.instagram.com/wake_beach/"
+ },
+ {
+  "id": "de-wakebeach-257",
+  "instagram": "https://www.instagram.com/wakebeach257/"
+ },
+ {
+  "id": "de-wakepark-wolfsburg",
+  "instagram": "https://www.instagram.com/wakeparkwolfsburg/"
+ },
+ {
+  "id": "de-wakepark-brombachsee",
+  "instagram": "https://www.instagram.com/wakeparkbrombachsee/"
+ },
+ {
+  "id": "de-wakepark-thulba",
+  "instagram": "https://www.instagram.com/wakeparkthulba/"
+ },
+ {
+  "id": "de-wasserski-wakeboard-park-suesel",
+  "instagram": "https://www.instagram.com/suesel_seeparx/"
+ },
+ {
+  "id": "de-wasserski-wakeboard-hamburg",
+  "instagram": "https://www.instagram.com/wasserskiwakeboardhamburg/"
+ },
+ {
+  "id": "de-wasserski-langenfeld",
+  "instagram": "https://www.instagram.com/wasserski_langenfeld/"
+ },
+ {
+  "id": "de-wasserski-paderborn",
+  "instagram": "https://www.instagram.com/wasserski_paderborn/"
+ },
+ {
+  "id": "de-wasserski-st-leon",
+  "instagram": "https://www.instagram.com/wasserski_wakeboard_st.leon/"
+ },
+ {
+  "id": "de-wasserski-und-wakeboard-zentrum-heuchelheim",
+  "instagram": "https://www.instagram.com/southlake_heuchelheim/"
+ },
+ {
+  "id": "de-wasserskilift-dresden",
+  "instagram": "https://www.instagram.com/cable_dresden/"
+ },
+ {
+  "id": "de-wasserski-und-wakeboard-park-jagel",
+  "instagram": "https://www.instagram.com/wasserski_jagel/"
+ },
+ {
+  "id": "de-wasserskiclub-kurpfalz",
+  "instagram": "https://www.instagram.com/wsk.kurpfalz/"
+ },
+ {
+  "id": "de-wasserskiclub-luzin-feldberg",
+  "instagram": "https://www.instagram.com/wsc_luzin_feldberg/"
+ },
+ {
+  "id": "de-wasserskipark-aschheim",
+  "instagram": "https://www.instagram.com/wasserskipark_aschheim/"
+ },
+ {
+  "id": "de-wasserskipark-damp",
+  "instagram": "https://www.instagram.com/wakepark_damp/"
+ },
+ {
+  "id": "de-wet-wild-cablepark-velten",
+  "instagram": "https://www.instagram.com/wakepark_berlin_velten/"
+ },
+ {
+  "id": "de-wildwakepark-steinberg-am-see",
+  "instagram": "https://www.instagram.com/wildwakepark/"
+ },
+ {
+  "id": "fr-awake-park",
+  "instagram": "https://www.instagram.com/sylvain_awakepark/"
+ },
+ {
+  "id": "fr-teleski-nautique-de-lery-poses",
+  "instagram": "https://www.instagram.com/leryposes/"
+ },
+ {
+  "id": "fr-tsn-44-saint-viaud",
+  "instagram": "https://www.instagram.com/tsnconcept/"
+ },
+ {
+  "id": "fr-tsn-44-2-nozay",
+  "instagram": "https://www.instagram.com/tsnconcept/"
+ },
+ {
+  "id": "fr-wam-park-88",
+  "instagram": "https://www.instagram.com/wampark_vosges/"
+ },
+ {
+  "id": "fr-cablepark-avensan",
+  "instagram": "https://www.instagram.com/wampark_avensan/"
+ },
+ {
+  "id": "fr-exo-33-baurech",
+  "instagram": "https://www.instagram.com/wampark_baurech/"
+ },
+ {
+  "id": "fr-wam-park-69",
+  "instagram": "https://www.instagram.com/wampark_lyoncondrieu/"
+ },
+ {
+  "id": "gb-loch-earn-wakeschool",
+  "instagram": "https://www.instagram.com/lochearnwakeschool/"
+ },
+ {
+  "id": "gb-pier-52-watersports",
+  "instagram": "https://www.instagram.com/pier52watersports/"
+ },
+ {
+  "id": "gb-plastic-playground-wake-park",
+  "instagram": "https://www.instagram.com/liquidleisurewakepark/"
+ },
+ {
+  "id": "gb-quays-watersports",
+  "instagram": "https://www.instagram.com/quays_watersports/"
+ },
+ {
+  "id": "gb-wakeup-docklands",
+  "instagram": "https://www.instagram.com/wakeupdocklands/"
+ },
+ {
+  "id": "it-sunisland-wake-park",
+  "instagram": "https://www.instagram.com/sunisland_wakepark/"
+ },
+ {
+  "id": "it-wallygator-veronello-wakepark",
+  "instagram": "https://www.instagram.com/gardawakewatersports/"
+ },
+ {
+  "id": "nl-waterski-wakeboardcentrum-de-rooye-plas",
+  "instagram": "https://www.instagram.com/derooyeplas/"
+ },
+ {
+  "id": "nl-waterski-twente",
+  "instagram": "https://www.instagram.com/waterskitwente/"
+ },
+ {
+  "id": "nl-waterskibaan-ijzeren-man",
+  "instagram": "https://www.instagram.com/zwembaddeijzerenman/"
+ },
+ {
+  "id": "nl-wollebrand-cablepark",
+  "instagram": "https://www.instagram.com/cableparkwollebrand/"
  }
 ]
